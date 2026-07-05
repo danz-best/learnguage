@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden; /* never scroll sideways on a phone */
+}
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
         'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
@@ -548,50 +553,41 @@ footer {
 
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
-    .container {
-        padding: 20px;
-    }
+    body { padding: 10px; }
+    .container { padding: 16px; }
+    h1 { font-size: 2rem; }
+    .stats-grid { grid-template-columns: 1fr; }
 
-    h1 {
-        font-size: 2rem;
-    }
-
-    .italian-word {
-        font-size: 2rem;
-    }
-
-    .letter-hint {
-        font-size: 1.5rem;
-    }
-
-    .button-group {
-        flex-direction: column;
-    }
-
-    .button-group .btn {
-        width: 100%;
-    }
-
-    .stats-grid {
-        grid-template-columns: 1fr;
-    }
-
+    /* Session: keep everything compact and high on the screen so the on-screen
+       keyboard doesn't push the word off the top when the input is focused. */
     .session-header {
-        flex-direction: column;
-        align-items: flex-start;
+        flex-flow: row wrap;
+        align-items: center;
+        margin-bottom: 12px;
+        gap: 4px 14px;
     }
+    .session-header h1 { font-size: 1.1rem; width: 100%; order: 3; margin: 0; }
+
+    .word-card { min-height: auto; margin-bottom: 14px; }
+    .italian-word { font-size: 2rem; margin-bottom: 8px; }
+    .hint { font-size: 1rem; margin-top: 6px; }
+    .letter-hint { font-size: 1.4rem; }
+
+    .answer-section { margin-bottom: 12px; }
+    #answer-input { margin-bottom: 10px; }
+
+    .feedback { padding: 12px 14px; margin-bottom: 12px; gap: 10px; }
+    .feedback-icon { font-size: 1.5rem; }
+    .feedback-message { font-size: 1rem; }
+
+    /* Keep the three action buttons on one row to save vertical space. */
+    .button-group { gap: 8px; }
+    .button-group .btn { flex: 1; min-width: 0; padding: 12px 8px; font-size: 0.95rem; }
 }
 
 @media (max-width: 480px) {
-    h1 {
-        font-size: 1.5rem;
-    }
-
-    .italian-word {
-        font-size: 1.5rem;
-    }
-
-    #answer-input {
-        font-size: 1rem;
-    }
+    .session-header h1 { font-size: 1.05rem; }
+    .italian-word { font-size: 1.8rem; }
+    #answer-input { font-size: 1.05rem; padding: 12px 14px; }
+    .letter-hint { font-size: 1.25rem; letter-spacing: 0.3rem; }
 }
