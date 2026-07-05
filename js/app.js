@@ -4,7 +4,7 @@ let currentWordIndex = 0;
 let retryQueue = [];
 let endOfSessionQueue = []; // Words to show at very end
 let failedWords = []; // Words that failed in this session (for wrong-words queue)
-let autoPronounce = false; // Auto-pronounce toggle
+let autoPronounce = localStorage.getItem('learnguage_autopronounce') !== 'false'; // default ON
 let inputLocked = false;   // soft lock during feedback (keeps iOS keyboard up vs. disabling)
 let sessionStats = {
     correct: 0,
@@ -489,6 +489,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     const autoPronounceCheckbox = document.getElementById('auto-pronounce-checkbox');
     if (autoPronounceCheckbox) {
-        autoPronounceCheckbox.addEventListener('change', (e) => { autoPronounce = e.target.checked; });
+        autoPronounceCheckbox.checked = autoPronounce;
+        autoPronounceCheckbox.addEventListener('change', (e) => {
+            autoPronounce = e.target.checked;
+            localStorage.setItem('learnguage_autopronounce', autoPronounce);
+        });
     }
 });

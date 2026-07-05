@@ -1,5 +1,5 @@
 /* LearnGuage service worker - precache everything for full offline use. */
-const CACHE = 'learnguage-v7';
+const CACHE = 'learnguage-v8';
 
 const ASSETS = [
   './',
