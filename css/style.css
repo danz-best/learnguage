@@ -17,7 +17,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
-    padding: 20px;
+    /* Clear the iPhone Dynamic Island / notch and home bar (safe-area insets). */
+    padding: max(20px, env(safe-area-inset-top)) max(20px, env(safe-area-inset-right))
+             max(20px, env(safe-area-inset-bottom)) max(20px, env(safe-area-inset-left));
 }
 
 .container {
@@ -553,7 +555,11 @@ footer {
 
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
-    body { padding: 10px; }
+    body {
+        /* keep it compact, but push below the Dynamic Island at the top */
+        padding: calc(env(safe-area-inset-top) + 12px) max(10px, env(safe-area-inset-right))
+                 max(10px, env(safe-area-inset-bottom)) max(10px, env(safe-area-inset-left));
+    }
     .container { padding: 16px; }
     h1 { font-size: 2rem; }
     .stats-grid { grid-template-columns: 1fr; }
