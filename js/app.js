@@ -38,13 +38,22 @@ const totalWordsElem = document.getElementById('total-words');
 let currentWord = null;
 let currentAttempts = 0;
 
-// ----- iOS audio unlock: one shared AudioContext, resumed on first gesture -----
-let sharedAudioCtx = null;
+// ----- tick sound -----
+// Uses an HTMLAudio element (media channel) instead of Web Audio, so it stays
+// audible on iPhone even when the ring/silent switch is ON.
+const TICK_SRC = 'data:audio/wav;base64,' + TICK_B64;
+const tickAudio = new Audio(TICK_SRC);
+tickAudio.preload = 'auto';
+tickAudio.setAttribute('playsinline', '');
+let audioUnlocked = false;
+// iOS only lets media play after a user gesture; unlock on the first tap/keypress.
 function unlockAudio() {
-    try {
-        if (!sharedAudioCtx) sharedAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        if (sharedAudioCtx.state === 'suspended') sharedAudioCtx.resume();
-    } catch (e) { /* ignore */ }
+    if (audioUnlocked) return;
+    tickAudio.play().then(() => {
+        tickAudio.pause();
+        tickAudio.currentTime = 0;
+        audioUnlocked = true;
+    }).catch(() => { /* retry on next gesture */ });
 }
 document.addEventListener('touchend', unlockAudio, { once: false });
 document.addEventListener('click', unlockAudio, { once: false });
@@ -184,22 +193,11 @@ async function submitAnswer() {
     }
 }
 
-// Play success sound using the shared (iOS-unlocked) AudioContext
+// Play the tick on a correct answer.
 function playSuccessSound() {
     try {
-        if (!sharedAudioCtx) sharedAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        if (sharedAudioCtx.state === 'suspended') sharedAudioCtx.resume();
-        const ctx = sharedAudioCtx;
-        const oscillator = ctx.createOscillator();
-        const gainNode = ctx.createGain();
-        oscillator.connect(gainNode);
-        gainNode.connect(ctx.destination);
-        oscillator.frequency.value = 1000;
-        oscillator.type = 'sine';
-        gainNode.gain.setValueAtTime(0.15, ctx.currentTime);
-        gainNode.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.08);
-        oscillator.start(ctx.currentTime);
-        oscillator.stop(ctx.currentTime + 0.08);
+        tickAudio.currentTime = 0;
+        tickAudio.play().catch(() => { /* ignore autoplay rejection */ });
     } catch (e) {
         console.log('Audio not supported:', e);
     }

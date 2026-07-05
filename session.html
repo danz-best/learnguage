@@ -38,6 +38,13 @@
                 </div>
             </div>
 
+            <!-- Feedback sits ABOVE the answer box so it's centered on screen
+                 and never hidden behind the phone keyboard. -->
+            <div id="feedback" class="feedback hidden">
+                <div class="feedback-icon"></div>
+                <div class="feedback-message"></div>
+            </div>
+
             <div class="answer-section">
                 <input type="text" id="answer-input" placeholder="Type the English translation"
                        autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false" autofocus>
@@ -46,11 +53,6 @@
                     <button id="skip-btn" class="btn btn-secondary">Skip</button>
                     <button id="context-btn" class="btn btn-info">Show Context</button>
                 </div>
-            </div>
-
-            <div id="feedback" class="feedback hidden">
-                <div class="feedback-icon"></div>
-                <div class="feedback-message"></div>
             </div>
 
             <div id="context-modal" class="modal hidden">
@@ -88,6 +90,7 @@
 
     <script src="js/register-sw.js"></script>
     <script src="js/engine.js"></script>
+    <script src="js/tick.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>
