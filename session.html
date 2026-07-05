@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#4a6fa5">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="LearnGuage">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icons/icon-180.png">
+    <title>Learning Session - LearnGuage</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container session-container">
+        <header class="session-header">
+            <a href="index.html" class="back-link">&larr; Back to Sets</a>
+            <h1 id="set-name">Learning Session</h1>
+            <div class="progress-info">
+                <span id="word-counter">Word <span id="current-word-num">1</span> of <span id="total-words">10</span></span>
+                <label class="auto-pronounce-toggle">
+                    <input type="checkbox" id="auto-pronounce-checkbox"> Auto-pronounce
+                </label>
+            </div>
+        </header>
+
+        <div class="session-content">
+            <div class="word-card">
+                <div class="italian-word">
+                    <span id="italian-text">-</span>
+                    <span id="gender-indicator" class="gender-badge"></span>
+                    <button id="pronounce-word-btn" class="btn-pronounce" title="Pronounce word">🔊</button>
+                    <span id="hint-text" class="hint"></span>
+                </div>
+                <div class="letter-hint">
+                    <span id="letter-count">_ _ _ _ _</span>
+                </div>
+            </div>
+
+            <div class="answer-section">
+                <input type="text" id="answer-input" placeholder="Type the English translation"
+                       autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false" autofocus>
+                <div class="button-group">
+                    <button id="submit-btn" class="btn btn-primary">Submit</button>
+                    <button id="skip-btn" class="btn btn-secondary">Skip</button>
+                    <button id="context-btn" class="btn btn-info">Show Context</button>
+                </div>
+            </div>
+
+            <div id="feedback" class="feedback hidden">
+                <div class="feedback-icon"></div>
+                <div class="feedback-message"></div>
+            </div>
+
+            <div id="context-modal" class="modal hidden">
+                <div class="modal-content">
+                    <span class="close-modal">&times;</span>
+                    <h3>Word Context</h3>
+                    <div id="context-details">
+                        <p><strong>Part of Speech:</strong> <span id="pos"></span></p>
+                        <p><strong>Gender:</strong> <span id="gender"></span></p>
+                        <p><strong>English:</strong> <span id="english-meaning"></span></p>
+                        <p><strong>Example (Italian):</strong> <span id="example-it"></span></p>
+                        <p><strong>Example (English):</strong> <span id="example-en"></span></p>
+                    </div>
+                    <button id="pronounce-btn" class="btn btn-info" style="margin-top: 15px;">🔊 Pronounce</button>
+                </div>
+            </div>
+
+            <div id="session-summary" class="session-summary hidden">
+                <h2>Session Complete!</h2>
+                <div class="summary-stats">
+                    <p>Correct answers: <span id="correct-count">0</span></p>
+                    <p>Total attempts: <span id="total-attempts">0</span></p>
+                    <p>Accuracy: <span id="accuracy">0%</span></p>
+                    <p id="failed-words-info" style="color: #dc3545; font-weight: bold;"></p>
+                </div>
+                <div id="word-list" class="word-list"></div>
+                <div class="button-group">
+                    <button id="continue-session-btn" class="btn btn-primary">Next Session</button>
+                    <button id="redo-session-btn" class="btn btn-info">Redo This Session</button>
+                    <a href="index.html" class="btn btn-secondary">Back to Sets</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/register-sw.js"></script>
+    <script src="js/engine.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7006 @@
+{
+  "set_id": 4,
+  "set_name": "Set 4: Most Common 1501-2000",
+  "words": [
+    {
+      "id": "it_0004_0001",
+      "italian": "sentimenti",
+      "english": [
+        "feelings"
+      ],
+      "primary_english": "feelings",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto sentimenti.",
+      "example_english": "It is very feelings.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0002",
+      "italian": "maria",
+      "english": [
+        "Mary"
+      ],
+      "primary_english": "Mary",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la maria?",
+      "example_english": "Where is the Mary?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0003",
+      "italian": "prendiamo",
+      "english": [
+        "let's take"
+      ],
+      "primary_english": "let's take",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il prendiamo?",
+      "example_english": "Where is the let's take?",
+      "letter_count": "____-____"
+    },
+    {
+      "id": "it_0004_0004",
+      "italian": "diventa",
+      "english": [
+        "becomes"
+      ],
+      "primary_english": "becomes",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la diventa?",
+      "example_english": "Where is the becomes?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0005",
+      "italian": "alzati",
+      "english": [
+        "get up"
+      ],
+      "primary_english": "get up",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto alzati.",
+      "example_english": "It is very get up.",
+      "letter_count": "___-__"
+    },
+    {
+      "id": "it_0004_0006",
+      "italian": "idee",
+      "english": [
+        "ideas"
+      ],
+      "primary_english": "ideas",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto idee.",
+      "example_english": "It is very ideas.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0007",
+      "italian": "bacio",
+      "english": [
+        "kiss"
+      ],
+      "primary_english": "kiss",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il bacio?",
+      "example_english": "Where is the kiss?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0008",
+      "italian": "poliziotti",
+      "english": [
+        "policemen"
+      ],
+      "primary_english": "policemen",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto poliziotti.",
+      "example_english": "It is very policemen.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0009",
+      "italian": "chiamano",
+      "english": [
+        "they call"
+      ],
+      "primary_english": "they call",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il chiamano?",
+      "example_english": "Where is the they call?",
+      "letter_count": "____-____"
+    },
+    {
+      "id": "it_0004_0010",
+      "italian": "parigi",
+      "english": [
+        "Paris"
+      ],
+      "primary_english": "Paris",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto parigi.",
+      "example_english": "It is very Paris.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0011",
+      "italian": "dirò",
+      "english": [
+        "I'll say"
+      ],
+      "primary_english": "I'll say",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dirò.",
+      "example_english": "It is very I'll say.",
+      "letter_count": "___-___"
+    },
+    {
+      "id": "it_0004_0012",
+      "italian": "utile",
+      "english": [
+        "useful"
+      ],
+      "primary_english": "useful",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto utile.",
+      "example_english": "It is very useful.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0013",
+      "italian": "anzi",
+      "english": [
+        "On the contrary"
+      ],
+      "primary_english": "On the contrary",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto anzi.",
+      "example_english": "It is very On the contrary.",
+      "letter_count": "__-___-________"
+    },
+    {
+      "id": "it_0004_0014",
+      "italian": "laggiu",
+      "english": [
+        "over there"
+      ],
+      "primary_english": "over there",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto laggiu.",
+      "example_english": "It is very over there.",
+      "letter_count": "____-_____"
+    },
+    {
+      "id": "it_0004_0015",
+      "italian": "corsa",
+      "english": [
+        "race"
+      ],
+      "primary_english": "race",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la corsa?",
+      "example_english": "Where is the race?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0016",
+      "italian": "buoni",
+      "english": [
+        "good"
+      ],
+      "primary_english": "good",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto buoni.",
+      "example_english": "It is very good.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0017",
+      "italian": "cattiva",
+      "english": [
+        "bad"
+      ],
+      "primary_english": "bad",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la cattiva?",
+      "example_english": "Where is the bad?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0018",
+      "italian": "contenta",
+      "english": [
+        "happy"
+      ],
+      "primary_english": "happy",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la contenta?",
+      "example_english": "Where is the happy?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0019",
+      "italian": "compito",
+      "english": [
+        "task"
+      ],
+      "primary_english": "task",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il compito?",
+      "example_english": "Where is the task?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0020",
+      "italian": "tranquilla",
+      "english": [
+        "Calm"
+      ],
+      "primary_english": "Calm",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la tranquilla?",
+      "example_english": "Where is the Calm?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0021",
+      "italian": "stavolta",
+      "english": [
+        "this time"
+      ],
+      "primary_english": "this time",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la stavolta?",
+      "example_english": "Where is the this time?",
+      "letter_count": "____-____"
+    },
+    {
+      "id": "it_0004_0022",
+      "italian": "preferito",
+      "english": [
+        "favorite"
+      ],
+      "primary_english": "favorite",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il preferito?",
+      "example_english": "Where is the favorite?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0023",
+      "italian": "nato",
+      "english": [
+        "born"
+      ],
+      "primary_english": "born",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il nato?",
+      "example_english": "Where is the born?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0024",
+      "italian": "andartene",
+      "english": [
+        "leave"
+      ],
+      "primary_english": "leave",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto andartene.",
+      "example_english": "It is very leave.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0025",
+      "italian": "bordo",
+      "english": [
+        "edge"
+      ],
+      "primary_english": "edge",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il bordo?",
+      "example_english": "Where is the edge?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0026",
+      "italian": "denti",
+      "english": [
+        "teeth"
+      ],
+      "primary_english": "teeth",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto denti.",
+      "example_english": "It is very teeth.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0027",
+      "italian": "coltello",
+      "english": [
+        "knife"
+      ],
+      "primary_english": "knife",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il coltello?",
+      "example_english": "Where is the knife?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0028",
+      "italian": "tengo",
+      "english": [
+        "I keep"
+      ],
+      "primary_english": "I keep",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il tengo?",
+      "example_english": "Where is the I keep?",
+      "letter_count": "_-____"
+    },
+    {
+      "id": "it_0004_0029",
+      "italian": "visti",
+      "english": [
+        "seen"
+      ],
+      "primary_english": "seen",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto visti.",
+      "example_english": "It is very seen.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0030",
+      "italian": "decidere",
+      "english": [
+        "decide"
+      ],
+      "primary_english": "decide",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo decidere.",
+      "example_english": "I must decide.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0031",
+      "italian": "provi",
+      "english": [
+        "try"
+      ],
+      "primary_english": "try",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto provi.",
+      "example_english": "It is very try.",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0032",
+      "italian": "verde",
+      "english": [
+        "green"
+      ],
+      "primary_english": "green",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto verde.",
+      "example_english": "It is very green.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0033",
+      "italian": "sensazione",
+      "english": [
+        "sensation"
+      ],
+      "primary_english": "sensation",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la sensazione?",
+      "example_english": "Where is the sensation?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0034",
+      "italian": "laggiù",
+      "english": [
+        "over there"
+      ],
+      "primary_english": "over there",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto laggiù.",
+      "example_english": "It is very over there.",
+      "letter_count": "____-_____"
+    },
+    {
+      "id": "it_0004_0035",
+      "italian": "corte",
+      "english": [
+        "court"
+      ],
+      "primary_english": "court",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto corte.",
+      "example_english": "It is very court.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0036",
+      "italian": "resti",
+      "english": [
+        "remains"
+      ],
+      "primary_english": "remains",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto resti.",
+      "example_english": "It is very remains.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0037",
+      "italian": "piaciuto",
+      "english": [
+        "liked it"
+      ],
+      "primary_english": "liked it",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il piaciuto?",
+      "example_english": "Where is the liked it?",
+      "letter_count": "_____-__"
+    },
+    {
+      "id": "it_0004_0038",
+      "italian": "meraviglioso",
+      "english": [
+        "marvelous"
+      ],
+      "primary_english": "marvelous",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il meraviglioso?",
+      "example_english": "Where is the marvelous?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0039",
+      "italian": "ascoltare",
+      "english": [
+        "listen"
+      ],
+      "primary_english": "listen",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace ascoltare.",
+      "example_english": "I like to listen.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0040",
+      "italian": "taxi",
+      "english": [
+        "Taxi"
+      ],
+      "primary_english": "Taxi",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto taxi.",
+      "example_english": "It is very Taxi.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0041",
+      "italian": "dà",
+      "english": [
+        "from"
+      ],
+      "primary_english": "from",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dà.",
+      "example_english": "It is very from.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0042",
+      "italian": "giochi",
+      "english": [
+        "games"
+      ],
+      "primary_english": "games",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto giochi.",
+      "example_english": "It is very games.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0043",
+      "italian": "aperta",
+      "english": [
+        "open"
+      ],
+      "primary_english": "open",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la aperta?",
+      "example_english": "Where is the open?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0044",
+      "italian": "retro",
+      "english": [
+        "back"
+      ],
+      "primary_english": "back",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il retro?",
+      "example_english": "Where is the back?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0045",
+      "italian": "prendermi",
+      "english": [
+        "take me"
+      ],
+      "primary_english": "take me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto prendermi.",
+      "example_english": "It is very take me.",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0046",
+      "italian": "legale",
+      "english": [
+        "legal"
+      ],
+      "primary_english": "legal",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto legale.",
+      "example_english": "It is very legal.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0047",
+      "italian": "pensano",
+      "english": [
+        "they think"
+      ],
+      "primary_english": "they think",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il pensano?",
+      "example_english": "Where is the they think?",
+      "letter_count": "____-_____"
+    },
+    {
+      "id": "it_0004_0048",
+      "italian": "conta",
+      "english": [
+        "matters"
+      ],
+      "primary_english": "matters",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la conta?",
+      "example_english": "Where is the matters?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0049",
+      "italian": "improvviso",
+      "english": [
+        "sudden"
+      ],
+      "primary_english": "sudden",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il improvviso?",
+      "example_english": "Where is the sudden?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0050",
+      "italian": "guidare",
+      "english": [
+        "guide"
+      ],
+      "primary_english": "guide",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace guidare.",
+      "example_english": "I like to guide.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0051",
+      "italian": "stile",
+      "english": [
+        "style"
+      ],
+      "primary_english": "style",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto stile.",
+      "example_english": "It is very style.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0052",
+      "italian": "obiettivo",
+      "english": [
+        "objective"
+      ],
+      "primary_english": "objective",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il obiettivo?",
+      "example_english": "Where is the objective?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0053",
+      "italian": "incontrare",
+      "english": [
+        "encounter"
+      ],
+      "primary_english": "encounter",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace incontrare.",
+      "example_english": "I like to encounter.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0054",
+      "italian": "pantaloni",
+      "english": [
+        "pants"
+      ],
+      "primary_english": "pants",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto pantaloni.",
+      "example_english": "It is very pants.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0055",
+      "italian": "ridicolo",
+      "english": [
+        "ridiculous"
+      ],
+      "primary_english": "ridiculous",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il ridicolo?",
+      "example_english": "Where is the ridiculous?",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0056",
+      "italian": "sbaglio",
+      "english": [
+        "I err"
+      ],
+      "primary_english": "I err",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il sbaglio?",
+      "example_english": "Where is the I err?",
+      "letter_count": "_-___"
+    },
+    {
+      "id": "it_0004_0057",
+      "italian": "fila",
+      "english": [
+        "row"
+      ],
+      "primary_english": "row",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la fila?",
+      "example_english": "Where is the row?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0058",
+      "italian": "saremmo",
+      "english": [
+        "we would be"
+      ],
+      "primary_english": "we would be",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il saremmo?",
+      "example_english": "Where is the we would be?",
+      "letter_count": "__-_____-__"
+    },
+    {
+      "id": "it_0004_0059",
+      "italian": "accesso",
+      "english": [
+        "access"
+      ],
+      "primary_english": "access",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il accesso?",
+      "example_english": "Where is the access?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0060",
+      "italian": "breve",
+      "english": [
+        "short"
+      ],
+      "primary_english": "short",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto breve.",
+      "example_english": "It is very short.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0061",
+      "italian": "risolvere",
+      "english": [
+        "solve"
+      ],
+      "primary_english": "solve",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo risolvere.",
+      "example_english": "I must solve.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0062",
+      "italian": "continui",
+      "english": [
+        "continue"
+      ],
+      "primary_english": "continue",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto continui.",
+      "example_english": "It is very continue.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0063",
+      "italian": "peso",
+      "english": [
+        "weight"
+      ],
+      "primary_english": "weight",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il peso?",
+      "example_english": "Where is the weight?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0064",
+      "italian": "continuo",
+      "english": [
+        "continuous"
+      ],
+      "primary_english": "continuous",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il continuo?",
+      "example_english": "Where is the continuous?",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0065",
+      "italian": "sveglia",
+      "english": [
+        "wakes up"
+      ],
+      "primary_english": "wakes up",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la sveglia?",
+      "example_english": "Where is the wakes up?",
+      "letter_count": "_____-__"
+    },
+    {
+      "id": "it_0004_0066",
+      "italian": "muoviti",
+      "english": [
+        "move"
+      ],
+      "primary_english": "move",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto muoviti.",
+      "example_english": "It is very move.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0067",
+      "italian": "francese",
+      "english": [
+        "French"
+      ],
+      "primary_english": "French",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto francese.",
+      "example_english": "It is very French.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0068",
+      "italian": "entrata",
+      "english": [
+        "entrance"
+      ],
+      "primary_english": "entrance",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la entrata?",
+      "example_english": "Where is the entrance?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0069",
+      "italian": "dipende",
+      "english": [
+        "Depends"
+      ],
+      "primary_english": "Depends",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dipende.",
+      "example_english": "It is very Depends.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0070",
+      "italian": "suona",
+      "english": [
+        "rings"
+      ],
+      "primary_english": "rings",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la suona?",
+      "example_english": "Where is the rings?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0071",
+      "italian": "chiusa",
+      "english": [
+        "closed"
+      ],
+      "primary_english": "closed",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la chiusa?",
+      "example_english": "Where is the closed?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0072",
+      "italian": "smesso",
+      "english": [
+        "stopped"
+      ],
+      "primary_english": "stopped",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il smesso?",
+      "example_english": "Where is the stopped?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0073",
+      "italian": "opera",
+      "english": [
+        "work"
+      ],
+      "primary_english": "work",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la opera?",
+      "example_english": "Where is the work?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0074",
+      "italian": "vaffanculo",
+      "english": [
+        "fuck you"
+      ],
+      "primary_english": "fuck you",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il vaffanculo?",
+      "example_english": "Where is the fuck you?",
+      "letter_count": "____-___"
+    },
+    {
+      "id": "it_0004_0075",
+      "italian": "ricordare",
+      "english": [
+        "remember"
+      ],
+      "primary_english": "remember",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace ricordare.",
+      "example_english": "I like to remember.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0076",
+      "italian": "buio",
+      "english": [
+        "dark"
+      ],
+      "primary_english": "dark",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il buio?",
+      "example_english": "Where is the dark?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0077",
+      "italian": "tiene",
+      "english": [
+        "holds"
+      ],
+      "primary_english": "holds",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto tiene.",
+      "example_english": "It is very holds.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0078",
+      "italian": "avro",
+      "english": [
+        "I will"
+      ],
+      "primary_english": "I will",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il avro?",
+      "example_english": "Where is the I will?",
+      "letter_count": "_-____"
+    },
+    {
+      "id": "it_0004_0079",
+      "italian": "fianco",
+      "english": [
+        "flank"
+      ],
+      "primary_english": "flank",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il fianco?",
+      "example_english": "Where is the flank?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0080",
+      "italian": "estate",
+      "english": [
+        "summer"
+      ],
+      "primary_english": "summer",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto estate.",
+      "example_english": "It is very summer.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0081",
+      "italian": "azione",
+      "english": [
+        "action"
+      ],
+      "primary_english": "action",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la azione?",
+      "example_english": "Where is the action?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0082",
+      "italian": "arrabbiata",
+      "english": [
+        "angry"
+      ],
+      "primary_english": "angry",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la arrabbiata?",
+      "example_english": "Where is the angry?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0083",
+      "italian": "cadavere",
+      "english": [
+        "corpse"
+      ],
+      "primary_english": "corpse",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo cadavere.",
+      "example_english": "I must corpse.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0084",
+      "italian": "affrontare",
+      "english": [
+        "face"
+      ],
+      "primary_english": "face",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace affrontare.",
+      "example_english": "I like to face.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0085",
+      "italian": "centrale",
+      "english": [
+        "central"
+      ],
+      "primary_english": "central",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto centrale.",
+      "example_english": "It is very central.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0086",
+      "italian": "angolo",
+      "english": [
+        "corner"
+      ],
+      "primary_english": "corner",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il angolo?",
+      "example_english": "Where is the corner?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0087",
+      "italian": "funzionato",
+      "english": [
+        "worked"
+      ],
+      "primary_english": "worked",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il funzionato?",
+      "example_english": "Where is the worked?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0088",
+      "italian": "ognuno",
+      "english": [
+        "each one"
+      ],
+      "primary_english": "each one",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il ognuno?",
+      "example_english": "Where is the each one?",
+      "letter_count": "____-___"
+    },
+    {
+      "id": "it_0004_0089",
+      "italian": "contratto",
+      "english": [
+        "contract"
+      ],
+      "primary_english": "contract",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il contratto?",
+      "example_english": "Where is the contract?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0090",
+      "italian": "faresti",
+      "english": [
+        "you would"
+      ],
+      "primary_english": "you would",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto faresti.",
+      "example_english": "It is very you would.",
+      "letter_count": "___-_____"
+    },
+    {
+      "id": "it_0004_0091",
+      "italian": "accettare",
+      "english": [
+        "accept"
+      ],
+      "primary_english": "accept",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace accettare.",
+      "example_english": "I like to accept.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0092",
+      "italian": "grandioso",
+      "english": [
+        "great"
+      ],
+      "primary_english": "great",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il grandioso?",
+      "example_english": "Where is the great?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0093",
+      "italian": "fede",
+      "english": [
+        "wedding ring"
+      ],
+      "primary_english": "wedding ring",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto fede.",
+      "example_english": "It is very wedding ring.",
+      "letter_count": "_______-____"
+    },
+    {
+      "id": "it_0004_0094",
+      "italian": "stronza",
+      "english": [
+        "bitch"
+      ],
+      "primary_english": "bitch",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la stronza?",
+      "example_english": "Where is the bitch?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0095",
+      "italian": "procuratore",
+      "english": [
+        "prosecutor"
+      ],
+      "primary_english": "prosecutor",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il procuratore?",
+      "example_english": "Where is the prosecutor?",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0096",
+      "italian": "vendere",
+      "english": [
+        "sell"
+      ],
+      "primary_english": "sell",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo vendere.",
+      "example_english": "I must sell.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0097",
+      "italian": "innocente",
+      "english": [
+        "innocent"
+      ],
+      "primary_english": "innocent",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto innocente.",
+      "example_english": "It is very innocent.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0098",
+      "italian": "latte",
+      "english": [
+        "milk"
+      ],
+      "primary_english": "milk",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto latte.",
+      "example_english": "It is very milk.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0099",
+      "italian": "schiena",
+      "english": [
+        "back"
+      ],
+      "primary_english": "back",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la schiena?",
+      "example_english": "Where is the back?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0100",
+      "italian": "soldati",
+      "english": [
+        "soldiers"
+      ],
+      "primary_english": "soldiers",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto soldati.",
+      "example_english": "It is very soldiers.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0101",
+      "italian": "finisce",
+      "english": [
+        "it ends"
+      ],
+      "primary_english": "it ends",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto finisce.",
+      "example_english": "It is very it ends.",
+      "letter_count": "__-____"
+    },
+    {
+      "id": "it_0004_0102",
+      "italian": "ultimamente",
+      "english": [
+        "lately"
+      ],
+      "primary_english": "lately",
+      "hint": null,
+      "part_of_speech": "adverb",
+      "gender": null,
+      "example_italian": "Ultimamente vado a casa.",
+      "example_english": "Lately I go home.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0103",
+      "italian": "fermare",
+      "english": [
+        "stop"
+      ],
+      "primary_english": "stop",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace fermare.",
+      "example_english": "I like to stop.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0104",
+      "italian": "malattia",
+      "english": [
+        "illness"
+      ],
+      "primary_english": "illness",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la malattia?",
+      "example_english": "Where is the illness?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0105",
+      "italian": "bevuto",
+      "english": [
+        "drank"
+      ],
+      "primary_english": "drank",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il bevuto?",
+      "example_english": "Where is the drank?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0106",
+      "italian": "fiume",
+      "english": [
+        "river"
+      ],
+      "primary_english": "river",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto fiume.",
+      "example_english": "It is very river.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0107",
+      "italian": "buonasera",
+      "english": [
+        "Good evening"
+      ],
+      "primary_english": "Good evening",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la buonasera?",
+      "example_english": "Where is the Good evening?",
+      "letter_count": "____-_______"
+    },
+    {
+      "id": "it_0004_0108",
+      "italian": "effetto",
+      "english": [
+        "effect"
+      ],
+      "primary_english": "effect",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il effetto?",
+      "example_english": "Where is the effect?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0109",
+      "italian": "paga",
+      "english": [
+        "pay"
+      ],
+      "primary_english": "pay",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la paga?",
+      "example_english": "Where is the pay?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0110",
+      "italian": "conti",
+      "english": [
+        "accounts"
+      ],
+      "primary_english": "accounts",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto conti.",
+      "example_english": "It is very accounts.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0111",
+      "italian": "principe",
+      "english": [
+        "prince"
+      ],
+      "primary_english": "prince",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto principe.",
+      "example_english": "It is very prince.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0112",
+      "italian": "scopo",
+      "english": [
+        "scope"
+      ],
+      "primary_english": "scope",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il scopo?",
+      "example_english": "Where is the scope?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0113",
+      "italian": "mandare",
+      "english": [
+        "send"
+      ],
+      "primary_english": "send",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace mandare.",
+      "example_english": "I like to send.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0114",
+      "italian": "andarci",
+      "english": [
+        "go there"
+      ],
+      "primary_english": "go there",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto andarci.",
+      "example_english": "It is very go there.",
+      "letter_count": "__-_____"
+    },
+    {
+      "id": "it_0004_0115",
+      "italian": "sii",
+      "english": [
+        "yes"
+      ],
+      "primary_english": "yes",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto sii.",
+      "example_english": "It is very yes.",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0116",
+      "italian": "stavano",
+      "english": [
+        "they were"
+      ],
+      "primary_english": "they were",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il stavano?",
+      "example_english": "Where is the they were?",
+      "letter_count": "____-____"
+    },
+    {
+      "id": "it_0004_0117",
+      "italian": "fidati",
+      "english": [
+        "trust me"
+      ],
+      "primary_english": "trust me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto fidati.",
+      "example_english": "It is very trust me.",
+      "letter_count": "_____-__"
+    },
+    {
+      "id": "it_0004_0118",
+      "italian": "dirtelo",
+      "english": [
+        "tell you"
+      ],
+      "primary_english": "tell you",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il dirtelo?",
+      "example_english": "Where is the tell you?",
+      "letter_count": "____-___"
+    },
+    {
+      "id": "it_0004_0119",
+      "italian": "assistente",
+      "english": [
+        "assistant"
+      ],
+      "primary_english": "assistant",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto assistente.",
+      "example_english": "It is very assistant.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0120",
+      "italian": "nipote",
+      "english": [
+        "Grandchild"
+      ],
+      "primary_english": "Grandchild",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto nipote.",
+      "example_english": "It is very Grandchild.",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0121",
+      "italian": "fargli",
+      "english": [
+        "do it"
+      ],
+      "primary_english": "do it",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto fargli.",
+      "example_english": "It is very do it.",
+      "letter_count": "__-__"
+    },
+    {
+      "id": "it_0004_0122",
+      "italian": "rispondi",
+      "english": [
+        "Answers"
+      ],
+      "primary_english": "Answers",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto rispondi.",
+      "example_english": "It is very Answers.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0123",
+      "italian": "risultati",
+      "english": [
+        "results"
+      ],
+      "primary_english": "results",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto risultati.",
+      "example_english": "It is very results.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0124",
+      "italian": "matto",
+      "english": [
+        "crazy"
+      ],
+      "primary_english": "crazy",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il matto?",
+      "example_english": "Where is the crazy?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0125",
+      "italian": "rimasta",
+      "english": [
+        "remained"
+      ],
+      "primary_english": "remained",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la rimasta?",
+      "example_english": "Where is the remained?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0126",
+      "italian": "soluzione",
+      "english": [
+        "solution"
+      ],
+      "primary_english": "solution",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la soluzione?",
+      "example_english": "Where is the solution?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0127",
+      "italian": "dimenticare",
+      "english": [
+        "forget"
+      ],
+      "primary_english": "forget",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace dimenticare.",
+      "example_english": "I like to forget.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0128",
+      "italian": "vento",
+      "english": [
+        "wind"
+      ],
+      "primary_english": "wind",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il vento?",
+      "example_english": "Where is the wind?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0129",
+      "italian": "sbrigati",
+      "english": [
+        "hurry up"
+      ],
+      "primary_english": "hurry up",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto sbrigati.",
+      "example_english": "It is very hurry up.",
+      "letter_count": "_____-__"
+    },
+    {
+      "id": "it_0004_0130",
+      "italian": "stanco",
+      "english": [
+        "tired"
+      ],
+      "primary_english": "tired",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il stanco?",
+      "example_english": "Where is the tired?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0131",
+      "italian": "americano",
+      "english": [
+        "American"
+      ],
+      "primary_english": "American",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il americano?",
+      "example_english": "Where is the American?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0132",
+      "italian": "fanculo",
+      "english": [
+        "Fuck yourself"
+      ],
+      "primary_english": "Fuck yourself",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il fanculo?",
+      "example_english": "Where is the Fuck yourself?",
+      "letter_count": "____-________"
+    },
+    {
+      "id": "it_0004_0133",
+      "italian": "debole",
+      "english": [
+        "weak"
+      ],
+      "primary_english": "weak",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto debole.",
+      "example_english": "It is very weak.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0134",
+      "italian": "troveremo",
+      "english": [
+        "we will find"
+      ],
+      "primary_english": "we will find",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il troveremo?",
+      "example_english": "Where is the we will find?",
+      "letter_count": "__-____-____"
+    },
+    {
+      "id": "it_0004_0135",
+      "italian": "faccenda",
+      "english": [
+        "matter"
+      ],
+      "primary_english": "matter",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la faccenda?",
+      "example_english": "Where is the matter?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0136",
+      "italian": "piaceva",
+      "english": [
+        "he liked it"
+      ],
+      "primary_english": "he liked it",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la piaceva?",
+      "example_english": "Where is the he liked it?",
+      "letter_count": "__-_____-__"
+    },
+    {
+      "id": "it_0004_0137",
+      "italian": "tradurre",
+      "english": [
+        "translate"
+      ],
+      "primary_english": "translate",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Posso tradurre?",
+      "example_english": "Can I translate?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0138",
+      "italian": "capace",
+      "english": [
+        "capable"
+      ],
+      "primary_english": "capable",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto capace.",
+      "example_english": "It is very capable.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0139",
+      "italian": "peggiore",
+      "english": [
+        "worse"
+      ],
+      "primary_english": "worse",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il peggiore?",
+      "example_english": "Where is the worse?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0140",
+      "italian": "siate",
+      "english": [
+        "be"
+      ],
+      "primary_english": "be",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto siate.",
+      "example_english": "It is very be.",
+      "letter_count": 2
+    },
+    {
+      "id": "it_0004_0141",
+      "italian": "scomparsa",
+      "english": [
+        "disappearance"
+      ],
+      "primary_english": "disappearance",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la scomparsa?",
+      "example_english": "Where is the disappearance?",
+      "letter_count": 13
+    },
+    {
+      "id": "it_0004_0142",
+      "italian": "particolare",
+      "english": [
+        "particular"
+      ],
+      "primary_english": "particular",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace particolare.",
+      "example_english": "I like to particular.",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0143",
+      "italian": "creato",
+      "english": [
+        "created"
+      ],
+      "primary_english": "created",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il creato?",
+      "example_english": "Where is the created?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0144",
+      "italian": "cerchiamo",
+      "english": [
+        "let's look"
+      ],
+      "primary_english": "let's look",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il cerchiamo?",
+      "example_english": "Where is the let's look?",
+      "letter_count": "____-____"
+    },
+    {
+      "id": "it_0004_0145",
+      "italian": "principale",
+      "english": [
+        "main"
+      ],
+      "primary_english": "main",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto principale.",
+      "example_english": "It is very main.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0146",
+      "italian": "dna",
+      "english": [
+        "DNA"
+      ],
+      "primary_english": "DNA",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la dna?",
+      "example_english": "Where is the DNA?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0147",
+      "italian": "chiederti",
+      "english": [
+        "ask you"
+      ],
+      "primary_english": "ask you",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto chiederti.",
+      "example_english": "It is very ask you.",
+      "letter_count": "___-___"
+    },
+    {
+      "id": "it_0004_0148",
+      "italian": "campagna",
+      "english": [
+        "countryside"
+      ],
+      "primary_english": "countryside",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la campagna?",
+      "example_english": "Where is the countryside?",
+      "letter_count": 11
+    },
+    {
+      "id": "it_0004_0149",
+      "italian": "coglione",
+      "english": [
+        "idiot"
+      ],
+      "primary_english": "idiot",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la coglione?",
+      "example_english": "Where is the idiot?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0150",
+      "italian": "riuscita",
+      "english": [
+        "successful"
+      ],
+      "primary_english": "successful",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la riuscita?",
+      "example_english": "Where is the successful?",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0151",
+      "italian": "andrai",
+      "english": [
+        "you will go"
+      ],
+      "primary_english": "you will go",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto andrai.",
+      "example_english": "It is very you will go.",
+      "letter_count": "___-____-__"
+    },
+    {
+      "id": "it_0004_0152",
+      "italian": "stampa",
+      "english": [
+        "print"
+      ],
+      "primary_english": "print",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la stampa?",
+      "example_english": "Where is the print?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0153",
+      "italian": "gatto",
+      "english": [
+        "cat"
+      ],
+      "primary_english": "cat",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il gatto?",
+      "example_english": "Where is the cat?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0154",
+      "italian": "braccia",
+      "english": [
+        "arm"
+      ],
+      "primary_english": "arm",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la braccia?",
+      "example_english": "Where is the arm?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0155",
+      "italian": "condizioni",
+      "english": [
+        "conditions"
+      ],
+      "primary_english": "conditions",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto condizioni.",
+      "example_english": "It is very conditions.",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0156",
+      "italian": "parecchio",
+      "english": [
+        "a lot of"
+      ],
+      "primary_english": "a lot of",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il parecchio?",
+      "example_english": "Where is the a lot of?",
+      "letter_count": "_-___-__"
+    },
+    {
+      "id": "it_0004_0157",
+      "italian": "fottuto",
+      "english": [
+        "fucked"
+      ],
+      "primary_english": "fucked",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il fottuto?",
+      "example_english": "Where is the fucked?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0158",
+      "italian": "tenuto",
+      "english": [
+        "held"
+      ],
+      "primary_english": "held",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il tenuto?",
+      "example_english": "Where is the held?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0159",
+      "italian": "troviamo",
+      "english": [
+        "we find"
+      ],
+      "primary_english": "we find",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il troviamo?",
+      "example_english": "Where is the we find?",
+      "letter_count": "__-____"
+    },
+    {
+      "id": "it_0004_0160",
+      "italian": "magia",
+      "english": [
+        "magic"
+      ],
+      "primary_english": "magic",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la magia?",
+      "example_english": "Where is the magic?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0161",
+      "italian": "metà",
+      "english": [
+        "half"
+      ],
+      "primary_english": "half",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la metà?",
+      "example_english": "Where is the half?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0162",
+      "italian": "ponte",
+      "english": [
+        "bridge"
+      ],
+      "primary_english": "bridge",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto ponte.",
+      "example_english": "It is very bridge.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0163",
+      "italian": "risposto",
+      "english": [
+        "answered"
+      ],
+      "primary_english": "answered",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il risposto?",
+      "example_english": "Where is the answered?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0164",
+      "italian": "dettagli",
+      "english": [
+        "details"
+      ],
+      "primary_english": "details",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dettagli.",
+      "example_english": "It is very details.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0165",
+      "italian": "attenta",
+      "english": [
+        "careful"
+      ],
+      "primary_english": "careful",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la attenta?",
+      "example_english": "Where is the careful?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0166",
+      "italian": "reso",
+      "english": [
+        "made"
+      ],
+      "primary_english": "made",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il reso?",
+      "example_english": "Where is the made?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0167",
+      "italian": "rilassati",
+      "english": [
+        "relax"
+      ],
+      "primary_english": "relax",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto rilassati.",
+      "example_english": "It is very relax.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0168",
+      "italian": "impronte",
+      "english": [
+        "footprints"
+      ],
+      "primary_english": "footprints",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto impronte.",
+      "example_english": "It is very footprints.",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0169",
+      "italian": "sbagliata",
+      "english": [
+        "wrong"
+      ],
+      "primary_english": "wrong",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la sbagliata?",
+      "example_english": "Where is the wrong?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0170",
+      "italian": "importanza",
+      "english": [
+        "importance"
+      ],
+      "primary_english": "importance",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la importanza?",
+      "example_english": "Where is the importance?",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0171",
+      "italian": "insegnato",
+      "english": [
+        "taught"
+      ],
+      "primary_english": "taught",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il insegnato?",
+      "example_english": "Where is the taught?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0172",
+      "italian": "washington",
+      "english": [
+        "Washington"
+      ],
+      "primary_english": "Washington",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto washington.",
+      "example_english": "It is very Washington.",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0173",
+      "italian": "rovinato",
+      "english": [
+        "ruined"
+      ],
+      "primary_english": "ruined",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il rovinato?",
+      "example_english": "Where is the ruined?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0174",
+      "italian": "malato",
+      "english": [
+        "sick"
+      ],
+      "primary_english": "sick",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il malato?",
+      "example_english": "Where is the sick?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0175",
+      "italian": "gesù",
+      "english": [
+        "Jesus"
+      ],
+      "primary_english": "Jesus",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto gesù.",
+      "example_english": "It is very Jesus.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0176",
+      "italian": "sindaco",
+      "english": [
+        "mayor"
+      ],
+      "primary_english": "mayor",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il sindaco?",
+      "example_english": "Where is the mayor?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0177",
+      "italian": "seguire",
+      "english": [
+        "follow"
+      ],
+      "primary_english": "follow",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo seguire.",
+      "example_english": "I must follow.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0178",
+      "italian": "decisamente",
+      "english": [
+        "decidedly"
+      ],
+      "primary_english": "decidedly",
+      "hint": null,
+      "part_of_speech": "adverb",
+      "gender": null,
+      "example_italian": "Decisamente vado a casa.",
+      "example_english": "Decidedly I go home.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0179",
+      "italian": "convinto",
+      "english": [
+        "convinced"
+      ],
+      "primary_english": "convinced",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il convinto?",
+      "example_english": "Where is the convinced?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0180",
+      "italian": "campione",
+      "english": [
+        "sample"
+      ],
+      "primary_english": "sample",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la campione?",
+      "example_english": "Where is the sample?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0181",
+      "italian": "zitta",
+      "english": [
+        "shut up"
+      ],
+      "primary_english": "shut up",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la zitta?",
+      "example_english": "Where is the shut up?",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0182",
+      "italian": "forze",
+      "english": [
+        "forces"
+      ],
+      "primary_english": "forces",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto forze.",
+      "example_english": "It is very forces.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0183",
+      "italian": "salire",
+      "english": [
+        "rise"
+      ],
+      "primary_english": "rise",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo salire.",
+      "example_english": "I must rise.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0184",
+      "italian": "tanta",
+      "english": [
+        "a lot"
+      ],
+      "primary_english": "a lot",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la tanta?",
+      "example_english": "Where is the a lot?",
+      "letter_count": "_-___"
+    },
+    {
+      "id": "it_0004_0185",
+      "italian": "omicidi",
+      "english": [
+        "murders"
+      ],
+      "primary_english": "murders",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto omicidi.",
+      "example_english": "It is very murders.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0186",
+      "italian": "prendete",
+      "english": [
+        "take"
+      ],
+      "primary_english": "take",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto prendete.",
+      "example_english": "It is very take.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0187",
+      "italian": "dando",
+      "english": [
+        "giving"
+      ],
+      "primary_english": "giving",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il dando?",
+      "example_english": "Where is the giving?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0188",
+      "italian": "provo",
+      "english": [
+        "I try"
+      ],
+      "primary_english": "I try",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il provo?",
+      "example_english": "Where is the I try?",
+      "letter_count": "_-___"
+    },
+    {
+      "id": "it_0004_0189",
+      "italian": "morendo",
+      "english": [
+        "dying"
+      ],
+      "primary_english": "dying",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il morendo?",
+      "example_english": "Where is the dying?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0190",
+      "italian": "chiaramente",
+      "english": [
+        "clearly"
+      ],
+      "primary_english": "clearly",
+      "hint": null,
+      "part_of_speech": "adverb",
+      "gender": null,
+      "example_italian": "Chiaramente vado a casa.",
+      "example_english": "Clearly I go home.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0191",
+      "italian": "immaginare",
+      "english": [
+        "imagine"
+      ],
+      "primary_english": "imagine",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace immaginare.",
+      "example_english": "I like to imagine.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0192",
+      "italian": "debba",
+      "english": [
+        "must"
+      ],
+      "primary_english": "must",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la debba?",
+      "example_english": "Where is the must?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0193",
+      "italian": "valore",
+      "english": [
+        "value"
+      ],
+      "primary_english": "value",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il valore?",
+      "example_english": "Where is the value?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0194",
+      "italian": "importanti",
+      "english": [
+        "important"
+      ],
+      "primary_english": "important",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto importanti.",
+      "example_english": "It is very important.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0195",
+      "italian": "mantenere",
+      "english": [
+        "keep"
+      ],
+      "primary_english": "keep",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo mantenere.",
+      "example_english": "I must keep.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0196",
+      "italian": "spiegare",
+      "english": [
+        "explain"
+      ],
+      "primary_english": "explain",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace spiegare.",
+      "example_english": "I like to explain.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0197",
+      "italian": "buco",
+      "english": [
+        "hole"
+      ],
+      "primary_english": "hole",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il buco?",
+      "example_english": "Where is the hole?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0198",
+      "italian": "momenti",
+      "english": [
+        "moments"
+      ],
+      "primary_english": "moments",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto momenti.",
+      "example_english": "It is very moments.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0199",
+      "italian": "bellezza",
+      "english": [
+        "beauty"
+      ],
+      "primary_english": "beauty",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la bellezza?",
+      "example_english": "Where is the beauty?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0200",
+      "italian": "piani",
+      "english": [
+        "plans"
+      ],
+      "primary_english": "plans",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto piani.",
+      "example_english": "It is very plans.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0201",
+      "italian": "distrutto",
+      "english": [
+        "destroyed"
+      ],
+      "primary_english": "destroyed",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il distrutto?",
+      "example_english": "Where is the destroyed?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0202",
+      "italian": "mercato",
+      "english": [
+        "market"
+      ],
+      "primary_english": "market",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il mercato?",
+      "example_english": "Where is the market?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0203",
+      "italian": "pensarci",
+      "english": [
+        "think about it"
+      ],
+      "primary_english": "think about it",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto pensarci.",
+      "example_english": "It is very think about it.",
+      "letter_count": "_____-_____-__"
+    },
+    {
+      "id": "it_0004_0204",
+      "italian": "richiesta",
+      "english": [
+        "claim"
+      ],
+      "primary_english": "claim",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la richiesta?",
+      "example_english": "Where is the claim?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0205",
+      "italian": "nonostante",
+      "english": [
+        "Despite"
+      ],
+      "primary_english": "Despite",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto nonostante.",
+      "example_english": "It is very Despite.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0206",
+      "italian": "ispettore",
+      "english": [
+        "inspector"
+      ],
+      "primary_english": "inspector",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il ispettore?",
+      "example_english": "Where is the inspector?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0207",
+      "italian": "provando",
+      "english": [
+        "trying"
+      ],
+      "primary_english": "trying",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il provando?",
+      "example_english": "Where is the trying?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0208",
+      "italian": "pensiero",
+      "english": [
+        "thought"
+      ],
+      "primary_english": "thought",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il pensiero?",
+      "example_english": "Where is the thought?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0209",
+      "italian": "villaggio",
+      "english": [
+        "village"
+      ],
+      "primary_english": "village",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il villaggio?",
+      "example_english": "Where is the village?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0210",
+      "italian": "creare",
+      "english": [
+        "create"
+      ],
+      "primary_english": "create",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace creare.",
+      "example_english": "I like to create.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0211",
+      "italian": "camminare",
+      "english": [
+        "walk"
+      ],
+      "primary_english": "walk",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace camminare.",
+      "example_english": "I like to walk.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0212",
+      "italian": "bottiglia",
+      "english": [
+        "bottle"
+      ],
+      "primary_english": "bottle",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la bottiglia?",
+      "example_english": "Where is the bottle?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0213",
+      "italian": "rimane",
+      "english": [
+        "remains"
+      ],
+      "primary_english": "remains",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto rimane.",
+      "example_english": "It is very remains.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0214",
+      "italian": "sedia",
+      "english": [
+        "chair"
+      ],
+      "primary_english": "chair",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la sedia?",
+      "example_english": "Where is the chair?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0215",
+      "italian": "tiro",
+      "english": [
+        "shot"
+      ],
+      "primary_english": "shot",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il tiro?",
+      "example_english": "Where is the shot?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0216",
+      "italian": "ghiaccio",
+      "english": [
+        "ice"
+      ],
+      "primary_english": "ice",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il ghiaccio?",
+      "example_english": "Where is the ice?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0217",
+      "italian": "stella",
+      "english": [
+        "star"
+      ],
+      "primary_english": "star",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la stella?",
+      "example_english": "Where is the star?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0218",
+      "italian": "finale",
+      "english": [
+        "final"
+      ],
+      "primary_english": "final",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto finale.",
+      "example_english": "It is very final.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0219",
+      "italian": "riuscire",
+      "english": [
+        "to be able to"
+      ],
+      "primary_english": "to be able to",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo riuscire.",
+      "example_english": "I must to be able to.",
+      "letter_count": "__-__-____-__"
+    },
+    {
+      "id": "it_0004_0220",
+      "italian": "tracce",
+      "english": [
+        "tracks"
+      ],
+      "primary_english": "tracks",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto tracce.",
+      "example_english": "It is very tracks.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0221",
+      "italian": "vedremo",
+      "english": [
+        "We will see"
+      ],
+      "primary_english": "We will see",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il vedremo?",
+      "example_english": "Where is the We will see?",
+      "letter_count": "__-____-___"
+    },
+    {
+      "id": "it_0004_0222",
+      "italian": "conoscenza",
+      "english": [
+        "knowledge"
+      ],
+      "primary_english": "knowledge",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la conoscenza?",
+      "example_english": "Where is the knowledge?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0223",
+      "italian": "pensava",
+      "english": [
+        "he thought"
+      ],
+      "primary_english": "he thought",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la pensava?",
+      "example_english": "Where is the he thought?",
+      "letter_count": "__-_______"
+    },
+    {
+      "id": "it_0004_0224",
+      "italian": "usando",
+      "english": [
+        "using"
+      ],
+      "primary_english": "using",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il usando?",
+      "example_english": "Where is the using?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0225",
+      "italian": "principessa",
+      "english": [
+        "princess"
+      ],
+      "primary_english": "princess",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la principessa?",
+      "example_english": "Where is the princess?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0226",
+      "italian": "scusatemi",
+      "english": [
+        "sorry"
+      ],
+      "primary_english": "sorry",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto scusatemi.",
+      "example_english": "It is very sorry.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0227",
+      "italian": "milione",
+      "english": [
+        "million"
+      ],
+      "primary_english": "million",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la milione?",
+      "example_english": "Where is the million?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0228",
+      "italian": "crederci",
+      "english": [
+        "believe it"
+      ],
+      "primary_english": "believe it",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto crederci.",
+      "example_english": "It is very believe it.",
+      "letter_count": "_______-__"
+    },
+    {
+      "id": "it_0004_0229",
+      "italian": "passata",
+      "english": [
+        "passed"
+      ],
+      "primary_english": "passed",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la passata?",
+      "example_english": "Where is the passed?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0230",
+      "italian": "corri",
+      "english": [
+        "run"
+      ],
+      "primary_english": "run",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto corri.",
+      "example_english": "It is very run.",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0231",
+      "italian": "chiamami",
+      "english": [
+        "call me"
+      ],
+      "primary_english": "call me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto chiamami.",
+      "example_english": "It is very call me.",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0232",
+      "italian": "cadere",
+      "english": [
+        "drop"
+      ],
+      "primary_english": "drop",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo cadere.",
+      "example_english": "I must drop.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0233",
+      "italian": "palazzo",
+      "english": [
+        "building"
+      ],
+      "primary_english": "building",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il palazzo?",
+      "example_english": "Where is the building?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0234",
+      "italian": "succedere",
+      "english": [
+        "happen"
+      ],
+      "primary_english": "happen",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo succedere.",
+      "example_english": "I must happen.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0235",
+      "italian": "camion",
+      "english": [
+        "truck"
+      ],
+      "primary_english": "truck",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto camion.",
+      "example_english": "It is very truck.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0236",
+      "italian": "speravo",
+      "english": [
+        "I hoped"
+      ],
+      "primary_english": "I hoped",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il speravo?",
+      "example_english": "Where is the I hoped?",
+      "letter_count": "_-_____"
+    },
+    {
+      "id": "it_0004_0237",
+      "italian": "sguardo",
+      "english": [
+        "gaze"
+      ],
+      "primary_english": "gaze",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il sguardo?",
+      "example_english": "Where is the gaze?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0238",
+      "italian": "dover",
+      "english": [
+        "having to"
+      ],
+      "primary_english": "having to",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dover.",
+      "example_english": "It is very having to.",
+      "letter_count": "______-__"
+    },
+    {
+      "id": "it_0004_0239",
+      "italian": "parco",
+      "english": [
+        "park"
+      ],
+      "primary_english": "park",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il parco?",
+      "example_english": "Where is the park?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0240",
+      "italian": "eccola",
+      "english": [
+        "here it is"
+      ],
+      "primary_english": "here it is",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la eccola?",
+      "example_english": "Where is the here it is?",
+      "letter_count": "____-__-__"
+    },
+    {
+      "id": "it_0004_0241",
+      "italian": "teoria",
+      "english": [
+        "theory"
+      ],
+      "primary_english": "theory",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la teoria?",
+      "example_english": "Where is the theory?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0242",
+      "italian": "angelo",
+      "english": [
+        "angel"
+      ],
+      "primary_english": "angel",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il angelo?",
+      "example_english": "Where is the angel?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0243",
+      "italian": "americani",
+      "english": [
+        "Americans"
+      ],
+      "primary_english": "Americans",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto americani.",
+      "example_english": "It is very Americans.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0244",
+      "italian": "stelle",
+      "english": [
+        "stars"
+      ],
+      "primary_english": "stars",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto stelle.",
+      "example_english": "It is very stars.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0245",
+      "italian": "propria",
+      "english": [
+        "own"
+      ],
+      "primary_english": "own",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la propria?",
+      "example_english": "Where is the own?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0246",
+      "italian": "benvenuti",
+      "english": [
+        "welcome"
+      ],
+      "primary_english": "welcome",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto benvenuti.",
+      "example_english": "It is very welcome.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0247",
+      "italian": "attesa",
+      "english": [
+        "wait"
+      ],
+      "primary_english": "wait",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la attesa?",
+      "example_english": "Where is the wait?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0248",
+      "italian": "preferisco",
+      "english": [
+        "I prefer"
+      ],
+      "primary_english": "I prefer",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il preferisco?",
+      "example_english": "Where is the I prefer?",
+      "letter_count": "_-______"
+    },
+    {
+      "id": "it_0004_0249",
+      "italian": "eccoci",
+      "english": [
+        "here we are"
+      ],
+      "primary_english": "here we are",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto eccoci.",
+      "example_english": "It is very here we are.",
+      "letter_count": "____-__-___"
+    },
+    {
+      "id": "it_0004_0250",
+      "italian": "preoccupi",
+      "english": [
+        "worry"
+      ],
+      "primary_english": "worry",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto preoccupi.",
+      "example_english": "It is very worry.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0251",
+      "italian": "potevi",
+      "english": [
+        "you could"
+      ],
+      "primary_english": "you could",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto potevi.",
+      "example_english": "It is very you could.",
+      "letter_count": "___-_____"
+    },
+    {
+      "id": "it_0004_0252",
+      "italian": "ubriaco",
+      "english": [
+        "drunk"
+      ],
+      "primary_english": "drunk",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il ubriaco?",
+      "example_english": "Where is the drunk?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0253",
+      "italian": "lettere",
+      "english": [
+        "letters"
+      ],
+      "primary_english": "letters",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo lettere.",
+      "example_english": "I must letters.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0254",
+      "italian": "conversazione",
+      "english": [
+        "conversation"
+      ],
+      "primary_english": "conversation",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la conversazione?",
+      "example_english": "Where is the conversation?",
+      "letter_count": 12
+    },
+    {
+      "id": "it_0004_0255",
+      "italian": "cento",
+      "english": [
+        "hundred"
+      ],
+      "primary_english": "hundred",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il cento?",
+      "example_english": "Where is the hundred?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0256",
+      "italian": "dovere",
+      "english": [
+        "duty"
+      ],
+      "primary_english": "duty",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo partire domani.",
+      "example_english": "I have to leave tomorrow.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0257",
+      "italian": "scuse",
+      "english": [
+        "apologies"
+      ],
+      "primary_english": "apologies",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto scuse.",
+      "example_english": "It is very apologies.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0258",
+      "italian": "fidanzata",
+      "english": [
+        "fiancée"
+      ],
+      "primary_english": "fiancée",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la fidanzata?",
+      "example_english": "Where is the fiancée?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0259",
+      "italian": "chiede",
+      "english": [
+        "he asks"
+      ],
+      "primary_english": "he asks",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto chiede.",
+      "example_english": "It is very he asks.",
+      "letter_count": "__-____"
+    },
+    {
+      "id": "it_0004_0260",
+      "italian": "fantasma",
+      "english": [
+        "ghost"
+      ],
+      "primary_english": "ghost",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la fantasma?",
+      "example_english": "Where is the ghost?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0261",
+      "italian": "suono",
+      "english": [
+        "sound"
+      ],
+      "primary_english": "sound",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il suono?",
+      "example_english": "Where is the sound?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0262",
+      "italian": "diversa",
+      "english": [
+        "different"
+      ],
+      "primary_english": "different",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la diversa?",
+      "example_english": "Where is the different?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0263",
+      "italian": "cancro",
+      "english": [
+        "cancer"
+      ],
+      "primary_english": "cancer",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il cancro?",
+      "example_english": "Where is the cancer?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0264",
+      "italian": "case",
+      "english": [
+        "houses"
+      ],
+      "primary_english": "houses",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto case.",
+      "example_english": "It is very houses.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0265",
+      "italian": "credimi",
+      "english": [
+        "believe me"
+      ],
+      "primary_english": "believe me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto credimi.",
+      "example_english": "It is very believe me.",
+      "letter_count": "_______-__"
+    },
+    {
+      "id": "it_0004_0266",
+      "italian": "luci",
+      "english": [
+        "lights"
+      ],
+      "primary_english": "lights",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto luci.",
+      "example_english": "It is very lights.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0267",
+      "italian": "privato",
+      "english": [
+        "private"
+      ],
+      "primary_english": "private",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il privato?",
+      "example_english": "Where is the private?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0268",
+      "italian": "perdita",
+      "english": [
+        "loss"
+      ],
+      "primary_english": "loss",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la perdita?",
+      "example_english": "Where is the loss?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0269",
+      "italian": "sistemare",
+      "english": [
+        "tidy up"
+      ],
+      "primary_english": "tidy up",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace sistemare.",
+      "example_english": "I like to tidy up.",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0270",
+      "italian": "terza",
+      "english": [
+        "third"
+      ],
+      "primary_english": "third",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la terza?",
+      "example_english": "Where is the third?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0271",
+      "italian": "prenderti",
+      "english": [
+        "take you"
+      ],
+      "primary_english": "take you",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto prenderti.",
+      "example_english": "It is very take you.",
+      "letter_count": "____-___"
+    },
+    {
+      "id": "it_0004_0272",
+      "italian": "dita",
+      "english": [
+        "fingers"
+      ],
+      "primary_english": "fingers",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la dita?",
+      "example_english": "Where is the fingers?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0273",
+      "italian": "comincia",
+      "english": [
+        "it begins"
+      ],
+      "primary_english": "it begins",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la comincia?",
+      "example_english": "Where is the it begins?",
+      "letter_count": "__-______"
+    },
+    {
+      "id": "it_0004_0274",
+      "italian": "vince",
+      "english": [
+        "wins"
+      ],
+      "primary_english": "wins",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto vince.",
+      "example_english": "It is very wins.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0275",
+      "italian": "pensiamo",
+      "english": [
+        "we think"
+      ],
+      "primary_english": "we think",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il pensiamo?",
+      "example_english": "Where is the we think?",
+      "letter_count": "__-_____"
+    },
+    {
+      "id": "it_0004_0276",
+      "italian": "caduto",
+      "english": [
+        "fell"
+      ],
+      "primary_english": "fell",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il caduto?",
+      "example_english": "Where is the fell?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0277",
+      "italian": "trovarlo",
+      "english": [
+        "find it"
+      ],
+      "primary_english": "find it",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il trovarlo?",
+      "example_english": "Where is the find it?",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0278",
+      "italian": "scendere",
+      "english": [
+        "DESCEND"
+      ],
+      "primary_english": "DESCEND",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo scendere.",
+      "example_english": "I must DESCEND.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0279",
+      "italian": "sig",
+      "english": [
+        "Mr"
+      ],
+      "primary_english": "Mr",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto sig.",
+      "example_english": "It is very Mr.",
+      "letter_count": 2
+    },
+    {
+      "id": "it_0004_0280",
+      "italian": "andarmene",
+      "english": [
+        "leave"
+      ],
+      "primary_english": "leave",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto andarmene.",
+      "example_english": "It is very leave.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0281",
+      "italian": "pista",
+      "english": [
+        "track"
+      ],
+      "primary_english": "track",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la pista?",
+      "example_english": "Where is the track?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0282",
+      "italian": "compagno",
+      "english": [
+        "company"
+      ],
+      "primary_english": "company",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il compagno?",
+      "example_english": "Where is the company?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0283",
+      "italian": "primi",
+      "english": [
+        "first"
+      ],
+      "primary_english": "first",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto primi.",
+      "example_english": "It is very first.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0284",
+      "italian": "indagine",
+      "english": [
+        "investigation"
+      ],
+      "primary_english": "investigation",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto indagine.",
+      "example_english": "It is very investigation.",
+      "letter_count": 13
+    },
+    {
+      "id": "it_0004_0285",
+      "italian": "innamorato",
+      "english": [
+        "in love"
+      ],
+      "primary_english": "in love",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il innamorato?",
+      "example_english": "Where is the in love?",
+      "letter_count": "__-____"
+    },
+    {
+      "id": "it_0004_0286",
+      "italian": "telefonata",
+      "english": [
+        "phone call"
+      ],
+      "primary_english": "phone call",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la telefonata?",
+      "example_english": "Where is the phone call?",
+      "letter_count": "_____-____"
+    },
+    {
+      "id": "it_0004_0287",
+      "italian": "aspettavo",
+      "english": [
+        "I was waiting"
+      ],
+      "primary_english": "I was waiting",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il aspettavo?",
+      "example_english": "Where is the I was waiting?",
+      "letter_count": "_-___-_______"
+    },
+    {
+      "id": "it_0004_0288",
+      "italian": "desiderio",
+      "english": [
+        "wish"
+      ],
+      "primary_english": "wish",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il desiderio?",
+      "example_english": "Where is the wish?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0289",
+      "italian": "dovreste",
+      "english": [
+        "you should"
+      ],
+      "primary_english": "you should",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dovreste.",
+      "example_english": "It is very you should.",
+      "letter_count": "___-______"
+    },
+    {
+      "id": "it_0004_0290",
+      "italian": "numeri",
+      "english": [
+        "numbers"
+      ],
+      "primary_english": "numbers",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto numeri.",
+      "example_english": "It is very numbers.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0291",
+      "italian": "seduta",
+      "english": [
+        "sitting"
+      ],
+      "primary_english": "sitting",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la seduta?",
+      "example_english": "Where is the sitting?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0292",
+      "italian": "mentendo",
+      "english": [
+        "lying"
+      ],
+      "primary_english": "lying",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il mentendo?",
+      "example_english": "Where is the lying?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0293",
+      "italian": "accettato",
+      "english": [
+        "accepted"
+      ],
+      "primary_english": "accepted",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il accettato?",
+      "example_english": "Where is the accepted?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0294",
+      "italian": "aiuta",
+      "english": [
+        "it helps"
+      ],
+      "primary_english": "it helps",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la aiuta?",
+      "example_english": "Where is the it helps?",
+      "letter_count": "__-_____"
+    },
+    {
+      "id": "it_0004_0295",
+      "italian": "autobus",
+      "english": [
+        "bus"
+      ],
+      "primary_english": "bus",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto autobus.",
+      "example_english": "It is very bus.",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0296",
+      "italian": "troia",
+      "english": [
+        "slut"
+      ],
+      "primary_english": "slut",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la troia?",
+      "example_english": "Where is the slut?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0297",
+      "italian": "magnifico",
+      "english": [
+        "magnificent"
+      ],
+      "primary_english": "magnificent",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il magnifico?",
+      "example_english": "Where is the magnificent?",
+      "letter_count": 11
+    },
+    {
+      "id": "it_0004_0298",
+      "italian": "sabato",
+      "english": [
+        "Saturday"
+      ],
+      "primary_english": "Saturday",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il sabato?",
+      "example_english": "Where is the Saturday?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0299",
+      "italian": "esserlo",
+      "english": [
+        "be"
+      ],
+      "primary_english": "be",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il esserlo?",
+      "example_english": "Where is the be?",
+      "letter_count": 2
+    },
+    {
+      "id": "it_0004_0300",
+      "italian": "voci",
+      "english": [
+        "voices"
+      ],
+      "primary_english": "voices",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto voci.",
+      "example_english": "It is very voices.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0301",
+      "italian": "occupato",
+      "english": [
+        "busy"
+      ],
+      "primary_english": "busy",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il occupato?",
+      "example_english": "Where is the busy?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0302",
+      "italian": "controlla",
+      "english": [
+        "check"
+      ],
+      "primary_english": "check",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la controlla?",
+      "example_english": "Where is the check?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0303",
+      "italian": "pratica",
+      "english": [
+        "practice"
+      ],
+      "primary_english": "practice",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la pratica?",
+      "example_english": "Where is the practice?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0304",
+      "italian": "sposata",
+      "english": [
+        "married"
+      ],
+      "primary_english": "married",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la sposata?",
+      "example_english": "Where is the married?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0305",
+      "italian": "tetto",
+      "english": [
+        "roof"
+      ],
+      "primary_english": "roof",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il tetto?",
+      "example_english": "Where is the roof?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0306",
+      "italian": "genio",
+      "english": [
+        "genius"
+      ],
+      "primary_english": "genius",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il genio?",
+      "example_english": "Where is the genius?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0307",
+      "italian": "preoccupata",
+      "english": [
+        "worried"
+      ],
+      "primary_english": "worried",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la preoccupata?",
+      "example_english": "Where is the worried?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0308",
+      "italian": "volessi",
+      "english": [
+        "I wanted"
+      ],
+      "primary_english": "I wanted",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto volessi.",
+      "example_english": "It is very I wanted.",
+      "letter_count": "_-______"
+    },
+    {
+      "id": "it_0004_0309",
+      "italian": "cappello",
+      "english": [
+        "hat"
+      ],
+      "primary_english": "hat",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il cappello?",
+      "example_english": "Where is the hat?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0310",
+      "italian": "leggi",
+      "english": [
+        "laws"
+      ],
+      "primary_english": "laws",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto leggi.",
+      "example_english": "It is very laws.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0311",
+      "italian": "orologio",
+      "english": [
+        "clock"
+      ],
+      "primary_english": "clock",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il orologio?",
+      "example_english": "Where is the clock?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0312",
+      "italian": "direttamente",
+      "english": [
+        "directly"
+      ],
+      "primary_english": "directly",
+      "hint": null,
+      "part_of_speech": "adverb",
+      "gender": null,
+      "example_italian": "Direttamente vado a casa.",
+      "example_english": "Directly I go home.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0313",
+      "italian": "bicchiere",
+      "english": [
+        "glass"
+      ],
+      "primary_english": "glass",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo bicchiere.",
+      "example_english": "I must glass.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0314",
+      "italian": "eppure",
+      "english": [
+        "nevertheless"
+      ],
+      "primary_english": "nevertheless",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto eppure.",
+      "example_english": "It is very nevertheless.",
+      "letter_count": 12
+    },
+    {
+      "id": "it_0004_0315",
+      "italian": "mezza",
+      "english": [
+        "half"
+      ],
+      "primary_english": "half",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la mezza?",
+      "example_english": "Where is the half?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0316",
+      "italian": "purtroppo",
+      "english": [
+        "Unfortunately"
+      ],
+      "primary_english": "Unfortunately",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il purtroppo?",
+      "example_english": "Where is the Unfortunately?",
+      "letter_count": 13
+    },
+    {
+      "id": "it_0004_0317",
+      "italian": "conosciamo",
+      "english": [
+        "we know"
+      ],
+      "primary_english": "we know",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il conosciamo?",
+      "example_english": "Where is the we know?",
+      "letter_count": "__-____"
+    },
+    {
+      "id": "it_0004_0318",
+      "italian": "liceo",
+      "english": [
+        "Lyceum"
+      ],
+      "primary_english": "Lyceum",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il liceo?",
+      "example_english": "Where is the Lyceum?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0319",
+      "italian": "voler",
+      "english": [
+        "want"
+      ],
+      "primary_english": "want",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto voler.",
+      "example_english": "It is very want.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0320",
+      "italian": "piaci",
+      "english": [
+        "like you"
+      ],
+      "primary_english": "like you",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto piaci.",
+      "example_english": "It is very like you.",
+      "letter_count": "____-___"
+    },
+    {
+      "id": "it_0004_0321",
+      "italian": "seriamente",
+      "english": [
+        "seriously"
+      ],
+      "primary_english": "seriously",
+      "hint": null,
+      "part_of_speech": "adverb",
+      "gender": null,
+      "example_italian": "Seriamente vado a casa.",
+      "example_english": "Seriously I go home.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0322",
+      "italian": "pazienti",
+      "english": [
+        "patients"
+      ],
+      "primary_english": "patients",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto pazienti.",
+      "example_english": "It is very patients.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0323",
+      "italian": "facevo",
+      "english": [
+        "I did"
+      ],
+      "primary_english": "I did",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il facevo?",
+      "example_english": "Where is the I did?",
+      "letter_count": "_-___"
+    },
+    {
+      "id": "it_0004_0324",
+      "italian": "infermiera",
+      "english": [
+        "nurse"
+      ],
+      "primary_english": "nurse",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la infermiera?",
+      "example_english": "Where is the nurse?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0325",
+      "italian": "maledetto",
+      "english": [
+        "cursed"
+      ],
+      "primary_english": "cursed",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il maledetto?",
+      "example_english": "Where is the cursed?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0326",
+      "italian": "accusa",
+      "english": [
+        "accusation"
+      ],
+      "primary_english": "accusation",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la accusa?",
+      "example_english": "Where is the accusation?",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0327",
+      "italian": "esame",
+      "english": [
+        "examination"
+      ],
+      "primary_english": "examination",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto esame.",
+      "example_english": "It is very examination.",
+      "letter_count": 11
+    },
+    {
+      "id": "it_0004_0328",
+      "italian": "popolo",
+      "english": [
+        "people"
+      ],
+      "primary_english": "people",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il popolo?",
+      "example_english": "Where is the people?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0329",
+      "italian": "ragazzina",
+      "english": [
+        "little girl"
+      ],
+      "primary_english": "little girl",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la ragazzina?",
+      "example_english": "Where is the little girl?",
+      "letter_count": "______-____"
+    },
+    {
+      "id": "it_0004_0330",
+      "italian": "esce",
+      "english": [
+        "comes out"
+      ],
+      "primary_english": "comes out",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto esce.",
+      "example_english": "It is very comes out.",
+      "letter_count": "_____-___"
+    },
+    {
+      "id": "it_0004_0331",
+      "italian": "gara",
+      "english": [
+        "race"
+      ],
+      "primary_english": "race",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la gara?",
+      "example_english": "Where is the race?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0332",
+      "italian": "politica",
+      "english": [
+        "politics"
+      ],
+      "primary_english": "politics",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la politica?",
+      "example_english": "Where is the politics?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0333",
+      "italian": "entri",
+      "english": [
+        "come in"
+      ],
+      "primary_english": "come in",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto entri.",
+      "example_english": "It is very come in.",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0334",
+      "italian": "metta",
+      "english": [
+        "put"
+      ],
+      "primary_english": "put",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la metta?",
+      "example_english": "Where is the put?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0335",
+      "italian": "pollo",
+      "english": [
+        "chicken"
+      ],
+      "primary_english": "chicken",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il pollo?",
+      "example_english": "Where is the chicken?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0336",
+      "italian": "area",
+      "english": [
+        "area"
+      ],
+      "primary_english": "area",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la area?",
+      "example_english": "Where is the area?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0337",
+      "italian": "fece",
+      "english": [
+        "he did"
+      ],
+      "primary_english": "he did",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto fece.",
+      "example_english": "It is very he did.",
+      "letter_count": "__-___"
+    },
+    {
+      "id": "it_0004_0338",
+      "italian": "diamo",
+      "english": [
+        "come on"
+      ],
+      "primary_english": "come on",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il diamo?",
+      "example_english": "Where is the come on?",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0339",
+      "italian": "spiaggia",
+      "english": [
+        "beach"
+      ],
+      "primary_english": "beach",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la spiaggia?",
+      "example_english": "Where is the beach?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0340",
+      "italian": "andrò",
+      "english": [
+        "I'll go"
+      ],
+      "primary_english": "I'll go",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto andrò.",
+      "example_english": "It is very I'll go.",
+      "letter_count": "___-__"
+    },
+    {
+      "id": "it_0004_0341",
+      "italian": "passati",
+      "english": [
+        "past"
+      ],
+      "primary_english": "past",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto passati.",
+      "example_english": "It is very past.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0342",
+      "italian": "testimoni",
+      "english": [
+        "witnesses"
+      ],
+      "primary_english": "witnesses",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto testimoni.",
+      "example_english": "It is very witnesses.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0343",
+      "italian": "ted",
+      "english": [
+        "German"
+      ],
+      "primary_english": "German",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto ted.",
+      "example_english": "It is very German.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0344",
+      "italian": "viso",
+      "english": [
+        "face"
+      ],
+      "primary_english": "face",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il viso?",
+      "example_english": "Where is the face?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0345",
+      "italian": "cambia",
+      "english": [
+        "change"
+      ],
+      "primary_english": "change",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la cambia?",
+      "example_english": "Where is the change?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0346",
+      "italian": "altezza",
+      "english": [
+        "height"
+      ],
+      "primary_english": "height",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la altezza?",
+      "example_english": "Where is the height?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0347",
+      "italian": "media",
+      "english": [
+        "average"
+      ],
+      "primary_english": "average",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la media?",
+      "example_english": "Where is the average?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0348",
+      "italian": "segni",
+      "english": [
+        "signs"
+      ],
+      "primary_english": "signs",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto segni.",
+      "example_english": "It is very signs.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0349",
+      "italian": "dirgli",
+      "english": [
+        "tell him"
+      ],
+      "primary_english": "tell him",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dirgli.",
+      "example_english": "It is very tell him.",
+      "letter_count": "____-___"
+    },
+    {
+      "id": "it_0004_0350",
+      "italian": "copertura",
+      "english": [
+        "cover"
+      ],
+      "primary_english": "cover",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la copertura?",
+      "example_english": "Where is the cover?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0351",
+      "italian": "porte",
+      "english": [
+        "doors"
+      ],
+      "primary_english": "doors",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto porte.",
+      "example_english": "It is very doors.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0352",
+      "italian": "perfettamente",
+      "english": [
+        "perfectly"
+      ],
+      "primary_english": "perfectly",
+      "hint": null,
+      "part_of_speech": "adverb",
+      "gender": null,
+      "example_italian": "Perfettamente vado a casa.",
+      "example_english": "Perfectly I go home.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0353",
+      "italian": "doccia",
+      "english": [
+        "shower"
+      ],
+      "primary_english": "shower",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la doccia?",
+      "example_english": "Where is the shower?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0354",
+      "italian": "vissuto",
+      "english": [
+        "lived"
+      ],
+      "primary_english": "lived",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il vissuto?",
+      "example_english": "Where is the lived?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0355",
+      "italian": "taglio",
+      "english": [
+        "cut"
+      ],
+      "primary_english": "cut",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il taglio?",
+      "example_english": "Where is the cut?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0356",
+      "italian": "animale",
+      "english": [
+        "animal"
+      ],
+      "primary_english": "animal",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto animale.",
+      "example_english": "It is very animal.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0357",
+      "italian": "eravate",
+      "english": [
+        "you were"
+      ],
+      "primary_english": "you were",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto eravate.",
+      "example_english": "It is very you were.",
+      "letter_count": "___-____"
+    },
+    {
+      "id": "it_0004_0358",
+      "italian": "giornale",
+      "english": [
+        "newspaper"
+      ],
+      "primary_english": "newspaper",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto giornale.",
+      "example_english": "It is very newspaper.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0359",
+      "italian": "distanza",
+      "english": [
+        "distance"
+      ],
+      "primary_english": "distance",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la distanza?",
+      "example_english": "Where is the distance?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0360",
+      "italian": "vedermi",
+      "english": [
+        "see me"
+      ],
+      "primary_english": "see me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto vedermi.",
+      "example_english": "It is very see me.",
+      "letter_count": "___-__"
+    },
+    {
+      "id": "it_0004_0361",
+      "italian": "guardato",
+      "english": [
+        "looked"
+      ],
+      "primary_english": "looked",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il guardato?",
+      "example_english": "Where is the looked?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0362",
+      "italian": "ascoltate",
+      "english": [
+        "listen"
+      ],
+      "primary_english": "listen",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto ascoltate.",
+      "example_english": "It is very listen.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0363",
+      "italian": "completo",
+      "english": [
+        "full"
+      ],
+      "primary_english": "full",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il completo?",
+      "example_english": "Where is the full?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0364",
+      "italian": "ordinato",
+      "english": [
+        "tidy"
+      ],
+      "primary_english": "tidy",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il ordinato?",
+      "example_english": "Where is the tidy?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0365",
+      "italian": "lasciamo",
+      "english": [
+        "let's leave"
+      ],
+      "primary_english": "let's leave",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il lasciamo?",
+      "example_english": "Where is the let's leave?",
+      "letter_count": "____-_____"
+    },
+    {
+      "id": "it_0004_0366",
+      "italian": "alcuna",
+      "english": [
+        "any"
+      ],
+      "primary_english": "any",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la alcuna?",
+      "example_english": "Where is the any?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0367",
+      "italian": "minaccia",
+      "english": [
+        "threat"
+      ],
+      "primary_english": "threat",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la minaccia?",
+      "example_english": "Where is the threat?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0368",
+      "italian": "bevi",
+      "english": [
+        "drink"
+      ],
+      "primary_english": "drink",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto bevi.",
+      "example_english": "It is very drink.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0369",
+      "italian": "sentita",
+      "english": [
+        "heard"
+      ],
+      "primary_english": "heard",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la sentita?",
+      "example_english": "Where is the heard?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0370",
+      "italian": "avrò",
+      "english": [
+        "I will have"
+      ],
+      "primary_english": "I will have",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto avrò.",
+      "example_english": "It is very I will have.",
+      "letter_count": "_-____-____"
+    },
+    {
+      "id": "it_0004_0371",
+      "italian": "toccare",
+      "english": [
+        "touch"
+      ],
+      "primary_english": "touch",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace toccare.",
+      "example_english": "I like to touch.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0372",
+      "italian": "dargli",
+      "english": [
+        "give it"
+      ],
+      "primary_english": "give it",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dargli.",
+      "example_english": "It is very give it.",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0373",
+      "italian": "eta",
+      "english": [
+        "age"
+      ],
+      "primary_english": "age",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la eta?",
+      "example_english": "Where is the age?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0374",
+      "italian": "naturale",
+      "english": [
+        "natural"
+      ],
+      "primary_english": "natural",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto naturale.",
+      "example_english": "It is very natural.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0375",
+      "italian": "lascialo",
+      "english": [
+        "leave it"
+      ],
+      "primary_english": "leave it",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il lascialo?",
+      "example_english": "Where is the leave it?",
+      "letter_count": "_____-__"
+    },
+    {
+      "id": "it_0004_0376",
+      "italian": "strade",
+      "english": [
+        "streets"
+      ],
+      "primary_english": "streets",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto strade.",
+      "example_english": "It is very streets.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0377",
+      "italian": "date",
+      "english": [
+        "dates"
+      ],
+      "primary_english": "dates",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto date.",
+      "example_english": "It is very dates.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0378",
+      "italian": "stanca",
+      "english": [
+        "tired"
+      ],
+      "primary_english": "tired",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la stanca?",
+      "example_english": "Where is the tired?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0379",
+      "italian": "pagina",
+      "english": [
+        "page"
+      ],
+      "primary_english": "page",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la pagina?",
+      "example_english": "Where is the page?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0380",
+      "italian": "paradiso",
+      "english": [
+        "paradise"
+      ],
+      "primary_english": "paradise",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il paradiso?",
+      "example_english": "Where is the paradise?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0381",
+      "italian": "quartiere",
+      "english": [
+        "quarter"
+      ],
+      "primary_english": "quarter",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo quartiere.",
+      "example_english": "I must quarter.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0382",
+      "italian": "certe",
+      "english": [
+        "certain"
+      ],
+      "primary_english": "certain",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto certe.",
+      "example_english": "It is very certain.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0383",
+      "italian": "andarsene",
+      "english": [
+        "leave"
+      ],
+      "primary_english": "leave",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto andarsene.",
+      "example_english": "It is very leave.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0384",
+      "italian": "venduto",
+      "english": [
+        "sold"
+      ],
+      "primary_english": "sold",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il venduto?",
+      "example_english": "Where is the sold?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0385",
+      "italian": "matt",
+      "english": [
+        "morning"
+      ],
+      "primary_english": "morning",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto matt.",
+      "example_english": "It is very morning.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0386",
+      "italian": "rotta",
+      "english": [
+        "route"
+      ],
+      "primary_english": "route",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la rotta?",
+      "example_english": "Where is the route?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0387",
+      "italian": "sposa",
+      "english": [
+        "wife"
+      ],
+      "primary_english": "wife",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la sposa?",
+      "example_english": "Where is the wife?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0388",
+      "italian": "nazionale",
+      "english": [
+        "national"
+      ],
+      "primary_english": "national",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto nazionale.",
+      "example_english": "It is very national.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0389",
+      "italian": "sottotitoli",
+      "english": [
+        "subtitles"
+      ],
+      "primary_english": "subtitles",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto sottotitoli.",
+      "example_english": "It is very subtitles.",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0390",
+      "italian": "giardino",
+      "english": [
+        "garden"
+      ],
+      "primary_english": "garden",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il giardino?",
+      "example_english": "Where is the garden?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0391",
+      "italian": "biglietti",
+      "english": [
+        "tickets"
+      ],
+      "primary_english": "tickets",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto biglietti.",
+      "example_english": "It is very tickets.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0392",
+      "italian": "diventata",
+      "english": [
+        "become"
+      ],
+      "primary_english": "become",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la diventata?",
+      "example_english": "Where is the become?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0393",
+      "italian": "succedera",
+      "english": [
+        "it will happen"
+      ],
+      "primary_english": "it will happen",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la succedera?",
+      "example_english": "Where is the it will happen?",
+      "letter_count": "__-____-______"
+    },
+    {
+      "id": "it_0004_0394",
+      "italian": "spaventato",
+      "english": [
+        "scared"
+      ],
+      "primary_english": "scared",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il spaventato?",
+      "example_english": "Where is the scared?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0395",
+      "italian": "arrestato",
+      "english": [
+        "arrested"
+      ],
+      "primary_english": "arrested",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il arrestato?",
+      "example_english": "Where is the arrested?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0396",
+      "italian": "partito",
+      "english": [
+        "party"
+      ],
+      "primary_english": "party",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il partito?",
+      "example_english": "Where is the party?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0397",
+      "italian": "internet",
+      "english": [
+        "Internet"
+      ],
+      "primary_english": "Internet",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto internet.",
+      "example_english": "It is very Internet.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0398",
+      "italian": "allarme",
+      "english": [
+        "alarm"
+      ],
+      "primary_english": "alarm",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto allarme.",
+      "example_english": "It is very alarm.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0399",
+      "italian": "grossa",
+      "english": [
+        "big"
+      ],
+      "primary_english": "big",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la grossa?",
+      "example_english": "Where is the big?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0400",
+      "italian": "universo",
+      "english": [
+        "universe"
+      ],
+      "primary_english": "universe",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il universo?",
+      "example_english": "Where is the universe?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0401",
+      "italian": "girare",
+      "english": [
+        "spin"
+      ],
+      "primary_english": "spin",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace girare.",
+      "example_english": "I like to spin.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0402",
+      "italian": "collega",
+      "english": [
+        "colleague"
+      ],
+      "primary_english": "colleague",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la collega?",
+      "example_english": "Where is the colleague?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0403",
+      "italian": "insegnante",
+      "english": [
+        "teacher"
+      ],
+      "primary_english": "teacher",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto insegnante.",
+      "example_english": "It is very teacher.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0404",
+      "italian": "cavalli",
+      "english": [
+        "horses"
+      ],
+      "primary_english": "horses",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto cavalli.",
+      "example_english": "It is very horses.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0405",
+      "italian": "vuoto",
+      "english": [
+        "empty"
+      ],
+      "primary_english": "empty",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il vuoto?",
+      "example_english": "Where is the empty?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0406",
+      "italian": "muore",
+      "english": [
+        "dies"
+      ],
+      "primary_english": "dies",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il muore?",
+      "example_english": "Where is the dies?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0407",
+      "italian": "merito",
+      "english": [
+        "merit"
+      ],
+      "primary_english": "merit",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il merito?",
+      "example_english": "Where is the merit?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0408",
+      "italian": "chiamarmi",
+      "english": [
+        "call me"
+      ],
+      "primary_english": "call me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto chiamarmi.",
+      "example_english": "It is very call me.",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0409",
+      "italian": "talento",
+      "english": [
+        "talent"
+      ],
+      "primary_english": "talent",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il talento?",
+      "example_english": "Where is the talent?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0410",
+      "italian": "rosa",
+      "english": [
+        "rose"
+      ],
+      "primary_english": "rose",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la rosa?",
+      "example_english": "Where is the rose?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0411",
+      "italian": "spada",
+      "english": [
+        "spade"
+      ],
+      "primary_english": "spade",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la spada?",
+      "example_english": "Where is the spade?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0412",
+      "italian": "dito",
+      "english": [
+        "finger"
+      ],
+      "primary_english": "finger",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il dito?",
+      "example_english": "Where is the finger?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0413",
+      "italian": "uccidermi",
+      "english": [
+        "kill me"
+      ],
+      "primary_english": "kill me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto uccidermi.",
+      "example_english": "It is very kill me.",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0414",
+      "italian": "dovesse",
+      "english": [
+        "should"
+      ],
+      "primary_english": "should",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto dovesse.",
+      "example_english": "It is very should.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0415",
+      "italian": "tipi",
+      "english": [
+        "types"
+      ],
+      "primary_english": "types",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto tipi.",
+      "example_english": "It is very types.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0416",
+      "italian": "umana",
+      "english": [
+        "human"
+      ],
+      "primary_english": "human",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la umana?",
+      "example_english": "Where is the human?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0417",
+      "italian": "immagini",
+      "english": [
+        "Images"
+      ],
+      "primary_english": "Images",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto immagini.",
+      "example_english": "It is very Images.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0418",
+      "italian": "doppio",
+      "english": [
+        "double"
+      ],
+      "primary_english": "double",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il doppio?",
+      "example_english": "Where is the double?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0419",
+      "italian": "età",
+      "english": [
+        "age"
+      ],
+      "primary_english": "age",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la età?",
+      "example_english": "Where is the age?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0420",
+      "italian": "intendevo",
+      "english": [
+        "I meant"
+      ],
+      "primary_english": "I meant",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il intendevo?",
+      "example_english": "Where is the I meant?",
+      "letter_count": "_-_____"
+    },
+    {
+      "id": "it_0004_0421",
+      "italian": "fuga",
+      "english": [
+        "leak"
+      ],
+      "primary_english": "leak",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la fuga?",
+      "example_english": "Where is the leak?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0422",
+      "italian": "amiche",
+      "english": [
+        "friends"
+      ],
+      "primary_english": "friends",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto amiche.",
+      "example_english": "It is very friends.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0423",
+      "italian": "domenica",
+      "english": [
+        "Sunday"
+      ],
+      "primary_english": "Sunday",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la domenica?",
+      "example_english": "Where is the Sunday?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0424",
+      "italian": "immagine",
+      "english": [
+        "picture"
+      ],
+      "primary_english": "picture",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto immagine.",
+      "example_english": "It is very picture.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0425",
+      "italian": "vicina",
+      "english": [
+        "close"
+      ],
+      "primary_english": "close",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la vicina?",
+      "example_english": "Where is the close?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0426",
+      "italian": "dimmelo",
+      "english": [
+        "tell me"
+      ],
+      "primary_english": "tell me",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il dimmelo?",
+      "example_english": "Where is the tell me?",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0427",
+      "italian": "mostra",
+      "english": [
+        "show"
+      ],
+      "primary_english": "show",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la mostra?",
+      "example_english": "Where is the show?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0428",
+      "italian": "prenderlo",
+      "english": [
+        "take it"
+      ],
+      "primary_english": "take it",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il prenderlo?",
+      "example_english": "Where is the take it?",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0429",
+      "italian": "militare",
+      "english": [
+        "military"
+      ],
+      "primary_english": "military",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace militare.",
+      "example_english": "I like to military.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0430",
+      "italian": "rabbia",
+      "english": [
+        "anger"
+      ],
+      "primary_english": "anger",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la rabbia?",
+      "example_english": "Where is the anger?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0431",
+      "italian": "rimani",
+      "english": [
+        "stay"
+      ],
+      "primary_english": "stay",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto rimani.",
+      "example_english": "It is very stay.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0432",
+      "italian": "mattino",
+      "english": [
+        "morning"
+      ],
+      "primary_english": "morning",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il mattino?",
+      "example_english": "Where is the morning?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0433",
+      "italian": "corrente",
+      "english": [
+        "current"
+      ],
+      "primary_english": "current",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto corrente.",
+      "example_english": "It is very current.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0434",
+      "italian": "rubare",
+      "english": [
+        "steal"
+      ],
+      "primary_english": "steal",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace rubare.",
+      "example_english": "I like to steal.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0435",
+      "italian": "nera",
+      "english": [
+        "black"
+      ],
+      "primary_english": "black",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la nera?",
+      "example_english": "Where is the black?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0436",
+      "italian": "preparato",
+      "english": [
+        "prepared"
+      ],
+      "primary_english": "prepared",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il preparato?",
+      "example_english": "Where is the prepared?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0437",
+      "italian": "padrone",
+      "english": [
+        "master"
+      ],
+      "primary_english": "master",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il padrone?",
+      "example_english": "Where is the master?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0438",
+      "italian": "conoscerti",
+      "english": [
+        "get to know you"
+      ],
+      "primary_english": "get to know you",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto conoscerti.",
+      "example_english": "It is very get to know you.",
+      "letter_count": "___-__-____-___"
+    },
+    {
+      "id": "it_0004_0439",
+      "italian": "direzione",
+      "english": [
+        "direction"
+      ],
+      "primary_english": "direction",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la direzione?",
+      "example_english": "Where is the direction?",
+      "letter_count": 9
+    },
+    {
+      "id": "it_0004_0440",
+      "italian": "sveglio",
+      "english": [
+        "I wake"
+      ],
+      "primary_english": "I wake",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il sveglio?",
+      "example_english": "Where is the I wake?",
+      "letter_count": "_-____"
+    },
+    {
+      "id": "it_0004_0441",
+      "italian": "tette",
+      "english": [
+        "boobs"
+      ],
+      "primary_english": "boobs",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto tette.",
+      "example_english": "It is very boobs.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0442",
+      "italian": "ultime",
+      "english": [
+        "latest"
+      ],
+      "primary_english": "latest",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto ultime.",
+      "example_english": "It is very latest.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0443",
+      "italian": "potremo",
+      "english": [
+        "we can"
+      ],
+      "primary_english": "we can",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il potremo?",
+      "example_english": "Where is the we can?",
+      "letter_count": "__-___"
+    },
+    {
+      "id": "it_0004_0444",
+      "italian": "potente",
+      "english": [
+        "powerful"
+      ],
+      "primary_english": "powerful",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto potente.",
+      "example_english": "It is very powerful.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0445",
+      "italian": "arrivano",
+      "english": [
+        "they arrive"
+      ],
+      "primary_english": "they arrive",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il arrivano?",
+      "example_english": "Where is the they arrive?",
+      "letter_count": "____-______"
+    },
+    {
+      "id": "it_0004_0446",
+      "italian": "gratis",
+      "english": [
+        "free"
+      ],
+      "primary_english": "free",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto gratis.",
+      "example_english": "It is very free.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0447",
+      "italian": "calmo",
+      "english": [
+        "calm"
+      ],
+      "primary_english": "calm",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il calmo?",
+      "example_english": "Where is the calm?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0448",
+      "italian": "amor",
+      "english": [
+        "love"
+      ],
+      "primary_english": "love",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto amor.",
+      "example_english": "It is very love.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0449",
+      "italian": "cantare",
+      "english": [
+        "sing"
+      ],
+      "primary_english": "sing",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace cantare.",
+      "example_english": "I like to sing.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0450",
+      "italian": "unita",
+      "english": [
+        "unit"
+      ],
+      "primary_english": "unit",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la unita?",
+      "example_english": "Where is the unit?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0451",
+      "italian": "tira",
+      "english": [
+        "pull"
+      ],
+      "primary_english": "pull",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la tira?",
+      "example_english": "Where is the pull?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0452",
+      "italian": "velocemente",
+      "english": [
+        "quickly"
+      ],
+      "primary_english": "quickly",
+      "hint": null,
+      "part_of_speech": "adverb",
+      "gender": null,
+      "example_italian": "Velocemente vado a casa.",
+      "example_english": "Quickly I go home.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0453",
+      "italian": "funerale",
+      "english": [
+        "funeral"
+      ],
+      "primary_english": "funeral",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto funerale.",
+      "example_english": "It is very funeral.",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0454",
+      "italian": "intende",
+      "english": [
+        "he means"
+      ],
+      "primary_english": "he means",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto intende.",
+      "example_english": "It is very he means.",
+      "letter_count": "__-_____"
+    },
+    {
+      "id": "it_0004_0455",
+      "italian": "seria",
+      "english": [
+        "serious"
+      ],
+      "primary_english": "serious",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la seria?",
+      "example_english": "Where is the serious?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0456",
+      "italian": "lasciatemi",
+      "english": [
+        "leave me"
+      ],
+      "primary_english": "leave me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto lasciatemi.",
+      "example_english": "It is very leave me.",
+      "letter_count": "_____-__"
+    },
+    {
+      "id": "it_0004_0457",
+      "italian": "dallo",
+      "english": [
+        "give it"
+      ],
+      "primary_english": "give it",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il dallo?",
+      "example_english": "Where is the give it?",
+      "letter_count": "____-__"
+    },
+    {
+      "id": "it_0004_0458",
+      "italian": "erba",
+      "english": [
+        "grass"
+      ],
+      "primary_english": "grass",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la erba?",
+      "example_english": "Where is the grass?",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0459",
+      "italian": "dritto",
+      "english": [
+        "straight"
+      ],
+      "primary_english": "straight",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il dritto?",
+      "example_english": "Where is the straight?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0460",
+      "italian": "domattina",
+      "english": [
+        "tomorrow morning"
+      ],
+      "primary_english": "tomorrow morning",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la domattina?",
+      "example_english": "Where is the tomorrow morning?",
+      "letter_count": "________-_______"
+    },
+    {
+      "id": "it_0004_0461",
+      "italian": "tantissimo",
+      "english": [
+        "very, very much"
+      ],
+      "primary_english": "very, very much",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il tantissimo?",
+      "example_english": "Where is the very, very much?",
+      "letter_count": "_____-____-____"
+    },
+    {
+      "id": "it_0004_0462",
+      "italian": "termine",
+      "english": [
+        "term"
+      ],
+      "primary_english": "term",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto termine.",
+      "example_english": "It is very term.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0463",
+      "italian": "venendo",
+      "english": [
+        "coming"
+      ],
+      "primary_english": "coming",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il venendo?",
+      "example_english": "Where is the coming?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0464",
+      "italian": "regola",
+      "english": [
+        "rule"
+      ],
+      "primary_english": "rule",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la regola?",
+      "example_english": "Where is the rule?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0465",
+      "italian": "pazzi",
+      "english": [
+        "crazy"
+      ],
+      "primary_english": "crazy",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto pazzi.",
+      "example_english": "It is very crazy.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0466",
+      "italian": "sali",
+      "english": [
+        "salts"
+      ],
+      "primary_english": "salts",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto sali.",
+      "example_english": "It is very salts.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0467",
+      "italian": "coinvolto",
+      "english": [
+        "involved"
+      ],
+      "primary_english": "involved",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il coinvolto?",
+      "example_english": "Where is the involved?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0468",
+      "italian": "lasciata",
+      "english": [
+        "left"
+      ],
+      "primary_english": "left",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la lasciata?",
+      "example_english": "Where is the left?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0469",
+      "italian": "attenti",
+      "english": [
+        "be careful"
+      ],
+      "primary_english": "be careful",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto attenti.",
+      "example_english": "It is very be careful.",
+      "letter_count": "__-_______"
+    },
+    {
+      "id": "it_0004_0470",
+      "italian": "spia",
+      "english": [
+        "spy"
+      ],
+      "primary_english": "spy",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la spia?",
+      "example_english": "Where is the spy?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0471",
+      "italian": "azienda",
+      "english": [
+        "company"
+      ],
+      "primary_english": "company",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la azienda?",
+      "example_english": "Where is the company?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0472",
+      "italian": "vacanza",
+      "english": [
+        "vacation"
+      ],
+      "primary_english": "vacation",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la vacanza?",
+      "example_english": "Where is the vacation?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0473",
+      "italian": "manda",
+      "english": [
+        "send"
+      ],
+      "primary_english": "send",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la manda?",
+      "example_english": "Where is the send?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0474",
+      "italian": "sposare",
+      "english": [
+        "marry"
+      ],
+      "primary_english": "marry",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace sposare.",
+      "example_english": "I like to marry.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0475",
+      "italian": "lasciarmi",
+      "english": [
+        "leave me"
+      ],
+      "primary_english": "leave me",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto lasciarmi.",
+      "example_english": "It is very leave me.",
+      "letter_count": "_____-__"
+    },
+    {
+      "id": "it_0004_0476",
+      "italian": "invitato",
+      "english": [
+        "invited"
+      ],
+      "primary_english": "invited",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il invitato?",
+      "example_english": "Where is the invited?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0477",
+      "italian": "gira",
+      "english": [
+        "turn"
+      ],
+      "primary_english": "turn",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la gira?",
+      "example_english": "Where is the turn?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0478",
+      "italian": "medicina",
+      "english": [
+        "medicine"
+      ],
+      "primary_english": "medicine",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la medicina?",
+      "example_english": "Where is the medicine?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0479",
+      "italian": "abbiate",
+      "english": [
+        "have"
+      ],
+      "primary_english": "have",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto abbiate.",
+      "example_english": "It is very have.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0480",
+      "italian": "lisa",
+      "english": [
+        "Lisa"
+      ],
+      "primary_english": "Lisa",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la lisa?",
+      "example_english": "Where is the Lisa?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0481",
+      "italian": "est",
+      "english": [
+        "east"
+      ],
+      "primary_english": "east",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto est.",
+      "example_english": "It is very east.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0482",
+      "italian": "figo",
+      "english": [
+        "cool"
+      ],
+      "primary_english": "cool",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il figo?",
+      "example_english": "Where is the cool?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0483",
+      "italian": "sugli",
+      "english": [
+        "on"
+      ],
+      "primary_english": "on",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto sugli.",
+      "example_english": "It is very on.",
+      "letter_count": 2
+    },
+    {
+      "id": "it_0004_0484",
+      "italian": "mal",
+      "english": [
+        "bad"
+      ],
+      "primary_english": "bad",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto mal.",
+      "example_english": "It is very bad.",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0485",
+      "italian": "lupo",
+      "english": [
+        "wolf"
+      ],
+      "primary_english": "wolf",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il lupo?",
+      "example_english": "Where is the wolf?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0486",
+      "italian": "vittoria",
+      "english": [
+        "win"
+      ],
+      "primary_english": "win",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la vittoria?",
+      "example_english": "Where is the win?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0487",
+      "italian": "dappertutto",
+      "english": [
+        "everywhere"
+      ],
+      "primary_english": "everywhere",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il dappertutto?",
+      "example_english": "Where is the everywhere?",
+      "letter_count": 10
+    },
+    {
+      "id": "it_0004_0488",
+      "italian": "servizi",
+      "english": [
+        "services"
+      ],
+      "primary_english": "services",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto servizi.",
+      "example_english": "It is very services.",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0489",
+      "italian": "assurdo",
+      "english": [
+        "absurd"
+      ],
+      "primary_english": "absurd",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il assurdo?",
+      "example_english": "Where is the absurd?",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0490",
+      "italian": "guardati",
+      "english": [
+        "look at you"
+      ],
+      "primary_english": "look at you",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto guardati.",
+      "example_english": "It is very look at you.",
+      "letter_count": "____-__-___"
+    },
+    {
+      "id": "it_0004_0491",
+      "italian": "potra",
+      "english": [
+        "can"
+      ],
+      "primary_english": "can",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la potra?",
+      "example_english": "Where is the can?",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0492",
+      "italian": "vorra",
+      "english": [
+        "will"
+      ],
+      "primary_english": "will",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la vorra?",
+      "example_english": "Where is the will?",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0493",
+      "italian": "ospiti",
+      "english": [
+        "guests"
+      ],
+      "primary_english": "guests",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto ospiti.",
+      "example_english": "It is very guests.",
+      "letter_count": 6
+    },
+    {
+      "id": "it_0004_0494",
+      "italian": "mentire",
+      "english": [
+        "lie"
+      ],
+      "primary_english": "lie",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Devo mentire.",
+      "example_english": "I must lie.",
+      "letter_count": 3
+    },
+    {
+      "id": "it_0004_0495",
+      "italian": "colpi",
+      "english": [
+        "shots"
+      ],
+      "primary_english": "shots",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto colpi.",
+      "example_english": "It is very shots.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0496",
+      "italian": "funzionare",
+      "english": [
+        "work"
+      ],
+      "primary_english": "work",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace funzionare.",
+      "example_english": "I like to work.",
+      "letter_count": 4
+    },
+    {
+      "id": "it_0004_0497",
+      "italian": "migliaia",
+      "english": [
+        "thousand"
+      ],
+      "primary_english": "thousand",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "f",
+      "example_italian": "Dov'è la migliaia?",
+      "example_english": "Where is the thousand?",
+      "letter_count": 8
+    },
+    {
+      "id": "it_0004_0498",
+      "italian": "presi",
+      "english": [
+        "taken"
+      ],
+      "primary_english": "taken",
+      "hint": null,
+      "part_of_speech": "adjective",
+      "gender": null,
+      "example_italian": "È molto presi.",
+      "example_english": "It is very taken.",
+      "letter_count": 5
+    },
+    {
+      "id": "it_0004_0499",
+      "italian": "offerto",
+      "english": [
+        "offered"
+      ],
+      "primary_english": "offered",
+      "hint": null,
+      "part_of_speech": "noun",
+      "gender": "m",
+      "example_italian": "Dov'è il offerto?",
+      "example_english": "Where is the offered?",
+      "letter_count": 7
+    },
+    {
+      "id": "it_0004_0500",
+      "italian": "suonare",
+      "english": [
+        "play"
+      ],
+      "primary_english": "play",
+      "hint": null,
+      "part_of_speech": "verb",
+      "gender": null,
+      "example_italian": "Mi piace suonare.",
+      "example_english": "I like to play.",
+      "letter_count": 4
+    }
+  ]
+}

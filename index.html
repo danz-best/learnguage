@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#4a6fa5">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="LearnGuage">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icons/icon-180.png">
+    <title>LearnGuage - Italian Vocabulary</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LearnGuage</h1>
+            <p class="subtitle">Italian Vocabulary Learning</p>
+        </header>
+
+        <section class="stats-panel">
+            <h2>Your Progress</h2>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number" id="stat-mastered">0</div>
+                    <div class="stat-label">Words Mastered</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="stat-sessions">0</div>
+                    <div class="stat-label">Sessions Completed</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="stat-accuracy">0%</div>
+                    <div class="stat-label">Accuracy</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="sets-section">
+            <h2>Choose a Set</h2>
+            <div class="sets-grid" id="sets-grid"></div>
+        </section>
+
+        <section class="stats-panel" style="margin-top: 20px;">
+            <h2>Backup</h2>
+            <p class="progress-text">Save a copy of your progress so it's never lost. Import it on any device.</p>
+            <div class="button-group" style="margin-top: 12px;">
+                <button id="export-btn" class="btn btn-info">Export progress</button>
+                <label for="import-file" class="btn btn-secondary" style="cursor:pointer;">Import progress</label>
+                <input type="file" id="import-file" accept="application/json,.json" style="display:none;">
+            </div>
+            <p id="backup-msg" class="progress-text" style="margin-top: 8px;"></p>
+        </section>
+
+        <footer>
+            <p>Practice 10 words per session. Words you struggle with will appear more often.</p>
+        </footer>
+    </div>
+
+    <script src="js/register-sw.js"></script>
+    <script src="js/engine.js"></script>
+    <script src="js/home.js"></script>
+</body>
+</html>
