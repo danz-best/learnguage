@@ -1,5 +1,5 @@
 /* LearnGuage service worker - precache everything for full offline use. */
-const CACHE = 'learnguage-v2';
+const CACHE = 'learnguage-v3';
 
 const ASSETS = [
   './',
@@ -8,7 +8,7 @@ const ASSETS = [
   'manifest.json',
   'css/style.css',
   'js/engine.js',
-  'js/tick.js',
+  'js/sounds.js',
   'js/app.js',
   'js/home.js',
   'js/register-sw.js',

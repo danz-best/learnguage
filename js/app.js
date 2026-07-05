@@ -38,26 +38,47 @@ const totalWordsElem = document.getElementById('total-words');
 let currentWord = null;
 let currentAttempts = 0;
 
-// ----- tick sound -----
-// Uses an HTMLAudio element (media channel) instead of Web Audio, so it stays
-// audible on iPhone even when the ring/silent switch is ON.
-const TICK_SRC = 'data:audio/wav;base64,' + TICK_B64;
-const tickAudio = new Audio(TICK_SRC);
-tickAudio.preload = 'auto';
-tickAudio.setAttribute('playsinline', '');
+// ----- success sound (user-selectable, saved in localStorage) -----
+// HTMLAudio plays through the media channel, so it's audible on iPhone even
+// with the ring/silent switch ON (unlike Web Audio).
+const SOUND_KEY = 'learnguage_sound';
+let selectedSound = localStorage.getItem(SOUND_KEY) || DEFAULT_SOUND;
+if (!SOUNDS[selectedSound]) selectedSound = DEFAULT_SOUND;
+const successAudio = new Audio();
+successAudio.preload = 'auto';
+successAudio.setAttribute('playsinline', '');
+
+function applySound(key) {
+    if (!SOUNDS[key]) key = DEFAULT_SOUND;
+    selectedSound = key;
+    localStorage.setItem(SOUND_KEY, key);
+    const s = SOUNDS[key];
+    if (s && s.src) successAudio.src = s.src; // 'none' keeps last src but is gated below
+}
+applySound(selectedSound);
+
 let audioUnlocked = false;
 // iOS only lets media play after a user gesture; unlock on the first tap/keypress.
 function unlockAudio() {
-    if (audioUnlocked) return;
-    tickAudio.play().then(() => {
-        tickAudio.pause();
-        tickAudio.currentTime = 0;
+    if (audioUnlocked || selectedSound === 'none' || !successAudio.src) return;
+    successAudio.play().then(() => {
+        successAudio.pause();
+        successAudio.currentTime = 0;
         audioUnlocked = true;
     }).catch(() => { /* retry on next gesture */ });
 }
 document.addEventListener('touchend', unlockAudio, { once: false });
 document.addEventListener('click', unlockAudio, { once: false });
 document.addEventListener('keydown', unlockAudio, { once: false });
+
+// Preview a sound instantly when picked (runs inside the change gesture).
+function previewSound(key) {
+    applySound(key);
+    if (selectedSound === 'none') return;
+    audioUnlocked = true;
+    successAudio.currentTime = 0;
+    successAudio.play().catch(() => {});
+}
 
 // Initialize session
 async function initSession() {
@@ -193,11 +214,12 @@ async function submitAnswer() {
     }
 }
 
-// Play the tick on a correct answer.
+// Play the selected success sound on a correct answer.
 function playSuccessSound() {
+    if (selectedSound === 'none') return;
     try {
-        tickAudio.currentTime = 0;
-        tickAudio.play().catch(() => { /* ignore autoplay rejection */ });
+        successAudio.currentTime = 0;
+        successAudio.play().catch(() => { /* ignore autoplay rejection */ });
     } catch (e) {
         console.log('Audio not supported:', e);
     }
@@ -490,5 +512,18 @@ document.addEventListener('DOMContentLoaded', async () => {
     const autoPronounceCheckbox = document.getElementById('auto-pronounce-checkbox');
     if (autoPronounceCheckbox) {
         autoPronounceCheckbox.addEventListener('change', (e) => { autoPronounce = e.target.checked; });
+    }
+
+    // Success-sound picker: fill options, restore saved choice, preview on change.
+    const soundSelect = document.getElementById('sound-select');
+    if (soundSelect) {
+        for (const key of Object.keys(SOUNDS)) {
+            const opt = document.createElement('option');
+            opt.value = key;
+            opt.textContent = SOUNDS[key].label;
+            soundSelect.appendChild(opt);
+        }
+        soundSelect.value = selectedSound;
+        soundSelect.addEventListener('change', (e) => previewSound(e.target.value));
     }
 });
