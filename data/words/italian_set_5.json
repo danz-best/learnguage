@@ -12,8 +12,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto macchine.",
-      "example_english": "It is very machines.",
+      "example_italian": "Non ci sono macchine in strada.",
+      "example_english": "There are no cars on the street.",
       "letter_count": 8
     },
     {
@@ -26,8 +26,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sospetto?",
-      "example_english": "Where is the suspected?",
+      "example_italian": "Tom non è più un sospetto.",
+      "example_english": "Tom is not a suspect anymore.",
       "letter_count": 9
     },
     {
@@ -40,8 +40,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto chilometri.",
-      "example_english": "It is very kilometres.",
+      "example_italian": "Corro per dieci chilometri al giorno.",
+      "example_english": "I run ten kilometers daily.",
       "letter_count": 10
     },
     {
@@ -54,8 +54,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il albergo?",
-      "example_english": "Where is the inn?",
+      "example_italian": "Lei è nel suo albergo ora.",
+      "example_english": "She is in her hotel now.",
       "letter_count": 3
     },
     {
@@ -68,8 +68,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto venti.",
-      "example_english": "It is very twenty.",
+      "example_italian": "I venti dal mare sono umidi.",
+      "example_english": "Winds from the sea are humid.",
       "letter_count": 6
     },
     {
@@ -82,8 +82,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto potrà.",
-      "example_english": "It is very will be able to.",
+      "example_italian": "Sai se domani potrà venire da noi?",
+      "example_english": "Do you know if he can come to us tomorrow?",
       "letter_count": "____-__-____-__"
     },
     {
@@ -96,8 +96,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la presenza?",
-      "example_english": "Where is the presence?",
+      "example_italian": "Io non avvertii la sua presenza.",
+      "example_english": "I didn't feel her presence.",
       "letter_count": 8
     },
     {
@@ -110,8 +110,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto azioni.",
-      "example_english": "It is very actions.",
+      "example_italian": "È una sequenza di due azioni.",
+      "example_english": "It is a sequence of two actions.",
       "letter_count": 7
     },
     {
@@ -124,8 +124,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la roma?",
-      "example_english": "Where is the Rome?",
+      "example_italian": "Roma è la capitale del mondo.",
+      "example_english": "Rome is the capital of the world.",
       "letter_count": 4
     },
     {
@@ -138,8 +138,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ottenuto?",
-      "example_english": "Where is the got?",
+      "example_italian": "Lui ha ottenuto il suo scopo.",
+      "example_english": "He achieved his purpose.",
       "letter_count": 3
     },
     {
@@ -152,8 +152,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il scappato?",
-      "example_english": "Where is the ran away?",
+      "example_italian": "Tom è scappato per un pelo.",
+      "example_english": "Tom narrowly escaped.",
       "letter_count": "___-____"
     },
     {
@@ -166,8 +166,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto parlarle.",
-      "example_english": "It is very talk to her.",
+      "example_italian": "Ho qualcosa di cui devo parlarle.",
+      "example_english": "I have something I have to talk to you about.",
       "letter_count": "____-__-___"
     },
     {
@@ -180,8 +180,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la povera?",
-      "example_english": "Where is the poor?",
+      "example_italian": "Io ero povera tre anni fa.",
+      "example_english": "I was poor three years ago.",
       "letter_count": 4
     },
     {
@@ -194,8 +194,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo discutere.",
-      "example_english": "I must discuss.",
+      "example_italian": "Non va bene discutere con te.",
+      "example_english": "It is no good arguing with you.",
       "letter_count": 7
     },
     {
@@ -208,8 +208,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto starai.",
-      "example_english": "It is very you will stay.",
+      "example_italian": "Tu starai bene senza di me.",
+      "example_english": "You'll be fine without me.",
       "letter_count": "___-____-____"
     },
     {
@@ -222,8 +222,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ruolo?",
-      "example_english": "Where is the role?",
+      "example_italian": "Ho il ruolo perfetto per te.",
+      "example_english": "I have the perfect role for you.",
       "letter_count": 4
     },
     {
@@ -236,8 +236,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il volevano?",
-      "example_english": "Where is the they wanted?",
+      "example_italian": "Tom e mary si volevano sposare.",
+      "example_english": "Tom and Mary wanted to get married.",
       "letter_count": "____-______"
     },
     {
@@ -250,8 +250,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la chiamava?",
-      "example_english": "Where is the he called?",
+      "example_italian": "Lui mi chiamava quasi ogni giorno.",
+      "example_english": "He called me up almost every day.",
       "letter_count": "__-______"
     },
     {
@@ -264,8 +264,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la rossa?",
-      "example_english": "Where is the red?",
+      "example_italian": "A me serve una biro rossa.",
+      "example_english": "I need a red pen.",
       "letter_count": 3
     },
     {
@@ -278,8 +278,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto studenti.",
-      "example_english": "It is very students.",
+      "example_italian": "Io sono uno dei tuoi studenti.",
+      "example_english": "I'm one of your students.",
       "letter_count": 8
     },
     {
@@ -292,8 +292,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sarete.",
-      "example_english": "It is very you will be.",
+      "example_italian": "A che ora sarete a casa?",
+      "example_english": "What time will you be home?",
       "letter_count": "___-____-__"
     },
     {
@@ -306,8 +306,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la informazione?",
-      "example_english": "Where is the information?",
+      "example_italian": "Sally mi diede una buona informazione.",
+      "example_english": "Sally gave me a good piece of information.",
       "letter_count": 11
     },
     {
@@ -320,8 +320,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo distruggere.",
-      "example_english": "I must destroy.",
+      "example_italian": "Dan provò a distruggere le prove.",
+      "example_english": "Dan attempted to destroy evidence.",
       "letter_count": 7
     },
     {
@@ -334,8 +334,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il fastidio?",
-      "example_english": "Where is the nuisance?",
+      "example_italian": "Che fastidio che è quel bambino!",
+      "example_english": "What a nuisance that child is!",
       "letter_count": 8
     },
     {
@@ -348,8 +348,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la caduta?",
-      "example_english": "Where is the fall?",
+      "example_italian": "È mai caduta in un pozzo?",
+      "example_english": "Have you ever fallen into a well?",
       "letter_count": 4
     },
     {
@@ -362,8 +362,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto entrate.",
-      "example_english": "It is very come in.",
+      "example_italian": "Voi a che ora siete entrate?",
+      "example_english": "What time did you get in?",
       "letter_count": "____-__"
     },
     {
@@ -376,8 +376,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il percento?",
-      "example_english": "Where is the percent?",
+      "example_italian": "Io sono d'accordo al cento percento.",
+      "example_english": "I agree one hundred percent.",
       "letter_count": 7
     },
     {
@@ -390,8 +390,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dovro?",
-      "example_english": "Where is the I have to?",
+      "example_italian": "Io farò quello che dovrò fare.",
+      "example_english": "I'll do what I have to do.",
       "letter_count": "_-____-__"
     },
     {
@@ -404,8 +404,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il premio?",
-      "example_english": "Where is the prize?",
+      "example_italian": "Il premio è andato a lui.",
+      "example_english": "The prize went to him.",
       "letter_count": 5
     },
     {
@@ -418,8 +418,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il speriamo?",
-      "example_english": "Where is the We hope?",
+      "example_italian": "Noi speriamo che non sia vero.",
+      "example_english": "We hope it isn't true.",
       "letter_count": "__-____"
     },
     {
@@ -432,8 +432,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto andarcene.",
-      "example_english": "It is very leave.",
+      "example_italian": "Tom ci ha chiesto di andarcene.",
+      "example_english": "Tom has asked us to leave.",
       "letter_count": 5
     },
     {
@@ -446,8 +446,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il atto?",
-      "example_english": "Where is the act?",
+      "example_italian": "Mise in atto il suo piano.",
+      "example_english": "He put his plan into action.",
       "letter_count": 3
     },
     {
@@ -460,8 +460,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto danni.",
-      "example_english": "It is very damage.",
+      "example_italian": "Tom ha dovuto pagare i danni.",
+      "example_english": "Tom had to pay for damages.",
       "letter_count": 6
     },
     {
@@ -474,8 +474,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la opinione?",
-      "example_english": "Where is the opinion?",
+      "example_italian": "Tu sai già la mia opinione.",
+      "example_english": "You already know my opinion.",
       "letter_count": 7
     },
     {
@@ -488,8 +488,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto famiglie.",
-      "example_english": "It is very families.",
+      "example_italian": "Ci vivono due famiglie nella casa.",
+      "example_english": "Two families live in the house.",
       "letter_count": 8
     },
     {
@@ -502,8 +502,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dormito?",
-      "example_english": "Where is the slept?",
+      "example_italian": "Ho dormito con il mio capo.",
+      "example_english": "I slept with my boss.",
       "letter_count": 5
     },
     {
@@ -516,8 +516,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto assieme.",
-      "example_english": "It is very together.",
+      "example_italian": "Che ne dici di cenare assieme?",
+      "example_english": "How about having dinner together?",
       "letter_count": 8
     },
     {
@@ -530,8 +530,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il accaduto?",
-      "example_english": "Where is the happened?",
+      "example_italian": "Tom spiegò ciò che era accaduto.",
+      "example_english": "Tom explained everything that had happened.",
       "letter_count": 8
     },
     {
@@ -544,8 +544,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto dirai.",
-      "example_english": "It is very you will say.",
+      "example_italian": "Mi dirai mai la tua età?",
+      "example_english": "Will you ever tell me your age?",
       "letter_count": "___-____-___"
     },
     {
@@ -558,8 +558,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la giacca?",
-      "example_english": "Where is the jacket?",
+      "example_italian": "Tom si è tolto la giacca.",
+      "example_english": "Tom took his jacket off.",
       "letter_count": 6
     },
     {
@@ -572,8 +572,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il cugino?",
-      "example_english": "Where is the cousin?",
+      "example_italian": "Andò a stare da suo cugino.",
+      "example_english": "He went to stay with his cousin.",
       "letter_count": 6
     },
     {
@@ -586,8 +586,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sentivo?",
-      "example_english": "Where is the I felt?",
+      "example_italian": "Io mi sentivo a mio agio.",
+      "example_english": "I felt comfortable.",
       "letter_count": "_-____"
     },
     {
@@ -600,8 +600,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto nemici.",
-      "example_english": "It is very enemies.",
+      "example_italian": "So chi sono i miei nemici.",
+      "example_english": "I know who my enemies are.",
       "letter_count": 7
     },
     {
@@ -614,8 +614,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto pensavi.",
-      "example_english": "It is very you thought.",
+      "example_italian": "Perché pensavi che stessi mentendo?",
+      "example_english": "Why did you think I was lying?",
       "letter_count": "___-_______"
     },
     {
@@ -628,8 +628,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la uova?",
-      "example_english": "Where is the egg?",
+      "example_italian": "È corsa via con le uova.",
+      "example_english": "She ran away with the eggs.",
       "letter_count": 3
     },
     {
@@ -642,8 +642,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il diventando?",
-      "example_english": "Where is the becoming?",
+      "example_italian": "La neve sta diventando più dura.",
+      "example_english": "The snow's getting harder.",
       "letter_count": 8
     },
     {
@@ -656,8 +656,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la lotta?",
-      "example_english": "Where is the fight?",
+      "example_italian": "Tom è pronto per una lotta.",
+      "example_english": "Tom is ready for a fight.",
       "letter_count": 5
     },
     {
@@ -670,8 +670,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la ossa?",
-      "example_english": "Where is the bone?",
+      "example_italian": "Tom non è pelle e ossa.",
+      "example_english": "Tom isn't scrawny.",
       "letter_count": 4
     },
     {
@@ -684,8 +684,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la libertà?",
-      "example_english": "Where is the freedom?",
+      "example_italian": "Ciò che vogliamo è la libertà.",
+      "example_english": "What we want is freedom.",
       "letter_count": 7
     },
     {
@@ -698,8 +698,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la trappola?",
-      "example_english": "Where is the trap?",
+      "example_italian": "Tom ci condusse in una trappola.",
+      "example_english": "Tom led us into a trap.",
       "letter_count": 4
     },
     {
@@ -712,8 +712,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo crescere.",
-      "example_english": "I must grow.",
+      "example_italian": "Non è facile crescere dei figli.",
+      "example_english": "It's not easy raising children.",
       "letter_count": 4
     },
     {
@@ -726,8 +726,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il mettiamo?",
-      "example_english": "Where is the let's say?",
+      "example_italian": "Una parte ce la mettiamo noi.",
+      "example_english": "We put part of it there.",
       "letter_count": "____-___"
     },
     {
@@ -740,8 +740,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto criminale.",
-      "example_english": "It is very criminal.",
+      "example_italian": "In realtà lui era un criminale.",
+      "example_english": "He was in reality a criminal.",
       "letter_count": 8
     },
     {
@@ -754,8 +754,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la tenga?",
-      "example_english": "Where is the hold on?",
+      "example_italian": "Mi tenga un pezzo di torta.",
+      "example_english": "Save me a piece of pie.",
       "letter_count": "____-__"
     },
     {
@@ -768,8 +768,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la urla?",
-      "example_english": "Where is the he screams?",
+      "example_italian": "Tom non ci urla mai contro.",
+      "example_english": "Tom never yells at us.",
       "letter_count": "__-_______"
     },
     {
@@ -782,8 +782,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto pur.",
-      "example_english": "It is very even though.",
+      "example_italian": "Continuò a lavorare pur essendo stanca.",
+      "example_english": "She kept working even though she was tired.",
       "letter_count": "____-______"
     },
     {
@@ -796,8 +796,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il apprezzo?",
-      "example_english": "Where is the I appreciate it?",
+      "example_italian": "Apprezzo la tua fiducia in me.",
+      "example_english": "I appreciate your confidence in me.",
       "letter_count": "_-__________-__"
     },
     {
@@ -810,8 +810,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il pulito?",
-      "example_english": "Where is the clean?",
+      "example_italian": "Tom non è pulito come me.",
+      "example_english": "Tom isn't as clean as I am.",
       "letter_count": 5
     },
     {
@@ -824,8 +824,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la violenza?",
-      "example_english": "Where is the violence?",
+      "example_italian": "A noi non piace la violenza.",
+      "example_english": "We don't like violence.",
       "letter_count": 8
     },
     {
@@ -838,8 +838,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il fossimo?",
-      "example_english": "Where is the we were?",
+      "example_italian": "Non è come se fossimo ricchi.",
+      "example_english": "It isn't as if we were rich.",
       "letter_count": "__-____"
     },
     {
@@ -852,8 +852,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo sedere.",
-      "example_english": "I must sit.",
+      "example_italian": "Si può sedere accanto a me.",
+      "example_english": "You may sit next to me.",
       "letter_count": 3
     },
     {
@@ -866,8 +866,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ministro?",
-      "example_english": "Where is the minister?",
+      "example_italian": "Il primo ministro si è dimesso.",
+      "example_english": "The Prime Minister has resigned.",
       "letter_count": 8
     },
     {
@@ -880,8 +880,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il profondo?",
-      "example_english": "Where is the deep?",
+      "example_italian": "Il fiume è poco profondo qui.",
+      "example_english": "The river is shallow here.",
       "letter_count": 4
     },
     {
@@ -894,8 +894,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il diretto?",
-      "example_english": "Where is the direct?",
+      "example_italian": "Tom si è diretto a nord.",
+      "example_english": "Tom headed north.",
       "letter_count": 6
     },
     {
@@ -908,8 +908,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la società?",
-      "example_english": "Where is the society?",
+      "example_italian": "La società ha un ego fragile.",
+      "example_english": "Society has a fragile ego.",
       "letter_count": 7
     },
     {
@@ -922,8 +922,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto piccole.",
-      "example_english": "It is very small.",
+      "example_italian": "Tom ha tre sorelle più piccole.",
+      "example_english": "Tom has three younger sisters.",
       "letter_count": 5
     },
     {
@@ -936,8 +936,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il guardo?",
-      "example_english": "Where is the I watch?",
+      "example_italian": "Guardò verso di lei e sorrise.",
+      "example_english": "He gazed down at her and smiled.",
       "letter_count": "_-_____"
     },
     {
@@ -950,8 +950,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sposati.",
-      "example_english": "It is very married.",
+      "example_italian": "Si sono sposati tre mesi fa.",
+      "example_english": "They got married three months ago.",
       "letter_count": 7
     },
     {
@@ -964,8 +964,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il commesso?",
-      "example_english": "Where is the clerk?",
+      "example_italian": "Io ho commesso i miei errori.",
+      "example_english": "I've made my mistakes.",
       "letter_count": 5
     },
     {
@@ -978,8 +978,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il fumo?",
-      "example_english": "Where is the smoke?",
+      "example_italian": "Io non bevo e non fumo.",
+      "example_english": "I neither drink nor smoke.",
       "letter_count": 5
     },
     {
@@ -992,8 +992,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il pugno?",
-      "example_english": "Where is the fist?",
+      "example_italian": "Perché le ha dato un pugno?",
+      "example_english": "Why did you punch her?",
       "letter_count": 4
     },
     {
@@ -1006,8 +1006,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il presento?",
-      "example_english": "Where is the I present?",
+      "example_italian": "Lei mi presentò a suo padre.",
+      "example_english": "She introduced me to her father.",
       "letter_count": "_-_______"
     },
     {
@@ -1020,8 +1020,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto modi.",
-      "example_english": "It is very ways.",
+      "example_italian": "Lui è grande in molti modi.",
+      "example_english": "He is great in many ways.",
       "letter_count": 4
     },
     {
@@ -1034,8 +1034,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il fermato?",
-      "example_english": "Where is the stopped?",
+      "example_italian": "Tom non si è mai fermato.",
+      "example_english": "Tom never stopped.",
       "letter_count": 7
     },
     {
@@ -1048,8 +1048,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto fucile.",
-      "example_english": "It is very rifle.",
+      "example_italian": "Entrò con un fucile in mano.",
+      "example_english": "He got in with a shotgun in his hands.",
       "letter_count": 5
     },
     {
@@ -1062,8 +1062,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto interesse.",
-      "example_english": "It is very interest.",
+      "example_italian": "Io non ho interesse a farlo.",
+      "example_english": "I have no interest in doing that.",
       "letter_count": 8
     },
     {
@@ -1076,8 +1076,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la moto?",
-      "example_english": "Where is the motion?",
+      "example_italian": "Tom va al lavoro in moto.",
+      "example_english": "Tom goes to work by motorcycle.",
       "letter_count": 6
     },
     {
@@ -1090,8 +1090,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la santa?",
-      "example_english": "Where is the holy?",
+      "example_italian": "Lei non è una santa, sa.",
+      "example_english": "She's not a saint, you know.",
       "letter_count": 4
     },
     {
@@ -1104,8 +1104,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dicevo?",
-      "example_english": "Where is the I said?",
+      "example_italian": "Questo è il festival che ti dicevo!",
+      "example_english": "This is the festival I told you about!",
       "letter_count": "_-____"
     },
     {
@@ -1118,8 +1118,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la gola?",
-      "example_english": "Where is the throat?",
+      "example_italian": "Tom ha il mal di gola.",
+      "example_english": "Tom has a sore throat.",
       "letter_count": 6
     },
     {
@@ -1132,8 +1132,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il articolo?",
-      "example_english": "Where is the item?",
+      "example_italian": "A me piace il tuo articolo.",
+      "example_english": "I like your article.",
       "letter_count": 4
     },
     {
@@ -1146,8 +1146,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la battuta?",
-      "example_english": "Where is the joke?",
+      "example_italian": "La battuta è su di me.",
+      "example_english": "The joke's on me.",
       "letter_count": 4
     },
     {
@@ -1160,8 +1160,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo gestire.",
-      "example_english": "I must manage.",
+      "example_italian": "Io non riesco a gestire questo.",
+      "example_english": "I can't handle this.",
       "letter_count": 6
     },
     {
@@ -1174,8 +1174,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il cresciuto?",
-      "example_english": "Where is the grown up?",
+      "example_italian": "Tom fu cresciuto da sua nonna.",
+      "example_english": "Tom was raised by his grandmother.",
       "letter_count": "_____-__"
     },
     {
@@ -1188,8 +1188,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto forti.",
-      "example_english": "It is very strong.",
+      "example_italian": "Voi siete più forti di me.",
+      "example_english": "You're stronger than me.",
       "letter_count": 6
     },
     {
@@ -1202,8 +1202,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la puzza?",
-      "example_english": "Where is the stink?",
+      "example_italian": "Il suo alito puzza di alcol.",
+      "example_english": "His breath reeks of booze.",
       "letter_count": 5
     },
     {
@@ -1216,8 +1216,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto pane.",
-      "example_english": "It is very bread.",
+      "example_italian": "Lui è un fan del pane.",
+      "example_english": "He's a bread aficionado.",
       "letter_count": 5
     },
     {
@@ -1230,8 +1230,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il scomparso?",
-      "example_english": "Where is the disappeared?",
+      "example_italian": "Tom è scomparso tre mesi fa.",
+      "example_english": "Tom disappeared three months ago.",
       "letter_count": 11
     },
     {
@@ -1244,8 +1244,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto arrivi.",
-      "example_english": "It is very Arrivals.",
+      "example_italian": "A che ora arrivi a casa?",
+      "example_english": "What time do you arrive home?",
       "letter_count": 8
     },
     {
@@ -1258,8 +1258,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tirato?",
-      "example_english": "Where is the pulled?",
+      "example_italian": "Tom mi ha tirato una mela.",
+      "example_english": "Tom threw me an apple.",
       "letter_count": 6
     },
     {
@@ -1272,8 +1272,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sissignore?",
-      "example_english": "Where is the yes sir?",
+      "example_italian": "Sissignore, arrivo subito.",
+      "example_english": "Yes sir, I'm coming right away.",
       "letter_count": "___-___"
     },
     {
@@ -1286,8 +1286,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il disturbo?",
-      "example_english": "Where is the I disturb?",
+      "example_italian": "Lui mi disturbò per dei soldi.",
+      "example_english": "He bothered me for money.",
       "letter_count": "_-_______"
     },
     {
@@ -1300,8 +1300,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto gas.",
-      "example_english": "It is very gas.",
+      "example_italian": "Il neon è un gas nobile.",
+      "example_english": "Neon is a noble gas.",
       "letter_count": 3
     },
     {
@@ -1314,8 +1314,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il nervoso?",
-      "example_english": "Where is the nervous?",
+      "example_italian": "Tom è un po' nervoso, vero?",
+      "example_english": "Tom is a little nervous, isn't he?",
       "letter_count": 7
     },
     {
@@ -1328,8 +1328,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto guardie.",
-      "example_english": "It is very guards.",
+      "example_italian": "Le guardie non ci hanno visti.",
+      "example_english": "The guards didn't see us.",
       "letter_count": 6
     },
     {
@@ -1342,8 +1342,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il aeroporto?",
-      "example_english": "Where is the airport?",
+      "example_italian": "Ho una foto di un aeroporto.",
+      "example_english": "I have a picture of an airport.",
       "letter_count": 7
     },
     {
@@ -1356,8 +1356,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ricco?",
-      "example_english": "Where is the rich?",
+      "example_italian": "Tom è ricco, ma io no.",
+      "example_english": "Tom is rich, but not me.",
       "letter_count": 4
     },
     {
@@ -1370,8 +1370,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il avranno?",
-      "example_english": "Where is the they will have?",
+      "example_italian": "Le persone avranno idee diverse domani.",
+      "example_english": "People will have different ideas tomorrow.",
       "letter_count": "____-____-____"
     },
     {
@@ -1384,8 +1384,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la ione?",
-      "example_english": "Where is the ion?",
+      "example_italian": "Uno ione ha una carica elettrica.",
+      "example_english": "An ion has an electric charge.",
       "letter_count": 3
     },
     {
@@ -1398,8 +1398,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la finora?",
-      "example_english": "Where is the until now?",
+      "example_italian": "Tom non ha fatto nulla finora.",
+      "example_english": "Tom hasn't done anything so far.",
       "letter_count": "_____-___"
     },
     {
@@ -1412,8 +1412,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto scusarmi.",
-      "example_english": "It is very sorry.",
+      "example_italian": "Non so come scusarmi in francese.",
+      "example_english": "I don't know how to apologize in French.",
       "letter_count": 5
     },
     {
@@ -1426,8 +1426,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la societa?",
-      "example_english": "Where is the society?",
+      "example_italian": "La società ha un ego fragile.",
+      "example_english": "Society has a fragile ego.",
       "letter_count": 7
     },
     {
@@ -1440,8 +1440,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il carico?",
-      "example_english": "Where is the load?",
+      "example_italian": "Tom caricò il camion di sabbia.",
+      "example_english": "Tom loaded the truck with sand.",
       "letter_count": 4
     },
     {
@@ -1454,8 +1454,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la protezione?",
-      "example_english": "Where is the protection?",
+      "example_italian": "Non mi serve la tua protezione.",
+      "example_english": "I don't need your protection.",
       "letter_count": 10
     },
     {
@@ -1468,8 +1468,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la cella?",
-      "example_english": "Where is the cell?",
+      "example_italian": "Tom è fuggito dalla sua cella.",
+      "example_english": "Tom escaped from his cell.",
       "letter_count": 4
     },
     {
@@ -1482,8 +1482,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la amicizia?",
-      "example_english": "Where is the friendship?",
+      "example_italian": "Io ho fatto amicizia con lei.",
+      "example_english": "I made friends with her.",
       "letter_count": 10
     },
     {
@@ -1496,8 +1496,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto tornate.",
-      "example_english": "It is very come back.",
+      "example_italian": "Tornate a casa prima delle sei.",
+      "example_english": "Come home before six.",
       "letter_count": "____-____"
     },
     {
@@ -1510,8 +1510,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto messaggi.",
-      "example_english": "It is very messages.",
+      "example_italian": "Ci sono dei messaggi per me?",
+      "example_english": "Are there any messages for me?",
       "letter_count": 8
     },
     {
@@ -1524,8 +1524,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la gloria?",
-      "example_english": "Where is the glory?",
+      "example_italian": "A gloria non si va senza fatica.",
+      "example_english": "No pain, no gain!",
       "letter_count": 5
     },
     {
@@ -1538,8 +1538,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto veri.",
-      "example_english": "It is very true.",
+      "example_italian": "I veri uomini bevono il tè.",
+      "example_english": "Real men drink tea.",
       "letter_count": 4
     },
     {
@@ -1552,8 +1552,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto vorrà.",
-      "example_english": "It is very will want.",
+      "example_italian": "Non lo so quanto ci vorrà.",
+      "example_english": "I don't know how long it'll take.",
       "letter_count": "____-____"
     },
     {
@@ -1566,8 +1566,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto orecchie.",
-      "example_english": "It is very ears.",
+      "example_italian": "È musica per le mie orecchie.",
+      "example_english": "That's music to my ears.",
       "letter_count": 4
     },
     {
@@ -1580,8 +1580,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il creduto?",
-      "example_english": "Where is the believed?",
+      "example_italian": "Io non ci ho mai creduto.",
+      "example_english": "I never believed it.",
       "letter_count": 8
     },
     {
@@ -1594,8 +1594,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace volare.",
-      "example_english": "I like to fly.",
+      "example_italian": "Non mi è mai piaciuto volare.",
+      "example_english": "I've never enjoyed flying.",
       "letter_count": 3
     },
     {
@@ -1608,8 +1608,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sessuale.",
-      "example_english": "It is very sexual.",
+      "example_italian": "Io non ho alcun desiderio sessuale.",
+      "example_english": "I have no sexual desire.",
       "letter_count": 6
     },
     {
@@ -1622,8 +1622,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto crisi.",
-      "example_english": "It is very crisis.",
+      "example_italian": "Siamo nel mezzo di una crisi.",
+      "example_english": "We're in the middle of a crisis.",
       "letter_count": 6
     },
     {
@@ -1636,8 +1636,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto pesante.",
-      "example_english": "It is very heavy.",
+      "example_italian": "Ho un pesante mal di testa.",
+      "example_english": "I have a severe headache.",
       "letter_count": 5
     },
     {
@@ -1650,8 +1650,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ali.",
-      "example_english": "It is very wings.",
+      "example_italian": "Tutti gli uccelli hanno le ali.",
+      "example_english": "All birds have wings.",
       "letter_count": 5
     },
     {
@@ -1664,8 +1664,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dirmelo?",
-      "example_english": "Where is the tell me?",
+      "example_italian": "Vieni a dirmelo nella mia stanza.",
+      "example_english": "Come and tell me in my room.",
       "letter_count": "____-__"
     },
     {
@@ -1678,8 +1678,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto risponde.",
-      "example_english": "It is very he replies.",
+      "example_italian": "Perché lei non mi risponde più?",
+      "example_english": "Why doesn't she write me back anymore?",
       "letter_count": "__-_______"
     },
     {
@@ -1692,8 +1692,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo sopravvivere.",
-      "example_english": "I must survive.",
+      "example_italian": "Io riesco a sopravvivere da sola.",
+      "example_english": "I can survive alone.",
       "letter_count": 7
     },
     {
@@ -1706,8 +1706,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo polvere.",
-      "example_english": "I must dust.",
+      "example_italian": "La polvere è solubile in acqua.",
+      "example_english": "The powder is soluble in water.",
       "letter_count": 4
     },
     {
@@ -1720,8 +1720,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dirglielo?",
-      "example_english": "Where is the tell him?",
+      "example_italian": "Io non so se dovrei dirglielo.",
+      "example_english": "I don't know if I should tell him.",
       "letter_count": "____-___"
     },
     {
@@ -1734,8 +1734,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la terapia?",
-      "example_english": "Where is the therapy?",
+      "example_italian": "Non credo nella terapia di gruppo.",
+      "example_english": "I don't believe in group therapy.",
       "letter_count": 7
     },
     {
@@ -1748,8 +1748,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la francia?",
-      "example_english": "Where is the France?",
+      "example_italian": "Il re di Francia è calvo.",
+      "example_english": "The King of France is bald.",
       "letter_count": 6
     },
     {
@@ -1762,8 +1762,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto risposte.",
-      "example_english": "It is very answers.",
+      "example_italian": "La tua domanda non ha risposte.",
+      "example_english": "Your question has no answer.",
       "letter_count": 7
     },
     {
@@ -1776,8 +1776,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il minimo?",
-      "example_english": "Where is the minimum?",
+      "example_italian": "È il minimo che posso fare.",
+      "example_english": "It's the least I could do.",
       "letter_count": 7
     },
     {
@@ -1790,8 +1790,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il credito?",
-      "example_english": "Where is the credit?",
+      "example_italian": "Io ho una carta di credito.",
+      "example_english": "I have a credit card.",
       "letter_count": 6
     },
     {
@@ -1804,8 +1804,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto mostri.",
-      "example_english": "It is very monsters.",
+      "example_italian": "Mi mostri i giornali di oggi.",
+      "example_english": "Show me today's papers.",
       "letter_count": 8
     },
     {
@@ -1818,8 +1818,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il falso?",
-      "example_english": "Where is the false?",
+      "example_italian": "Gli ho dato un nome falso.",
+      "example_english": "I gave him a fake name.",
       "letter_count": 5
     },
     {
@@ -1832,8 +1832,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto muoversi.",
-      "example_english": "It is very move.",
+      "example_italian": "Le ho detto di non muoversi.",
+      "example_english": "I told you not to move.",
       "letter_count": 4
     },
     {
@@ -1846,8 +1846,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il aspettiamo?",
-      "example_english": "Where is the let's wait?",
+      "example_italian": "È una vita che ti aspettiamo.",
+      "example_english": "We've been waiting an eternity for you.",
       "letter_count": "____-____"
     },
     {
@@ -1860,8 +1860,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la traccia?",
-      "example_english": "Where is the trace?",
+      "example_italian": "Tom è scomparso senza lasciare traccia.",
+      "example_english": "Tom disappeared without a trace.",
       "letter_count": 5
     },
     {
@@ -1874,8 +1874,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il parlano?",
-      "example_english": "Where is the they speak?",
+      "example_italian": "I suoi successi parlano da soli.",
+      "example_english": "His accomplishments speak for themselves.",
       "letter_count": "____-_____"
     },
     {
@@ -1888,8 +1888,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la ambulanza?",
-      "example_english": "Where is the ambulance?",
+      "example_italian": "Io sono sull'altra ambulanza!",
+      "example_english": "I'm in the other ambulance!",
       "letter_count": 9
     },
     {
@@ -1902,8 +1902,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il incendio?",
-      "example_english": "Where is the fire?",
+      "example_italian": "Un incendio scoppiò al primo piano.",
+      "example_english": "A fire broke out on the first floor.",
       "letter_count": 4
     },
     {
@@ -1916,8 +1916,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto scherzi.",
-      "example_english": "It is very jokes.",
+      "example_italian": "Scherzi a parte, cosa intendi fare?",
+      "example_english": "Apart from joking, what do you mean to do?",
       "letter_count": 5
     },
     {
@@ -1930,8 +1930,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il quarto?",
-      "example_english": "Where is the fourth?",
+      "example_italian": "Sono le sei e un quarto.",
+      "example_english": "It's 18:15.",
       "letter_count": 6
     },
     {
@@ -1944,8 +1944,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il stomaco?",
-      "example_english": "Where is the stomach?",
+      "example_italian": "Tom ha il mal di stomaco.",
+      "example_english": "Tom has a stomachache.",
       "letter_count": 7
     },
     {
@@ -1958,8 +1958,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto dirci.",
-      "example_english": "It is very tell us.",
+      "example_italian": "Non può dirci di non andare.",
+      "example_english": "You can't tell us not to go.",
       "letter_count": "____-__"
     },
     {
@@ -1972,8 +1972,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto svegliati.",
-      "example_english": "It is very wake up.",
+      "example_italian": "A che ora vi siete svegliati?",
+      "example_english": "At what time did you wake up?",
       "letter_count": "____-__"
     },
     {
@@ -1986,8 +1986,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto neppure.",
-      "example_english": "It is very not even.",
+      "example_italian": "E neppure il tè è buono.",
+      "example_english": "And the tea isn't good either.",
       "letter_count": "___-____"
     },
     {
@@ -2000,8 +2000,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la liberta?",
-      "example_english": "Where is the freedom?",
+      "example_italian": "Ciò che vogliamo è la libertà.",
+      "example_english": "What we want is freedom.",
       "letter_count": 7
     },
     {
@@ -2014,8 +2014,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il aspettato?",
-      "example_english": "Where is the waited?",
+      "example_italian": "Ha aspettato per ore e ore.",
+      "example_english": "She waited for hours and hours.",
       "letter_count": 6
     },
     {
@@ -2028,8 +2028,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ucciderlo?",
-      "example_english": "Where is the kill him?",
+      "example_italian": "Io non avevo intenzione di ucciderlo.",
+      "example_english": "I didn't mean to kill him.",
       "letter_count": "____-___"
     },
     {
@@ -2042,8 +2042,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace preparare.",
-      "example_english": "I like to prepare.",
+      "example_italian": "È ora di preparare la cena.",
+      "example_english": "It's time to prepare dinner.",
       "letter_count": 7
     },
     {
@@ -2056,8 +2056,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la capita?",
-      "example_english": "Where is the it happens?",
+      "example_italian": "Oh mamma, mi capita di nuovo.",
+      "example_english": "Oh boy, there I go again.",
       "letter_count": "__-_______"
     },
     {
@@ -2070,8 +2070,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il disastro?",
-      "example_english": "Where is the disaster?",
+      "example_italian": "Lui è un disastro in matematica.",
+      "example_english": "He is terrible at math.",
       "letter_count": 8
     },
     {
@@ -2084,8 +2084,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il membro?",
-      "example_english": "Where is the member?",
+      "example_italian": "È un membro di un partito?",
+      "example_english": "Are you a member of a party?",
       "letter_count": 6
     },
     {
@@ -2098,8 +2098,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la persa?",
-      "example_english": "Where is the lost?",
+      "example_italian": "Mi ha detto che era persa.",
+      "example_english": "She told me she was lost.",
       "letter_count": 4
     },
     {
@@ -2112,8 +2112,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto tè.",
-      "example_english": "It is very tea.",
+      "example_italian": "Io sono più bella di te.",
+      "example_english": "I am more beautiful than you.",
       "letter_count": 3
     },
     {
@@ -2126,8 +2126,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la cia?",
-      "example_english": "Where is the bye?",
+      "example_italian": "Tutti sono qui con la CIA?",
+      "example_english": "Is everyone here with the CIA?",
       "letter_count": 3
     },
     {
@@ -2140,8 +2140,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo raggiungere.",
-      "example_english": "I must reach.",
+      "example_italian": "Io non li riesco a raggiungere.",
+      "example_english": "I can't reach them.",
       "letter_count": 5
     },
     {
@@ -2154,8 +2154,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto corpi.",
-      "example_english": "It is very bodies.",
+      "example_italian": "I pianeti sono corpi solidi?",
+      "example_english": "Are planets solid bodies?",
       "letter_count": 6
     },
     {
@@ -2168,8 +2168,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto poche.",
-      "example_english": "It is very few.",
+      "example_italian": "È un uomo di poche parole.",
+      "example_english": "He is a man of few words.",
       "letter_count": 3
     },
     {
@@ -2182,8 +2182,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sentirmi.",
-      "example_english": "It is very feel.",
+      "example_italian": "Continuo a non sentirmi al sicuro.",
+      "example_english": "I still don't feel safe.",
       "letter_count": 4
     },
     {
@@ -2196,8 +2196,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il motore?",
-      "example_english": "Where is the engine?",
+      "example_italian": "Il motore è partito di nuovo.",
+      "example_english": "The engine started again.",
       "letter_count": 6
     },
     {
@@ -2210,8 +2210,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la privata?",
-      "example_english": "Where is the private?",
+      "example_italian": "Tom andò in una scuola privata.",
+      "example_english": "Tom went to a private school.",
       "letter_count": 7
     },
     {
@@ -2224,8 +2224,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dannato?",
-      "example_english": "Where is the damned?",
+      "example_italian": "Le sue azioni l'hanno dannato.",
+      "example_english": "His actions damned him.",
       "letter_count": 6
     },
     {
@@ -2238,8 +2238,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il trucco?",
-      "example_english": "Where is the trick?",
+      "example_italian": "Che razza di trucco è questo?",
+      "example_english": "What kind of trickery is this?",
       "letter_count": 5
     },
     {
@@ -2252,8 +2252,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la maniera?",
-      "example_english": "Where is the manner?",
+      "example_italian": "Lui ha risposto in maniera errata.",
+      "example_english": "He answered incorrectly.",
       "letter_count": 6
     },
     {
@@ -2266,8 +2266,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto totale.",
-      "example_english": "It is very total.",
+      "example_italian": "La casa era nel buio totale.",
+      "example_english": "The house was as dark as dark.",
       "letter_count": 5
     },
     {
@@ -2280,8 +2280,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace tirare.",
-      "example_english": "I like to pull.",
+      "example_italian": "Mi può tirare fuori da qui?",
+      "example_english": "Can you pull me out of here?",
       "letter_count": 4
     },
     {
@@ -2294,8 +2294,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto trovate.",
-      "example_english": "It is very found.",
+      "example_italian": "Ho detto che le avremmo trovate.",
+      "example_english": "I said we'd find them.",
       "letter_count": 5
     },
     {
@@ -2308,8 +2308,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il perdono?",
-      "example_english": "Where is the pardon?",
+      "example_italian": "Lui ha chiesto il mio perdono.",
+      "example_english": "He asked for my pardon.",
       "letter_count": 6
     },
     {
@@ -2322,8 +2322,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la calda?",
-      "example_english": "Where is the hot?",
+      "example_italian": "A me piace quando è calda.",
+      "example_english": "I like it when it's hot.",
       "letter_count": 3
     },
     {
@@ -2336,8 +2336,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto bravi.",
-      "example_english": "It is very good.",
+      "example_italian": "Voi siete bravi con i pixel?",
+      "example_english": "Are you good with pixels?",
       "letter_count": 4
     },
     {
@@ -2350,8 +2350,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sicuri.",
-      "example_english": "It is very safe.",
+      "example_italian": "Non siate troppo sicuri di voi.",
+      "example_english": "Don't be overconfident.",
       "letter_count": 4
     },
     {
@@ -2364,8 +2364,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto cinese.",
-      "example_english": "It is very Chinese.",
+      "example_italian": "Non ti piace il cibo cinese?",
+      "example_english": "Don't you like Chinese food?",
       "letter_count": 7
     },
     {
@@ -2378,8 +2378,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo nascondere.",
-      "example_english": "I must HIDE.",
+      "example_italian": "Io non ho nulla da nascondere.",
+      "example_english": "I've got nothing to hide.",
       "letter_count": 4
     },
     {
@@ -2392,8 +2392,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dillo?",
-      "example_english": "Where is the say it?",
+      "example_italian": "Se hai qualcosa da dirmi, dillo.",
+      "example_english": "If you have something to say to me, say it.",
       "letter_count": "___-__"
     },
     {
@@ -2406,8 +2406,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il mancato?",
-      "example_english": "Where is the missed?",
+      "example_italian": "Lei è mancato a tutte noi.",
+      "example_english": "We all have missed you.",
       "letter_count": 6
     },
     {
@@ -2420,8 +2420,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la banda?",
-      "example_english": "Where is the band?",
+      "example_italian": "Sono in una banda di criminali.",
+      "example_english": "I'm in a gang.",
       "letter_count": 4
     },
     {
@@ -2434,8 +2434,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la mila?",
-      "example_english": "Where is the thousands?",
+      "example_italian": "Abbiamo speso in totale sette mila dollari per le bevande.",
+      "example_english": "We spent seven thousand dollars on drinks in total.",
       "letter_count": 9
     },
     {
@@ -2448,8 +2448,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la gioia?",
-      "example_english": "Where is the joy?",
+      "example_italian": "La gioia era mista a dolore.",
+      "example_english": "Joy was mingled with sorrow.",
       "letter_count": 3
     },
     {
@@ -2462,8 +2462,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il proprietario?",
-      "example_english": "Where is the owner?",
+      "example_italian": "È il proprietario di questa casa?",
+      "example_english": "Are you the owner of this house?",
       "letter_count": 5
     },
     {
@@ -2476,8 +2476,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto fatemi.",
-      "example_english": "It is very let me.",
+      "example_italian": "Fatemi vedere i giornali di oggi.",
+      "example_english": "Show me today's papers.",
       "letter_count": "___-__"
     },
     {
@@ -2490,8 +2490,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo costruire.",
-      "example_english": "I must build.",
+      "example_italian": "Il loro lavoro è costruire case.",
+      "example_english": "Their job is to build houses.",
       "letter_count": 5
     },
     {
@@ -2504,8 +2504,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto diritti.",
-      "example_english": "It is very rights.",
+      "example_italian": "Io sono sicuro dei miei diritti.",
+      "example_english": "I'm sure of my rights.",
       "letter_count": 6
     },
     {
@@ -2518,8 +2518,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto recente.",
-      "example_english": "It is very recent.",
+      "example_italian": "Tu lo hai visto di recente?",
+      "example_english": "Have you seen him recently?",
       "letter_count": 6
     },
     {
@@ -2532,8 +2532,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto scale.",
-      "example_english": "It is very stairs.",
+      "example_italian": "Sto andando su per le scale.",
+      "example_english": "I am going up the stairs.",
       "letter_count": 6
     },
     {
@@ -2546,8 +2546,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto credete.",
-      "example_english": "It is very believe.",
+      "example_italian": "Non credete a quello che dice.",
+      "example_english": "Don't believe what he says.",
       "letter_count": 7
     },
     {
@@ -2560,8 +2560,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dovevamo?",
-      "example_english": "Where is the we had to?",
+      "example_italian": "Dovevamo incontrarci alle due e mezza.",
+      "example_english": "We were supposed to meet at 2:30.",
       "letter_count": "__-___-__"
     },
     {
@@ -2574,8 +2574,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il raccontato?",
-      "example_english": "Where is the told?",
+      "example_italian": "Lui ha raccontato il mio segreto.",
+      "example_english": "He told my secret.",
       "letter_count": 4
     },
     {
@@ -2588,8 +2588,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il licenziato?",
-      "example_english": "Where is the fired?",
+      "example_italian": "Tom è stato licenziato a ottobre.",
+      "example_english": "Tom was fired in October.",
       "letter_count": 5
     },
     {
@@ -2602,8 +2602,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il amato?",
-      "example_english": "Where is the loved?",
+      "example_italian": "Ha perso il suo amato figlio.",
+      "example_english": "He lost his beloved son.",
       "letter_count": 5
     },
     {
@@ -2616,8 +2616,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il pavimento?",
-      "example_english": "Where is the flooring?",
+      "example_italian": "Un pavimento di legno è bello.",
+      "example_english": "A wood floor is beautiful.",
       "letter_count": 8
     },
     {
@@ -2630,8 +2630,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il chicago?",
-      "example_english": "Where is the Chicago?",
+      "example_italian": "La scena si spostò a Chicago.",
+      "example_english": "The scene shifted to Chicago.",
       "letter_count": 7
     },
     {
@@ -2644,8 +2644,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il chiedevo?",
-      "example_english": "Where is the I asked?",
+      "example_italian": "Mi chiedevo quand'è che saresti ritornato.",
+      "example_english": "I was wondering when you'd get back.",
       "letter_count": "_-_____"
     },
     {
@@ -2658,8 +2658,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il superiore?",
-      "example_english": "Where is the superior?",
+      "example_italian": "In quale scuola superiore è andato?",
+      "example_english": "What high school did you go to?",
       "letter_count": 8
     },
     {
@@ -2672,8 +2672,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la piaccia?",
-      "example_english": "Where is the like it?",
+      "example_italian": "Tu pensi che io le piaccia?",
+      "example_english": "Do you think she likes me?",
       "letter_count": "____-__"
     },
     {
@@ -2686,8 +2686,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto analisi.",
-      "example_english": "It is very analyses.",
+      "example_italian": "Ha fatto un'attenta analisi della situazione.",
+      "example_english": "He made a close analysis of the situation.",
       "letter_count": 8
     },
     {
@@ -2700,8 +2700,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace studiare.",
-      "example_english": "I like to study.",
+      "example_italian": "A me non va di studiare.",
+      "example_english": "I don't feel like studying.",
       "letter_count": 5
     },
     {
@@ -2714,8 +2714,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto rete.",
-      "example_english": "It is very net.",
+      "example_italian": "E la palla è in rete.",
+      "example_english": "And the ball is in the net.",
       "letter_count": 3
     },
     {
@@ -2728,8 +2728,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto nate.",
-      "example_english": "It is very born.",
+      "example_italian": "Noi siamo nate nello stesso anno.",
+      "example_english": "We were born in the same year.",
       "letter_count": 4
     },
     {
@@ -2742,8 +2742,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tentativo?",
-      "example_english": "Where is the attempt?",
+      "example_italian": "Il suo tentativo di fuga riuscì.",
+      "example_english": "His escape attempt was successful.",
       "letter_count": 7
     },
     {
@@ -2756,8 +2756,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto preferirei.",
-      "example_english": "It is very I would prefer.",
+      "example_italian": "Io preferirei la carne al pesce.",
+      "example_english": "I'd prefer meat to fish.",
       "letter_count": "_-_____-______"
     },
     {
@@ -2770,8 +2770,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ospite.",
-      "example_english": "It is very guest.",
+      "example_italian": "Tom è il mio ospite.",
+      "example_english": "Tom is my guest.",
       "letter_count": 5
     },
     {
@@ -2784,8 +2784,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto imbarazzante.",
-      "example_english": "It is very embarrassing.",
+      "example_italian": "Non faccio mai nulla di imbarazzante.",
+      "example_english": "I never do anything embarrassing.",
       "letter_count": 12
     },
     {
@@ -2798,8 +2798,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto amante.",
-      "example_english": "It is very lover.",
+      "example_italian": "Lui è un amante del pane.",
+      "example_english": "He's a bread lover.",
       "letter_count": 5
     },
     {
@@ -2812,8 +2812,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto dovessi.",
-      "example_english": "It is very I had to.",
+      "example_italian": "Pensavo dovessi essere a scuola ora.",
+      "example_english": "I thought you were supposed to be at school now.",
       "letter_count": "_-___-__"
     },
     {
@@ -2826,8 +2826,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo rendere.",
-      "example_english": "I must make.",
+      "example_italian": "Non lo riesco a rendere felice.",
+      "example_english": "I can't make him happy.",
       "letter_count": 4
     },
     {
@@ -2840,8 +2840,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto bei.",
-      "example_english": "It is very beautiful.",
+      "example_italian": "La città ha molti bei parchi.",
+      "example_english": "The city has many beautiful parks.",
       "letter_count": 9
     },
     {
@@ -2854,8 +2854,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto volesse.",
-      "example_english": "It is very wanted.",
+      "example_italian": "Se solo lui mi volesse sposare.",
+      "example_english": "If only he would marry me.",
       "letter_count": 6
     },
     {
@@ -2868,8 +2868,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il attorno?",
-      "example_english": "Where is the around?",
+      "example_italian": "La terra gira attorno al sole.",
+      "example_english": "The earth goes around the sun.",
       "letter_count": 6
     },
     {
@@ -2882,8 +2882,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il volevamo?",
-      "example_english": "Where is the we wanted?",
+      "example_italian": "Volevamo vincere a tutti i costi.",
+      "example_english": "We wanted to win at all costs.",
       "letter_count": "__-______"
     },
     {
@@ -2896,8 +2896,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tolto?",
-      "example_english": "Where is the removed?",
+      "example_italian": "Tom si è tolto la fede.",
+      "example_english": "Tom took off his wedding ring.",
       "letter_count": 7
     },
     {
@@ -2910,8 +2910,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il movimento?",
-      "example_english": "Where is the movement?",
+      "example_italian": "Lui era il capo del movimento.",
+      "example_english": "He was the leader of the movement.",
       "letter_count": 8
     },
     {
@@ -2924,8 +2924,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sterline.",
-      "example_english": "It is very pounds.",
+      "example_italian": "Questo calamaro costa cinque sterline.",
+      "example_english": "This squid is five quids.",
       "letter_count": 6
     },
     {
@@ -2938,8 +2938,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la scrivania?",
-      "example_english": "Where is the desk?",
+      "example_italian": "La mia scrivania è di legno.",
+      "example_english": "My desk is made of wood.",
       "letter_count": 4
     },
     {
@@ -2952,8 +2952,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il avessero?",
-      "example_english": "Where is the they had?",
+      "example_italian": "Io penso che loro avessero ragione.",
+      "example_english": "I think they were right.",
       "letter_count": "____-___"
     },
     {
@@ -2966,8 +2966,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la versione?",
-      "example_english": "Where is the version?",
+      "example_italian": "Dimmi la tua versione degli eventi.",
+      "example_english": "Tell me your version of the events.",
       "letter_count": 7
     },
     {
@@ -2980,8 +2980,8 @@
       "hint": null,
       "part_of_speech": "adverb",
       "gender": null,
-      "example_italian": "Facilmente vado a casa.",
-      "example_english": "Easily I go home.",
+      "example_italian": "È nervoso e si spaventa facilmente.",
+      "example_english": "He's nervous and gets scared easily.",
       "letter_count": 6
     },
     {
@@ -2994,8 +2994,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sorriso?",
-      "example_english": "Where is the smile?",
+      "example_italian": "A me piace il tuo sorriso.",
+      "example_english": "I like your smile.",
       "letter_count": 5
     },
     {
@@ -3008,8 +3008,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il divano?",
-      "example_english": "Where is the Sofa?",
+      "example_italian": "Non ho un divano a casa.",
+      "example_english": "I don't have a sofa at home.",
       "letter_count": 4
     },
     {
@@ -3022,8 +3022,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la inghilterra?",
-      "example_english": "Where is the England?",
+      "example_italian": "È stato in Inghilterra due volte.",
+      "example_english": "He has been to England twice.",
       "letter_count": 7
     },
     {
@@ -3036,8 +3036,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto mettiti.",
-      "example_english": "It is very put on.",
+      "example_italian": "Per favore, mettiti nei miei panni.",
+      "example_english": "Please put yourself in my place.",
       "letter_count": "___-__"
     },
     {
@@ -3050,8 +3050,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il risultato?",
-      "example_english": "Where is the result?",
+      "example_italian": "A me non piaceva il risultato.",
+      "example_english": "I didn't like the result.",
       "letter_count": 6
     },
     {
@@ -3064,8 +3064,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il abbandonato?",
-      "example_english": "Where is the abandoned?",
+      "example_italian": "Lei ha abbandonato i suoi figli.",
+      "example_english": "She abandoned her sons.",
       "letter_count": 9
     },
     {
@@ -3078,8 +3078,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto compagni.",
-      "example_english": "It is very companions.",
+      "example_italian": "Sono i miei compagni di classe.",
+      "example_english": "They are my classmates.",
       "letter_count": 10
     },
     {
@@ -3092,8 +3092,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto errori.",
-      "example_english": "It is very errors.",
+      "example_italian": "Io ho fatto i miei errori.",
+      "example_english": "I've made my mistakes.",
       "letter_count": 6
     },
     {
@@ -3106,8 +3106,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace contare.",
-      "example_english": "I like to count.",
+      "example_italian": "Sa contare da uno a dieci.",
+      "example_english": "She can count from one to ten.",
       "letter_count": 5
     },
     {
@@ -3120,8 +3120,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la smetterla?",
-      "example_english": "Where is the stop it?",
+      "example_italian": "Le dica di smetterla di fissarmi.",
+      "example_english": "Tell her to stop staring at me.",
       "letter_count": "____-__"
     },
     {
@@ -3134,8 +3134,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto proiettile.",
-      "example_english": "It is very bullet.",
+      "example_italian": "Non si può inseguire un proiettile.",
+      "example_english": "You cannot chase a bullet.",
       "letter_count": 6
     },
     {
@@ -3148,8 +3148,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il perdendo?",
-      "example_english": "Where is the losing?",
+      "example_italian": "Non sa cosa si sta perdendo.",
+      "example_english": "You don't know what you're missing.",
       "letter_count": 6
     },
     {
@@ -3162,8 +3162,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la promessa?",
-      "example_english": "Where is the promise?",
+      "example_italian": "Lui ha infranto la sua promessa.",
+      "example_english": "He broke his promise.",
       "letter_count": 7
     },
     {
@@ -3176,8 +3176,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il mancano?",
-      "example_english": "Where is the they are missing?",
+      "example_italian": "A me mancano i miei genitori.",
+      "example_english": "I miss my parents.",
       "letter_count": "____-___-_______"
     },
     {
@@ -3190,8 +3190,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ferite.",
-      "example_english": "It is very wounds.",
+      "example_italian": "Tutte le sue ferite sono esterne.",
+      "example_english": "All his injuries are external.",
       "letter_count": 6
     },
     {
@@ -3204,8 +3204,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il piatto?",
-      "example_english": "Where is the dish?",
+      "example_italian": "Servi il pasto su un piatto.",
+      "example_english": "Serve the meal on a plate.",
       "letter_count": 4
     },
     {
@@ -3218,8 +3218,8 @@
       "hint": null,
       "part_of_speech": "adverb",
       "gender": null,
-      "example_italian": "Solamente vado a casa.",
-      "example_english": "Only I go home.",
+      "example_italian": "Io sono solamente un altro uomo.",
+      "example_english": "I'm just another man.",
       "letter_count": 4
     },
     {
@@ -3232,8 +3232,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la marina?",
-      "example_english": "Where is the navy?",
+      "example_italian": "Marina è un nome di donna.",
+      "example_english": "Marina is a woman's name.",
       "letter_count": 4
     },
     {
@@ -3246,8 +3246,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto conoscete.",
-      "example_english": "It is very you know.",
+      "example_italian": "Lo so che non li conoscete.",
+      "example_english": "I know you don't know them.",
       "letter_count": "___-____"
     },
     {
@@ -3260,8 +3260,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la lavorava?",
-      "example_english": "Where is the he worked?",
+      "example_italian": "Tom una volta lavorava per me.",
+      "example_english": "Tom once worked for me.",
       "letter_count": "__-______"
     },
     {
@@ -3274,8 +3274,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la posta?",
-      "example_english": "Where is the mail?",
+      "example_italian": "La posta in gioco è alta.",
+      "example_english": "There is a lot at stake.",
       "letter_count": 4
     },
     {
@@ -3288,8 +3288,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto aiutarci.",
-      "example_english": "It is very help us.",
+      "example_italian": "Tom è qui per aiutarci, vero?",
+      "example_english": "Tom is here to help us, isn't he?",
       "letter_count": "____-__"
     },
     {
@@ -3302,8 +3302,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il traffico?",
-      "example_english": "Where is the traffic?",
+      "example_italian": "A me non piace il traffico.",
+      "example_english": "I don't like the traffic.",
       "letter_count": 7
     },
     {
@@ -3316,8 +3316,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il calcio?",
-      "example_english": "Where is the soccer?",
+      "example_italian": "Gioca a calcio o a rugby?",
+      "example_english": "Do you play soccer or rugby?",
       "letter_count": 6
     },
     {
@@ -3330,8 +3330,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto avrete.",
-      "example_english": "It is very you will have.",
+      "example_italian": "Voi non avrete bisogno di me.",
+      "example_english": "You won't need me.",
       "letter_count": "___-____-____"
     },
     {
@@ -3344,8 +3344,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il famoso?",
-      "example_english": "Where is the famous?",
+      "example_italian": "Tom è più famoso di te.",
+      "example_english": "Tom is more famous than you are.",
       "letter_count": 6
     },
     {
@@ -3358,8 +3358,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto lasciati.",
-      "example_english": "It is very leave.",
+      "example_italian": "Perché li ha lasciati da soli?",
+      "example_english": "Why did you leave them alone?",
       "letter_count": 5
     },
     {
@@ -3372,8 +3372,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la lontana?",
-      "example_english": "Where is the far away?",
+      "example_italian": "La banca è lontana da qui?",
+      "example_english": "Is the bank far from here?",
       "letter_count": "___-____"
     },
     {
@@ -3386,8 +3386,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il bloccato?",
-      "example_english": "Where is the blocked?",
+      "example_italian": "Il mio computer si è bloccato.",
+      "example_english": "My computer crashed.",
       "letter_count": 7
     },
     {
@@ -3400,8 +3400,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il verranno?",
-      "example_english": "Where is the they will come?",
+      "example_italian": "I restanti di loro verranno presto.",
+      "example_english": "The rest of them will come soon.",
       "letter_count": "____-____-____"
     },
     {
@@ -3414,8 +3414,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la merita?",
-      "example_english": "Where is the it deserves?",
+      "example_italian": "Lei se lo merita il premio.",
+      "example_english": "You deserve the prize.",
       "letter_count": "__-________"
     },
     {
@@ -3428,8 +3428,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sparo?",
-      "example_english": "Where is the I'm shooting?",
+      "example_italian": "Dan ha sentito uno sparo.",
+      "example_english": "Dan heard a gunshot.",
       "letter_count": "__-________"
     },
     {
@@ -3442,8 +3442,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto simili.",
-      "example_english": "It is very similar.",
+      "example_italian": "Ha i capelli simili ai suoi.",
+      "example_english": "He has hair similar to hers.",
       "letter_count": 7
     },
     {
@@ -3456,8 +3456,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ladro?",
-      "example_english": "Where is the thief?",
+      "example_italian": "Non è migliore di un ladro.",
+      "example_english": "He is no better than a thief.",
       "letter_count": 5
     },
     {
@@ -3470,8 +3470,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto darle.",
-      "example_english": "It is very give her.",
+      "example_italian": "Io non ho nulla da darle.",
+      "example_english": "I don't have anything to give to you.",
       "letter_count": "____-___"
     },
     {
@@ -3484,8 +3484,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il regno?",
-      "example_english": "Where is the kingdom?",
+      "example_italian": "Il nostro esercito attaccò il regno.",
+      "example_english": "Our army attacked the kingdom.",
       "letter_count": 7
     },
     {
@@ -3498,8 +3498,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il prestito?",
-      "example_english": "Where is the loan?",
+      "example_italian": "Ha preso in prestito il mio.",
+      "example_english": "She borrowed mine.",
       "letter_count": 4
     },
     {
@@ -3512,8 +3512,8 @@
       "hint": null,
       "part_of_speech": "adverb",
       "gender": null,
-      "example_italian": "Specialmente vado a casa.",
-      "example_english": "Especially I go home.",
+      "example_italian": "Amo la musica, specialmente il rock.",
+      "example_english": "I love music, especially rock.",
       "letter_count": 10
     },
     {
@@ -3526,8 +3526,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto poteri.",
-      "example_english": "It is very powers.",
+      "example_italian": "Io sto perdendo i miei poteri.",
+      "example_english": "I'm losing my powers.",
       "letter_count": 6
     },
     {
@@ -3540,8 +3540,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il assicuro?",
-      "example_english": "Where is the I assure you?",
+      "example_italian": "Ti assicuro che non è necessario.",
+      "example_english": "I assure you that that isn't necessary.",
       "letter_count": "_-______-___"
     },
     {
@@ -3554,8 +3554,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il teatro?",
-      "example_english": "Where is the theater?",
+      "example_italian": "Ti va di andare a teatro?",
+      "example_english": "Do you feel like going to the theater?",
       "letter_count": 7
     },
     {
@@ -3568,8 +3568,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto tornati.",
-      "example_english": "It is very returned.",
+      "example_italian": "Non sono ancora tornati a casa.",
+      "example_english": "They haven't come back home yet.",
       "letter_count": 8
     },
     {
@@ -3582,8 +3582,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la dovra?",
-      "example_english": "Where is the will have to?",
+      "example_italian": "Tom non lo dovrà più fare.",
+      "example_english": "Tom won't have to do that anymore.",
       "letter_count": "____-____-__"
     },
     {
@@ -3596,8 +3596,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il mettendo?",
-      "example_english": "Where is the putting?",
+      "example_italian": "Tom si sta mettendo a dieta.",
+      "example_english": "Tom is going on a diet.",
       "letter_count": 7
     },
     {
@@ -3610,8 +3610,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il complicato?",
-      "example_english": "Where is the complicated?",
+      "example_italian": "Viviamo in un mondo molto complicato.",
+      "example_english": "We live in a very complicated world.",
       "letter_count": 11
     },
     {
@@ -3624,8 +3624,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto occhiali.",
-      "example_english": "It is very eyeglasses.",
+      "example_italian": "Tom si è messo gli occhiali.",
+      "example_english": "Tom put on his glasses.",
       "letter_count": 10
     },
     {
@@ -3638,8 +3638,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ingresso?",
-      "example_english": "Where is the entrance?",
+      "example_italian": "Ha sostenuto l'esame di ingresso ieri.",
+      "example_english": "She took the entrance exam yesterday.",
       "letter_count": 8
     },
     {
@@ -3652,8 +3652,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto affascinante.",
-      "example_english": "It is very fascinating.",
+      "example_italian": "Tua nonna è una signora affascinante.",
+      "example_english": "Your grandmother is a charming lady.",
       "letter_count": 11
     },
     {
@@ -3666,8 +3666,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto bugie.",
-      "example_english": "It is very lies.",
+      "example_italian": "Mi disse di non dire bugie.",
+      "example_english": "He told me not to tell lies.",
       "letter_count": 4
     },
     {
@@ -3680,8 +3680,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto trovarmi.",
-      "example_english": "It is very find me.",
+      "example_italian": "Tom a volte viene a trovarmi.",
+      "example_english": "Tom sometimes comes to see me.",
       "letter_count": "____-__"
     },
     {
@@ -3694,8 +3694,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto eccoti.",
-      "example_english": "It is very here you are.",
+      "example_italian": "Eccoti qui, mia cara.",
+      "example_english": "There you are, my dear.",
       "letter_count": "____-___-___"
     },
     {
@@ -3708,8 +3708,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la pilota?",
-      "example_english": "Where is the pilot?",
+      "example_italian": "Tom è un pilota di aerei.",
+      "example_english": "Tom is an airplane pilot.",
       "letter_count": 5
     },
     {
@@ -3722,8 +3722,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto rapporti.",
-      "example_english": "It is very relationships.",
+      "example_italian": "Hai avuto rapporti con uomini?",
+      "example_english": "Have you had agreements with men?",
       "letter_count": 13
     },
     {
@@ -3736,8 +3736,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il comportamento?",
-      "example_english": "Where is the behavior?",
+      "example_italian": "Non mi piace il tuo comportamento.",
+      "example_english": "I don't like your behavior.",
       "letter_count": 8
     },
     {
@@ -3750,8 +3750,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto accuse.",
-      "example_english": "It is very accusations.",
+      "example_italian": "È stato imprigionato con accuse inventate.",
+      "example_english": "He was jailed on trumped-up charges.",
       "letter_count": 11
     },
     {
@@ -3764,8 +3764,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo telecamere.",
-      "example_english": "I must cameras.",
+      "example_italian": "C'erano telecamere nascoste ovunque.",
+      "example_english": "There were hidden cameras everywhere.",
       "letter_count": 7
     },
     {
@@ -3778,8 +3778,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto desideri.",
-      "example_english": "It is very desires.",
+      "example_italian": "È la donna dei miei desideri.",
+      "example_english": "She is the woman of my desires.",
       "letter_count": 7
     },
     {
@@ -3792,8 +3792,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto farvi.",
-      "example_english": "It is very make you.",
+      "example_italian": "Tom non può farvi del male.",
+      "example_english": "Tom can't hurt you.",
       "letter_count": "____-___"
     },
     {
@@ -3806,8 +3806,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sentiamo?",
-      "example_english": "Where is the let's hear it?",
+      "example_italian": "Noi ci sentiamo male per loro.",
+      "example_english": "We feel bad for them.",
       "letter_count": "____-____-__"
     },
     {
@@ -3820,8 +3820,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sospettato?",
-      "example_english": "Where is the suspected?",
+      "example_italian": "Sami non ha mai sospettato nulla.",
+      "example_english": "Sami never suspected anything.",
       "letter_count": 9
     },
     {
@@ -3834,8 +3834,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la prenderla?",
-      "example_english": "Where is the take it?",
+      "example_italian": "La smetta di prenderla di mira.",
+      "example_english": "Quit picking on her.",
       "letter_count": "____-__"
     },
     {
@@ -3848,8 +3848,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la camicia?",
-      "example_english": "Where is the Shirt?",
+      "example_italian": "La camicia è larga per me.",
+      "example_english": "The shirt is large for me.",
       "letter_count": 5
     },
     {
@@ -3862,8 +3862,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tagliato?",
-      "example_english": "Where is the cut?",
+      "example_italian": "Tom si è tagliato i polsi.",
+      "example_english": "Tom slit his wrists.",
       "letter_count": 3
     },
     {
@@ -3876,8 +3876,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il avessimo?",
-      "example_english": "Where is the we had?",
+      "example_italian": "Se solo avessimo avuto un giardino!",
+      "example_english": "If only we had a garden!",
       "letter_count": "__-___"
     },
     {
@@ -3890,8 +3890,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il comodo?",
-      "example_english": "Where is the comfortable?",
+      "example_italian": "Si sdrai e si metta comodo.",
+      "example_english": "Lie down and make yourself comfortable.",
       "letter_count": 11
     },
     {
@@ -3904,8 +3904,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto prese.",
-      "example_english": "It is very taken.",
+      "example_italian": "Tom si prese cura di noi.",
+      "example_english": "Tom took care of us.",
       "letter_count": 5
     },
     {
@@ -3918,8 +3918,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto potreste.",
-      "example_english": "It is very you could.",
+      "example_italian": "Potreste ridurre un po' il prezzo?",
+      "example_english": "Could you reduce the price a little?",
       "letter_count": "___-_____"
     },
     {
@@ -3932,8 +3932,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto facevi.",
-      "example_english": "It is very you did.",
+      "example_italian": "In fondo ho sempre saputo che lo facevi per il mio bene.",
+      "example_english": "Deep down I always knew that you were doing it for my sake.",
       "letter_count": "___-___"
     },
     {
@@ -3946,8 +3946,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tentato?",
-      "example_english": "Where is the attempted?",
+      "example_italian": "Tom era tentato a farlo.",
+      "example_english": "Tom was tempted to do that.",
       "letter_count": 9
     },
     {
@@ -3960,8 +3960,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la innamorata?",
-      "example_english": "Where is the in love?",
+      "example_italian": "Lei si è innamorata di me.",
+      "example_english": "She has fallen in love with me.",
       "letter_count": "__-____"
     },
     {
@@ -3974,8 +3974,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto maiale.",
-      "example_english": "It is very pig.",
+      "example_italian": "A me non piace il maiale.",
+      "example_english": "I don't like pork.",
       "letter_count": 3
     },
     {
@@ -3988,8 +3988,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il fido?",
-      "example_english": "Where is the trusty?",
+      "example_italian": "Io non mi fido di te.",
+      "example_english": "I don't trust you.",
       "letter_count": 6
     },
     {
@@ -4002,8 +4002,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto membri.",
-      "example_english": "It is very members.",
+      "example_italian": "Lui limitato i membri a venti.",
+      "example_english": "He limited the membership to twenty.",
       "letter_count": 7
     },
     {
@@ -4016,8 +4016,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ascolto?",
-      "example_english": "Where is the I listen?",
+      "example_italian": "Non ascolto più il punk rock.",
+      "example_english": "I don't listen to punk rock anymore.",
       "letter_count": "_-______"
     },
     {
@@ -4030,8 +4030,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto giornali.",
-      "example_english": "It is very newspapers.",
+      "example_italian": "Mi mostri i giornali di oggi.",
+      "example_english": "Show me today's papers.",
       "letter_count": 10
     },
     {
@@ -4044,8 +4044,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il uccello?",
-      "example_english": "Where is the bird?",
+      "example_italian": "Tom ha visto un grande uccello.",
+      "example_english": "Tom saw a large bird.",
       "letter_count": 4
     },
     {
@@ -4058,8 +4058,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sorpreso?",
-      "example_english": "Where is the surprised?",
+      "example_italian": "Tom mi ha sorpreso un po'.",
+      "example_english": "Tom surprised me a little bit.",
       "letter_count": 9
     },
     {
@@ -4072,8 +4072,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la taglia?",
-      "example_english": "Where is the cut?",
+      "example_italian": "C'è una taglia sulla sua testa.",
+      "example_english": "There's a price on his head.",
       "letter_count": 3
     },
     {
@@ -4086,8 +4086,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il riuscivo?",
-      "example_english": "Where is the I could?",
+      "example_italian": "Non riuscivo a dire di no.",
+      "example_english": "I couldn't say no.",
       "letter_count": "_-_____"
     },
     {
@@ -4100,8 +4100,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto chissà.",
-      "example_english": "It is very maybe.",
+      "example_italian": "Chissà se è ancora in galera!",
+      "example_english": "I wonder if he's still in jail!",
       "letter_count": 5
     },
     {
@@ -4114,8 +4114,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la esplosione?",
-      "example_english": "Where is the explosion?",
+      "example_italian": "Tom ha sentito una forte esplosione.",
+      "example_english": "Tom heard a loud explosion.",
       "letter_count": 9
     },
     {
@@ -4128,8 +4128,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la tuttavia?",
-      "example_english": "Where is the However?",
+      "example_italian": "Tuttavia, la mia spalla fa male.",
+      "example_english": "However, my shoulder hurts.",
       "letter_count": 7
     },
     {
@@ -4142,8 +4142,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto fonte.",
-      "example_english": "It is very source.",
+      "example_italian": "È una buona fonte di proteine?",
+      "example_english": "Is it a good source of protein?",
       "letter_count": 6
     },
     {
@@ -4156,8 +4156,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il lago?",
-      "example_english": "Where is the lake?",
+      "example_italian": "La casa sul lago è mia.",
+      "example_english": "The house by the lake is mine.",
       "letter_count": 4
     },
     {
@@ -4170,8 +4170,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il parcheggio?",
-      "example_english": "Where is the parking?",
+      "example_italian": "Io ho un biglietto del parcheggio.",
+      "example_english": "I got a parking ticket.",
       "letter_count": 7
     },
     {
@@ -4184,8 +4184,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la spaventata?",
-      "example_english": "Where is the scared?",
+      "example_italian": "Mi ha detto che è spaventata.",
+      "example_english": "She told me she's scared.",
       "letter_count": 6
     },
     {
@@ -4198,8 +4198,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto cazzate.",
-      "example_english": "It is very bullshit.",
+      "example_italian": "Chi è che scrive queste cazzate?",
+      "example_english": "Who's the one who's writing this bullshit?",
       "letter_count": 8
     },
     {
@@ -4212,8 +4212,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sito?",
-      "example_english": "Where is the site?",
+      "example_italian": "Tom non ha un sito web.",
+      "example_english": "Tom doesn't have a website.",
       "letter_count": 4
     },
     {
@@ -4226,8 +4226,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto dovrò.",
-      "example_english": "It is very I'll have to.",
+      "example_italian": "Io farò quello che dovrò fare.",
+      "example_english": "I'll do what I have to do.",
       "letter_count": "___-____-__"
     },
     {
@@ -4240,8 +4240,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace respirare.",
-      "example_english": "I like to breathe.",
+      "example_italian": "Non si riesce a respirare qui.",
+      "example_english": "You can't breathe here.",
       "letter_count": 7
     },
     {
@@ -4254,8 +4254,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto uccisi.",
-      "example_english": "It is very killed.",
+      "example_italian": "Molti sono stati uccisi.",
+      "example_english": "Many were slain.",
       "letter_count": 6
     },
     {
@@ -4268,8 +4268,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ride.",
-      "example_english": "It is very laughs.",
+      "example_italian": "Non ride mai alle mie battute.",
+      "example_english": "You never laugh at my jokes.",
       "letter_count": 6
     },
     {
@@ -4282,8 +4282,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la tazza?",
-      "example_english": "Where is the cup?",
+      "example_italian": "Mi versò una tazza di tè.",
+      "example_english": "She poured me a cup of tea.",
       "letter_count": 3
     },
     {
@@ -4296,8 +4296,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto portate.",
-      "example_english": "It is very bring.",
+      "example_italian": "Lui ci ha portate allo zoo.",
+      "example_english": "He took us to the zoo.",
       "letter_count": 5
     },
     {
@@ -4310,8 +4310,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la respira?",
-      "example_english": "Where is the breathe?",
+      "example_italian": "Anche il sindaco respira la diossina.",
+      "example_english": "Even the mayor breathes dioxin.",
       "letter_count": 7
     },
     {
@@ -4324,8 +4324,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto uscite.",
-      "example_english": "It is very go out.",
+      "example_italian": "Siete mai uscite con una ragazza?",
+      "example_english": "Have you ever dated a girl?",
       "letter_count": "__-___"
     },
     {
@@ -4338,8 +4338,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la spara?",
-      "example_english": "Where is the shoot?",
+      "example_italian": "Lui le spara grosse.",
+      "example_english": "He's swaggering.",
       "letter_count": 5
     },
     {
@@ -4352,8 +4352,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la salta?",
-      "example_english": "Where is the jump?",
+      "example_italian": "Il gatto salta giù dal tavolo.",
+      "example_english": "The cat jumps off the table.",
       "letter_count": 4
     },
     {
@@ -4366,8 +4366,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il divorzio?",
-      "example_english": "Where is the divorce?",
+      "example_italian": "Era solo dopo il suo divorzio.",
+      "example_english": "He was lonely after his divorce.",
       "letter_count": 7
     },
     {
@@ -4380,8 +4380,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto venne.",
-      "example_english": "It is very came.",
+      "example_italian": "Lui venne al piano di sotto.",
+      "example_english": "He came downstairs.",
       "letter_count": 4
     },
     {
@@ -4394,8 +4394,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ricerche.",
-      "example_english": "It is very research.",
+      "example_italian": "Ho fatto un po' di ricerche.",
+      "example_english": "I did a little research.",
       "letter_count": 8
     },
     {
@@ -4408,8 +4408,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto darò.",
-      "example_english": "It is very I will give.",
+      "example_italian": "È tutto ciò che ti darò.",
+      "example_english": "That's all I'm going to give you.",
       "letter_count": "_-____-____"
     },
     {
@@ -4422,8 +4422,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il mucchio?",
-      "example_english": "Where is the pile?",
+      "example_italian": "Ho perso un mucchio di chiavi.",
+      "example_english": "I lost a bunch of keys.",
       "letter_count": 4
     },
     {
@@ -4436,8 +4436,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il facciamolo?",
-      "example_english": "Where is the let's do it?",
+      "example_italian": "Non facciamolo di nuovo.",
+      "example_english": "Let's not do this again.",
       "letter_count": "____-__-__"
     },
     {
@@ -4450,8 +4450,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la creda?",
-      "example_english": "Where is the believe it?",
+      "example_italian": "Tom vuole che io gli creda.",
+      "example_english": "Tom wants me to believe him.",
       "letter_count": "_______-__"
     },
     {
@@ -4464,8 +4464,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la pietra?",
-      "example_english": "Where is the stone?",
+      "example_italian": "La casa è fatta di pietra.",
+      "example_english": "The house is made of stone.",
       "letter_count": 5
     },
     {
@@ -4478,8 +4478,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il debito?",
-      "example_english": "Where is the debt?",
+      "example_italian": "Sami ha un debito con me.",
+      "example_english": "Sami has a debt with me.",
       "letter_count": 4
     },
     {
@@ -4492,8 +4492,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il panico?",
-      "example_english": "Where is the panic?",
+      "example_italian": "Tom è in preda al panico.",
+      "example_english": "Tom's panicked.",
       "letter_count": 5
     },
     {
@@ -4506,8 +4506,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto averne.",
-      "example_english": "It is very have.",
+      "example_italian": "Temo di non averne uno.",
+      "example_english": "I'm afraid I don't have one.",
       "letter_count": 4
     },
     {
@@ -4520,8 +4520,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il soccorso?",
-      "example_english": "Where is the rescue?",
+      "example_italian": "Lui è venuto in mio soccorso.",
+      "example_english": "He came to my rescue.",
       "letter_count": 6
     },
     {
@@ -4534,8 +4534,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il riusciamo?",
-      "example_english": "Where is the we succeed?",
+      "example_italian": "Noi riusciamo a fare di più.",
+      "example_english": "We can do more.",
       "letter_count": "__-_______"
     },
     {
@@ -4548,8 +4548,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la montagna?",
-      "example_english": "Where is the mountain?",
+      "example_italian": "Io ho una casa in montagna.",
+      "example_english": "I have a house in the mountains.",
       "letter_count": 8
     },
     {
@@ -4562,8 +4562,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sapessi.",
-      "example_english": "It is very if you knew.",
+      "example_italian": "Se lo sapessi te lo direi.",
+      "example_english": "If I knew it, I would tell you.",
       "letter_count": "__-___-____"
     },
     {
@@ -4576,8 +4576,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la agenzia?",
-      "example_english": "Where is the agency?",
+      "example_italian": "L'agenzia è chiusa oggi.",
+      "example_english": "The agency is closed today.",
       "letter_count": 6
     },
     {
@@ -4590,8 +4590,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la proposta?",
-      "example_english": "Where is the proposal?",
+      "example_italian": "È pro o contro la proposta?",
+      "example_english": "Are you for or against the proposal?",
       "letter_count": 8
     },
     {
@@ -4604,8 +4604,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto fatte.",
-      "example_english": "It is very done.",
+      "example_italian": "Le ho fatte andare a casa.",
+      "example_english": "I made them go home.",
       "letter_count": 4
     },
     {
@@ -4618,8 +4618,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dubito?",
-      "example_english": "Where is the I doubt?",
+      "example_italian": "Io non dubito che sia sincero.",
+      "example_english": "I do not doubt that he is sincere.",
       "letter_count": "_-_____"
     },
     {
@@ -4632,8 +4632,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la copia?",
-      "example_english": "Where is the copy?",
+      "example_italian": "Mi riesci a fare una copia?",
+      "example_english": "Can you make me a copy?",
       "letter_count": 4
     },
     {
@@ -4646,8 +4646,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il modello?",
-      "example_english": "Where is the pattern?",
+      "example_italian": "Lui è un modello di onestà.",
+      "example_english": "He is a model of honesty.",
       "letter_count": 7
     },
     {
@@ -4660,8 +4660,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto neve.",
-      "example_english": "It is very snow.",
+      "example_italian": "A me è piaciuta la neve.",
+      "example_english": "I liked the show.",
       "letter_count": 4
     },
     {
@@ -4674,8 +4674,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto rimasti.",
-      "example_english": "It is very remained.",
+      "example_italian": "Non siamo rimasti a casa ieri.",
+      "example_english": "We didn't stay home yesterday.",
       "letter_count": 8
     },
     {
@@ -4688,8 +4688,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la spazzatura?",
-      "example_english": "Where is the garbage?",
+      "example_italian": "A me piace il cibo spazzatura.",
+      "example_english": "I like junk food.",
       "letter_count": 7
     },
     {
@@ -4702,8 +4702,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto smetti.",
-      "example_english": "It is very stop.",
+      "example_italian": "Tu non smetti mai di stupirmi.",
+      "example_english": "You never cease to amaze me.",
       "letter_count": 4
     },
     {
@@ -4716,8 +4716,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il formaggio?",
-      "example_english": "Where is the cheese?",
+      "example_italian": "A me non piace il formaggio.",
+      "example_english": "I don't like cheese.",
       "letter_count": 6
     },
     {
@@ -4730,8 +4730,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la impressione?",
-      "example_english": "Where is the impression?",
+      "example_italian": "Qual è la sua impressione, dottore?",
+      "example_english": "What's your impression, doctor?",
       "letter_count": 10
     },
     {
@@ -4744,8 +4744,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ricordate.",
-      "example_english": "It is very remember.",
+      "example_italian": "Ve lo ricordate meglio di me.",
+      "example_english": "You remember it better than I do.",
       "letter_count": 8
     },
     {
@@ -4758,8 +4758,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la tavola?",
-      "example_english": "Where is the table?",
+      "example_italian": "C'è un gatto sotto la tavola?",
+      "example_english": "Is there a cat under the table?",
       "letter_count": 5
     },
     {
@@ -4772,8 +4772,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il terreno?",
-      "example_english": "Where is the land?",
+      "example_italian": "Il sole ha seccato il terreno.",
+      "example_english": "The sun has dried up the ground.",
       "letter_count": 4
     },
     {
@@ -4786,8 +4786,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la pioggia?",
-      "example_english": "Where is the rain?",
+      "example_italian": "A me non piace la pioggia.",
+      "example_english": "I do not like the rain.",
       "letter_count": 4
     },
     {
@@ -4800,8 +4800,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il bugiardo?",
-      "example_english": "Where is the liar?",
+      "example_italian": "Lui non è che un bugiardo.",
+      "example_english": "He is nothing but a liar.",
       "letter_count": 4
     },
     {
@@ -4814,8 +4814,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto pensieri.",
-      "example_english": "It is very thoughts.",
+      "example_italian": "Un penny per i tuoi pensieri.",
+      "example_english": "A penny for your thoughts.",
       "letter_count": 8
     },
     {
@@ -4828,8 +4828,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il maschio?",
-      "example_english": "Where is the male?",
+      "example_italian": "Quel cane è maschio o femmina?",
+      "example_english": "Is that dog male or female?",
       "letter_count": 4
     },
     {
@@ -4842,8 +4842,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la centinaia?",
-      "example_english": "Where is the hundreds?",
+      "example_italian": "Tom ha scritto centinaia di canzoni.",
+      "example_english": "Tom has written hundreds of songs.",
       "letter_count": 8
     },
     {
@@ -4856,8 +4856,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il perfino?",
-      "example_english": "Where is the even?",
+      "example_italian": "Io lavoro perfino di domenica.",
+      "example_english": "I work even on Sunday.",
       "letter_count": 4
     },
     {
@@ -4870,8 +4870,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il frattempo?",
-      "example_english": "Where is the in the meantime?",
+      "example_italian": "Io cosa posso fare nel frattempo?",
+      "example_english": "What can I do in the meantime?",
       "letter_count": "__-___-________"
     },
     {
@@ -4884,8 +4884,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto dovrà.",
-      "example_english": "It is very will have to.",
+      "example_italian": "Tom non lo dovrà più fare.",
+      "example_english": "Tom won't have to do that anymore.",
       "letter_count": "____-____-__"
     },
     {
@@ -4898,8 +4898,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la rapina?",
-      "example_english": "Where is the robbery?",
+      "example_italian": "Quando ha avuto luogo la rapina?",
+      "example_english": "When did the robbery take place?",
       "letter_count": 7
     },
     {
@@ -4912,8 +4912,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il seguendo?",
-      "example_english": "Where is the following?",
+      "example_italian": "Vivo seguendo la via del samurai.",
+      "example_english": "I live by the way of the samurai.",
       "letter_count": 9
     },
     {
@@ -4926,8 +4926,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il volto?",
-      "example_english": "Where is the face?",
+      "example_italian": "La donna si lava il volto.",
+      "example_english": "The woman washes her face.",
       "letter_count": 4
     },
     {
@@ -4940,8 +4940,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il affitto?",
-      "example_english": "Where is the rent?",
+      "example_italian": "Io non ho stanze in affitto.",
+      "example_english": "I don't have any rooms for rent.",
       "letter_count": 4
     },
     {
@@ -4954,8 +4954,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la piscina?",
-      "example_english": "Where is the pool?",
+      "example_italian": "Mi va di andare in piscina.",
+      "example_english": "I feel like going to the pool.",
       "letter_count": 4
     },
     {
@@ -4968,8 +4968,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto diverte.",
-      "example_english": "It is very it's fun.",
+      "example_italian": "Lei non si diverte mai?",
+      "example_english": "Don't you ever have any fun?",
       "letter_count": "___-___"
     },
     {
@@ -4982,8 +4982,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la pensione?",
-      "example_english": "Where is the board?",
+      "example_italian": "Tom è già in pensione, vero?",
+      "example_english": "Tom is already retired, isn't he?",
       "letter_count": 5
     },
     {
@@ -4996,8 +4996,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto folle.",
-      "example_english": "It is very crazy.",
+      "example_italian": "Io so che è un'idea folle.",
+      "example_english": "I know it's a crazy idea.",
       "letter_count": 5
     },
     {
@@ -5010,8 +5010,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la veniva?",
-      "example_english": "Where is the he was coming?",
+      "example_italian": "Lui veniva da un altro paese.",
+      "example_english": "He came from another country.",
       "letter_count": "__-___-______"
     },
     {
@@ -5024,8 +5024,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto idioti.",
-      "example_english": "It is very idiots.",
+      "example_italian": "Il mondo è pieno di idioti.",
+      "example_english": "The world is full of idiots.",
       "letter_count": 6
     },
     {
@@ -5038,8 +5038,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la strega?",
-      "example_english": "Where is the witch?",
+      "example_italian": "Mary si è vestita da strega.",
+      "example_english": "Mary dressed up as a witch.",
       "letter_count": 5
     },
     {
@@ -5052,8 +5052,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il coso?",
-      "example_english": "Where is the thing?",
+      "example_italian": "Passami quel coso lì.",
+      "example_english": "Pass me that thing over there.",
       "letter_count": 5
     },
     {
@@ -5066,8 +5066,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la pazienza?",
-      "example_english": "Where is the patience?",
+      "example_italian": "La mia pazienza ha un limite.",
+      "example_english": "My patience has a limit.",
       "letter_count": 8
     },
     {
@@ -5080,8 +5080,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il intervento?",
-      "example_english": "Where is the intervention?",
+      "example_italian": "Questo problema richiede un intervento immediato.",
+      "example_english": "This problem demands immediate attention.",
       "letter_count": 12
     },
     {
@@ -5094,8 +5094,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto vorrai.",
-      "example_english": "It is very you will.",
+      "example_italian": "Vorrai scusarmi per non averti scritto prima.",
+      "example_english": "I apologize for not writing to you before.",
       "letter_count": "___-____"
     },
     {
@@ -5108,8 +5108,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto mettermi.",
-      "example_english": "It is very put me.",
+      "example_italian": "Mettermi dei vestiti nuovi mi rallegra.",
+      "example_english": "Putting on new clothes cheers me up.",
       "letter_count": "___-__"
     },
     {
@@ -5122,8 +5122,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto limite.",
-      "example_english": "It is very limit.",
+      "example_italian": "La mia pazienza ha un limite.",
+      "example_english": "My patience has a limit.",
       "letter_count": 5
     },
     {
@@ -5136,8 +5136,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il dono?",
-      "example_english": "Where is the gift?",
+      "example_italian": "Hai un dono per la musica.",
+      "example_english": "You have a gift for music.",
       "letter_count": 4
     },
     {
@@ -5150,8 +5150,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il costruito?",
-      "example_english": "Where is the built?",
+      "example_italian": "Il ponte è costruito in legno.",
+      "example_english": "The bridge is built of wood.",
       "letter_count": 5
     },
     {
@@ -5164,8 +5164,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il possano?",
-      "example_english": "Where is the they can?",
+      "example_italian": "Pensi che i pesci possano sentire?",
+      "example_english": "Do you think fish can hear?",
       "letter_count": "____-___"
     },
     {
@@ -5178,8 +5178,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la ombra?",
-      "example_english": "Where is the shadow?",
+      "example_italian": "Ha paura della sua stessa ombra.",
+      "example_english": "He is afraid of his own shadow.",
       "letter_count": 6
     },
     {
@@ -5192,8 +5192,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il portarlo?",
-      "example_english": "Where is the bring it?",
+      "example_italian": "Faresti meglio a portarlo a casa.",
+      "example_english": "You'd better take him home.",
       "letter_count": "_____-__"
     },
     {
@@ -5206,8 +5206,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il respiro?",
-      "example_english": "Where is the breath?",
+      "example_italian": "Ha esalato il suo ultimo respiro.",
+      "example_english": "He breathed his last breath.",
       "letter_count": 6
     },
     {
@@ -5220,8 +5220,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto appartiene.",
-      "example_english": "It is very belongs.",
+      "example_italian": "La mia vita non mi appartiene.",
+      "example_english": "My life does not belong to me.",
       "letter_count": 7
     },
     {
@@ -5234,8 +5234,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la bugia?",
-      "example_english": "Where is the lie?",
+      "example_italian": "Tom sa che è una bugia.",
+      "example_english": "Tom knows it's a lie.",
       "letter_count": 3
     },
     {
@@ -5248,8 +5248,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il salto?",
-      "example_english": "Where is the jump?",
+      "example_italian": "Ha fatto un salto da noi.",
+      "example_english": "He dropped in to see us.",
       "letter_count": 4
     },
     {
@@ -5262,8 +5262,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la serviva?",
-      "example_english": "Where is the it was useful?",
+      "example_italian": "Mi serviva un po' di aiuto.",
+      "example_english": "I needed some help.",
       "letter_count": "__-___-______"
     },
     {
@@ -5276,8 +5276,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto farne.",
-      "example_english": "It is very do it.",
+      "example_italian": "Io non volevo farne una tragedia.",
+      "example_english": "I didn't want to make a big deal out of it.",
       "letter_count": "__-__"
     },
     {
@@ -5290,8 +5290,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il assunto?",
-      "example_english": "Where is the hired?",
+      "example_italian": "Sono stato assunto da mio zio.",
+      "example_english": "I was hired by my uncle.",
       "letter_count": 5
     },
     {
@@ -5304,8 +5304,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto speciali.",
-      "example_english": "It is very special.",
+      "example_italian": "Voi siete molto speciali per me.",
+      "example_english": "You're very special to me.",
       "letter_count": 7
     },
     {
@@ -5318,8 +5318,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la trovarla?",
-      "example_english": "Where is the find it?",
+      "example_italian": "È stato in grado di trovarla?",
+      "example_english": "Were you able to find her?",
       "letter_count": "____-__"
     },
     {
@@ -5332,8 +5332,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la conoscerla?",
-      "example_english": "Where is the get to know her?",
+      "example_italian": "Io sono molto felice di conoscerla.",
+      "example_english": "I am very glad to know you.",
       "letter_count": "___-__-____-___"
     },
     {
@@ -5346,8 +5346,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il miracolo?",
-      "example_english": "Where is the miracle?",
+      "example_italian": "Io penso che sia un miracolo.",
+      "example_english": "I think it's a miracle.",
       "letter_count": 7
     },
     {
@@ -5360,8 +5360,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la odia?",
-      "example_english": "Where is the hates?",
+      "example_italian": "Lo so che odia la scuola.",
+      "example_english": "I know you hate school.",
       "letter_count": 5
     },
     {
@@ -5374,8 +5374,8 @@
       "hint": null,
       "part_of_speech": "adverb",
       "gender": null,
-      "example_italian": "Lentamente vado a casa.",
-      "example_english": "Slowly I go home.",
+      "example_italian": "Tom guida più lentamente di me.",
+      "example_english": "Tom drives slower than me.",
       "letter_count": 6
     },
     {
@@ -5388,8 +5388,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto darci.",
-      "example_english": "It is very give us.",
+      "example_italian": "Può darci un passaggio a casa?",
+      "example_english": "Can you give us a ride home?",
       "letter_count": "____-__"
     },
     {
@@ -5402,8 +5402,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la sorveglianza?",
-      "example_english": "Where is the surveillance?",
+      "example_italian": "Tom è sotto sorveglianza.",
+      "example_english": "Tom is under surveillance.",
       "letter_count": 12
     },
     {
@@ -5416,8 +5416,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ragioni.",
-      "example_english": "It is very reasons.",
+      "example_italian": "Io ho le mie proprie ragioni.",
+      "example_english": "I have my own reasons.",
       "letter_count": 7
     },
     {
@@ -5430,8 +5430,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la galera?",
-      "example_english": "Where is the jail?",
+      "example_italian": "Tom non è più in galera.",
+      "example_english": "Tom isn't in jail anymore.",
       "letter_count": 4
     },
     {
@@ -5444,8 +5444,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il evento?",
-      "example_english": "Where is the event?",
+      "example_italian": "Il matrimonio sarà un discreto evento.",
+      "example_english": "The wedding is going to be quite an event.",
       "letter_count": 5
     },
     {
@@ -5458,8 +5458,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la vergogna?",
-      "example_english": "Where is the shame?",
+      "example_italian": "Tom si vergogna del suo corpo.",
+      "example_english": "Tom is ashamed of his body.",
       "letter_count": 5
     },
     {
@@ -5472,8 +5472,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il costretto?",
-      "example_english": "Where is the forced?",
+      "example_italian": "Lei lo ha costretto a sedersi.",
+      "example_english": "She forced him to sit down.",
       "letter_count": 6
     },
     {
@@ -5486,8 +5486,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto pari.",
-      "example_english": "It is very equal.",
+      "example_italian": "Il dodici è un numero pari.",
+      "example_english": "Twelve is an even number.",
       "letter_count": 5
     },
     {
@@ -5500,8 +5500,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto alberi.",
-      "example_english": "It is very trees.",
+      "example_italian": "Ci sono molti alberi nel parco?",
+      "example_english": "Are there many trees in the park?",
       "letter_count": 5
     },
     {
@@ -5514,8 +5514,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo permettere.",
-      "example_english": "I must allow.",
+      "example_italian": "Lei non se lo può permettere.",
+      "example_english": "She can't afford it.",
       "letter_count": 5
     },
     {
@@ -5528,8 +5528,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto interessi.",
-      "example_english": "It is very interests.",
+      "example_italian": "Abbiamo un conflitto di interessi qui.",
+      "example_english": "We have a conflict of interest here.",
       "letter_count": 9
     },
     {
@@ -5542,8 +5542,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto muovetevi.",
-      "example_english": "It is very move.",
+      "example_italian": "Non muovetevi, per favore.",
+      "example_english": "Don't move, please.",
       "letter_count": 4
     },
     {
@@ -5556,8 +5556,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto complimenti.",
-      "example_english": "It is very Well done.",
+      "example_italian": "Dai i nostri complimenti al cuoco.",
+      "example_english": "Give our compliments to the chef.",
       "letter_count": "____-____"
     },
     {
@@ -5570,8 +5570,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la carica?",
-      "example_english": "Where is the charge?",
+      "example_italian": "Tom è il campione in carica.",
+      "example_english": "Tom is the defending champion.",
       "letter_count": 6
     },
     {
@@ -5584,8 +5584,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la malata?",
-      "example_english": "Where is the sick?",
+      "example_italian": "È ovvio che lei è malata.",
+      "example_english": "It's obvious that she's sick.",
       "letter_count": 4
     },
     {
@@ -5598,8 +5598,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto succederà.",
-      "example_english": "It is very it will happen.",
+      "example_italian": "Io non so cosa ti succederà.",
+      "example_english": "I don't know what will happen with you.",
       "letter_count": "__-____-______"
     },
     {
@@ -5612,8 +5612,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sporco?",
-      "example_english": "Where is the dirty?",
+      "example_italian": "Tom non è sporco come me.",
+      "example_english": "Tom isn't as dirty as I am.",
       "letter_count": 5
     },
     {
@@ -5626,8 +5626,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto trovati.",
-      "example_english": "It is very found.",
+      "example_italian": "I soldi non furono mai trovati.",
+      "example_english": "The money was never found.",
       "letter_count": 5
     },
     {
@@ -5640,8 +5640,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tradito?",
-      "example_english": "Where is the betrayed?",
+      "example_italian": "Lui ha tradito il suo paese.",
+      "example_english": "He betrayed his country.",
       "letter_count": 8
     },
     {
@@ -5654,8 +5654,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto ovest.",
-      "example_english": "It is very west.",
+      "example_italian": "Vado a sud-ovest del villaggio.",
+      "example_english": "I go to the southwest of the village.",
       "letter_count": 4
     },
     {
@@ -5668,8 +5668,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il petto?",
-      "example_english": "Where is the chest?",
+      "example_italian": "Tom non ha peli sul petto.",
+      "example_english": "Tom has no hair on his chest.",
       "letter_count": 5
     },
     {
@@ -5682,8 +5682,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il toccato?",
-      "example_english": "Where is the touched?",
+      "example_italian": "Il gelo ha toccato i fiori.",
+      "example_english": "Frost touched the flowers.",
       "letter_count": 7
     },
     {
@@ -5696,8 +5696,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la diretta?",
-      "example_english": "Where is the direct?",
+      "example_italian": "Tom è una persona molto diretta.",
+      "example_english": "Tom is a very straightforward person.",
       "letter_count": 6
     },
     {
@@ -5710,8 +5710,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tornando?",
-      "example_english": "Where is the returning?",
+      "example_italian": "Tom sta tornando a casa, vero?",
+      "example_english": "Tom is going back home, isn't he?",
       "letter_count": 9
     },
     {
@@ -5724,8 +5724,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto bastardi.",
-      "example_english": "It is very bastards.",
+      "example_italian": "Tutto ciò che fanno quei bastardi è lamentarsi.",
+      "example_english": "All those bastards do is complain.",
       "letter_count": 8
     },
     {
@@ -5738,8 +5738,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la california?",
-      "example_english": "Where is the California?",
+      "example_italian": "Io lo sto mandando in California.",
+      "example_english": "I am sending him to California.",
       "letter_count": 10
     },
     {
@@ -5752,8 +5752,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo muovere.",
-      "example_english": "I must move.",
+      "example_italian": "Sapevo che mi dovevo muovere velocemente.",
+      "example_english": "I knew I had to move fast.",
       "letter_count": 4
     },
     {
@@ -5766,8 +5766,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace indovinare.",
-      "example_english": "I like to guess.",
+      "example_italian": "Riesci a indovinare la mia età?",
+      "example_english": "Can you guess my age?",
       "letter_count": 5
     },
     {
@@ -5780,8 +5780,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la nota?",
-      "example_english": "Where is the note?",
+      "example_italian": "Tom mi ha mandato una nota.",
+      "example_english": "Tom sent me a note.",
       "letter_count": 4
     },
     {
@@ -5794,8 +5794,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo togliere.",
-      "example_english": "I must remove.",
+      "example_italian": "Non riesco a togliere il coperchio.",
+      "example_english": "I cannot get the lid off.",
       "letter_count": 6
     },
     {
@@ -5808,8 +5808,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la dichiarazione?",
-      "example_english": "Where is the declaration?",
+      "example_italian": "Io accetto la dichiarazione come vera.",
+      "example_english": "I accept the statement as true.",
       "letter_count": 11
     },
     {
@@ -5822,8 +5822,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il sonno?",
-      "example_english": "Where is the sleep?",
+      "example_italian": "Il sonno è per i deboli.",
+      "example_english": "Sleeping is for the weak.",
       "letter_count": 5
     },
     {
@@ -5836,8 +5836,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ginocchio?",
-      "example_english": "Where is the knee?",
+      "example_italian": "Tom si fece male al ginocchio.",
+      "example_english": "Tom hurt his knee.",
       "letter_count": 4
     },
     {
@@ -5850,8 +5850,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la moda?",
-      "example_english": "Where is the fashion?",
+      "example_italian": "Julio non è mai alla moda.",
+      "example_english": "Julio is never in style.",
       "letter_count": 7
     },
     {
@@ -5864,8 +5864,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la meravigliosa?",
-      "example_english": "Where is the wonderful?",
+      "example_italian": "La luce di maggio è meravigliosa.",
+      "example_english": "The light in May is wonderful.",
       "letter_count": 9
     },
     {
@@ -5878,8 +5878,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la fortunata?",
-      "example_english": "Where is the lucky?",
+      "example_italian": "Io non sono fortunata come te.",
+      "example_english": "I'm not as lucky as you.",
       "letter_count": 5
     },
     {
@@ -5892,8 +5892,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il gelato?",
-      "example_english": "Where is the ice-cream?",
+      "example_italian": "A me non piace il gelato.",
+      "example_english": "I don't care for ice cream.",
       "letter_count": 9
     },
     {
@@ -5906,8 +5906,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il magazzino?",
-      "example_english": "Where is the warehouse?",
+      "example_italian": "L'ho comprato a un grande magazzino.",
+      "example_english": "I bought it at a department store.",
       "letter_count": 9
     },
     {
@@ -5920,8 +5920,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la parlava?",
-      "example_english": "Where is the spoke?",
+      "example_italian": "Parlava con una pipa in bocca.",
+      "example_english": "He spoke with a pipe in his mouth.",
       "letter_count": 5
     },
     {
@@ -5934,8 +5934,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il governatore?",
-      "example_english": "Where is the governor?",
+      "example_italian": "Il governatore ha liberato i prigionieri.",
+      "example_english": "The governor set the prisoners free.",
       "letter_count": 8
     },
     {
@@ -5948,8 +5948,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la telecamera?",
-      "example_english": "Where is the camera?",
+      "example_italian": "Tom mi ha mostrato come usare la sua telecamera.",
+      "example_english": "Tom showed me how to use his camera.",
       "letter_count": 6
     },
     {
@@ -5962,8 +5962,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto medici.",
-      "example_english": "It is very doctors.",
+      "example_italian": "A me non piacciono i medici.",
+      "example_english": "I don't like doctors.",
       "letter_count": 7
     },
     {
@@ -5976,8 +5976,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il ascoltando?",
-      "example_english": "Where is the listening?",
+      "example_italian": "La, la, la, non sto ascoltando.",
+      "example_english": "La, la, la, I'm not listening.",
       "letter_count": 9
     },
     {
@@ -5990,8 +5990,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il castello?",
-      "example_english": "Where is the castle?",
+      "example_italian": "A me piace il tuo castello.",
+      "example_english": "I like your castle.",
       "letter_count": 6
     },
     {
@@ -6004,8 +6004,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il organizzato?",
-      "example_english": "Where is the organized?",
+      "example_italian": "Tom è più organizzato di me.",
+      "example_english": "Tom is more organized than I am.",
       "letter_count": 9
     },
     {
@@ -6018,8 +6018,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il giocando?",
-      "example_english": "Where is the playing?",
+      "example_italian": "Sta giocando con i miei piedi?",
+      "example_english": "Are you playing with my feet?",
       "letter_count": 7
     },
     {
@@ -6032,8 +6032,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto adorabile.",
-      "example_english": "It is very adorable.",
+      "example_italian": "Lei è una ragazza così adorabile!",
+      "example_english": "She's such a lovely girl!",
       "letter_count": 8
     },
     {
@@ -6046,8 +6046,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la punta?",
-      "example_english": "Where is the tip?",
+      "example_italian": "Fai la punta alla tua matita.",
+      "example_english": "Sharpen your pencil.",
       "letter_count": 3
     },
     {
@@ -6060,8 +6060,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il bosco?",
-      "example_english": "Where is the woods?",
+      "example_italian": "Tom vive da solo nel bosco.",
+      "example_english": "Tom lives alone in the woods.",
       "letter_count": 5
     },
     {
@@ -6074,8 +6074,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto bianchi.",
-      "example_english": "It is very white.",
+      "example_italian": "Non tutti i cigni sono bianchi.",
+      "example_english": "Not all swans are white.",
       "letter_count": 5
     },
     {
@@ -6088,8 +6088,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto metterti.",
-      "example_english": "It is very put yourself.",
+      "example_italian": "Sai metterti un kimono da solo?",
+      "example_english": "Can you put on a kimono by yourself?",
       "letter_count": "___-________"
     },
     {
@@ -6102,8 +6102,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto pillole.",
-      "example_english": "It is very pills.",
+      "example_italian": "A me servono le mie pillole.",
+      "example_english": "I need my pills.",
       "letter_count": 5
     },
     {
@@ -6116,8 +6116,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il suicidio?",
-      "example_english": "Where is the suicide?",
+      "example_italian": "Il suicidio non è la risposta.",
+      "example_english": "Suicide isn't the answer.",
       "letter_count": 7
     },
     {
@@ -6130,8 +6130,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il argomento?",
-      "example_english": "Where is the subject?",
+      "example_italian": "Io ho provato a cambiare argomento.",
+      "example_english": "I tried to change the subject.",
       "letter_count": 7
     },
     {
@@ -6144,8 +6144,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il portando?",
-      "example_english": "Where is the bringing?",
+      "example_italian": "Sto portando a casa una pizza.",
+      "example_english": "I'm bringing home a pizza.",
       "letter_count": 8
     },
     {
@@ -6158,8 +6158,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto portarti.",
-      "example_english": "It is very take you.",
+      "example_italian": "Sono qui per portarti a casa.",
+      "example_english": "I'm here to take you home.",
       "letter_count": "____-___"
     },
     {
@@ -6172,8 +6172,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto auguri.",
-      "example_english": "It is very congratulations.",
+      "example_italian": "Facciamo a loro i migliori auguri.",
+      "example_english": "We wish them well.",
       "letter_count": 15
     },
     {
@@ -6186,8 +6186,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto portami.",
-      "example_english": "It is very take me.",
+      "example_italian": "Portami una tazza di caffè, vuoi?",
+      "example_english": "Bring me a cup of coffee, will you?",
       "letter_count": "____-__"
     },
     {
@@ -6200,8 +6200,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto neri.",
-      "example_english": "It is very black.",
+      "example_italian": "A te piacciono i gatti neri?",
+      "example_english": "Do you like black cats?",
       "letter_count": 5
     },
     {
@@ -6214,8 +6214,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto stupidi.",
-      "example_english": "It is very stupid.",
+      "example_italian": "Siete stupidi a fidarvi di lui.",
+      "example_english": "You're stupid to trust him.",
       "letter_count": 6
     },
     {
@@ -6228,8 +6228,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il mostrato?",
-      "example_english": "Where is the shown?",
+      "example_italian": "Tom non si è mai mostrato.",
+      "example_english": "Tom never showed up.",
       "letter_count": 5
     },
     {
@@ -6242,8 +6242,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il interessato?",
-      "example_english": "Where is the interested?",
+      "example_italian": "È interessato a me o cosa?",
+      "example_english": "Is he interested in me or something?",
       "letter_count": 10
     },
     {
@@ -6256,8 +6256,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto andiamocene.",
-      "example_english": "It is very let's go.",
+      "example_italian": "Andiamocene e basta.",
+      "example_english": "Let's just leave.",
       "letter_count": "____-__"
     },
     {
@@ -6270,8 +6270,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto uguale.",
-      "example_english": "It is very the same.",
+      "example_italian": "La legge è uguale per tutti.",
+      "example_english": "The law is the same for everyone.",
       "letter_count": "___-____"
     },
     {
@@ -6284,8 +6284,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la tasca?",
-      "example_english": "Where is the pocket?",
+      "example_italian": "Tom ha tre biro in tasca.",
+      "example_english": "Tom has three pens in his pocket.",
       "letter_count": 6
     },
     {
@@ -6298,8 +6298,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto lezioni.",
-      "example_english": "It is very lessons.",
+      "example_italian": "Io amo tutte le mie lezioni.",
+      "example_english": "I love all of my classes.",
       "letter_count": 7
     },
     {
@@ -6312,8 +6312,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace dimostrare.",
-      "example_english": "I like to prove.",
+      "example_italian": "Io non lo riesco a dimostrare.",
+      "example_english": "I can't prove it.",
       "letter_count": 5
     },
     {
@@ -6326,8 +6326,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto riusciti.",
-      "example_english": "It is very successful.",
+      "example_italian": "Noi non siamo riusciti a persuaderlo.",
+      "example_english": "We failed to persuade him.",
       "letter_count": 10
     },
     {
@@ -6340,8 +6340,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la indovina?",
-      "example_english": "Where is the guess?",
+      "example_italian": "Indovina qual è il suo nome.",
+      "example_english": "Guess what his name is.",
       "letter_count": 5
     },
     {
@@ -6354,8 +6354,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto puntate.",
-      "example_english": "It is very bets.",
+      "example_italian": "Ho visto tutte le puntate.",
+      "example_english": "I watched all the episodes.",
       "letter_count": 4
     },
     {
@@ -6368,8 +6368,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il impegnato?",
-      "example_english": "Where is the engaged?",
+      "example_italian": "È impegnato con il suo lavoro.",
+      "example_english": "He is busy with his work.",
       "letter_count": 7
     },
     {
@@ -6382,8 +6382,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto voti.",
-      "example_english": "It is very votes.",
+      "example_italian": "Lei ha preso i voti migliori.",
+      "example_english": "She's got the best grades.",
       "letter_count": 5
     },
     {
@@ -6396,8 +6396,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto passate.",
-      "example_english": "It is very pass.",
+      "example_italian": "Non passate il tempo con lui.",
+      "example_english": "Don't hang out with him.",
       "letter_count": 4
     },
     {
@@ -6410,8 +6410,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto contanti.",
-      "example_english": "It is very cash.",
+      "example_italian": "Io ho pagato l'auto in contanti.",
+      "example_english": "I paid cash for the car.",
       "letter_count": 4
     },
     {
@@ -6424,8 +6424,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la presenta?",
-      "example_english": "Where is the presents?",
+      "example_italian": "Tom non si presenta mai in orario.",
+      "example_english": "Tom never shows up on time.",
       "letter_count": 8
     },
     {
@@ -6438,8 +6438,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il abito?",
-      "example_english": "Where is the suit?",
+      "example_italian": "Abito a casa di mio zio.",
+      "example_english": "I live in my uncle's house.",
       "letter_count": 4
     },
     {
@@ -6452,8 +6452,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il cercavo?",
-      "example_english": "Where is the I was looking?",
+      "example_italian": "Aveva la competenza che cercavo disperatamente.",
+      "example_english": "He had the expertise I was looking for desperately.",
       "letter_count": "_-___-_______"
     },
     {
@@ -6466,8 +6466,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sentirti.",
-      "example_english": "It is very feel you.",
+      "example_italian": "Io non riesco a sentirti bene.",
+      "example_english": "I can't hear you well.",
       "letter_count": "____-___"
     },
     {
@@ -6480,8 +6480,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il patto?",
-      "example_english": "Where is the pact?",
+      "example_italian": "Facciamo un patto.",
+      "example_english": "Let's make a pact.",
       "letter_count": 4
     },
     {
@@ -6494,8 +6494,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la custodia?",
-      "example_english": "Where is the custody?",
+      "example_italian": "Tom è stato preso in custodia.",
+      "example_english": "Tom was taken into custody.",
       "letter_count": 7
     },
     {
@@ -6508,8 +6508,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la alba?",
-      "example_english": "Where is the sunrise?",
+      "example_italian": "Mi sono svegliato all'alba.",
+      "example_english": "I woke up at dawn.",
       "letter_count": 7
     },
     {
@@ -6522,8 +6522,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto colleghi.",
-      "example_english": "It is very colleagues.",
+      "example_italian": "I miei colleghi mi accolsero calorosamente.",
+      "example_english": "My colleagues warmly welcomed me.",
       "letter_count": 10
     },
     {
@@ -6536,8 +6536,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto togliti.",
-      "example_english": "It is very take off.",
+      "example_italian": "Togliti le calze, per favore.",
+      "example_english": "Take off your socks, please.",
       "letter_count": "____-___"
     },
     {
@@ -6550,8 +6550,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Voglio un caffè.",
-      "example_english": "I want a coffee.",
+      "example_italian": "È sicuro di non volere nulla?",
+      "example_english": "Are you sure you don't want anything?",
       "letter_count": 4
     },
     {
@@ -6564,8 +6564,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la opportunita?",
-      "example_english": "Where is the opportunity?",
+      "example_italian": "Io ti ho dato troppe opportunità.",
+      "example_english": "I've given you too many chances.",
       "letter_count": 11
     },
     {
@@ -6578,8 +6578,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto chili.",
-      "example_english": "It is very kilos.",
+      "example_italian": "Lui pesa più di ottanta chili.",
+      "example_english": "He is over 80 kilos.",
       "letter_count": 5
     },
     {
@@ -6592,8 +6592,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il senatore?",
-      "example_english": "Where is the senator?",
+      "example_italian": "Il suo amico è un ex Senatore.",
+      "example_english": "His friend is an ex-Senator.",
       "letter_count": 7
     },
     {
@@ -6606,8 +6606,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la artista?",
-      "example_english": "Where is the artist?",
+      "example_italian": "Tom è un artista di strada.",
+      "example_english": "Tom is a street artist.",
       "letter_count": 6
     },
     {
@@ -6620,8 +6620,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il divertimento?",
-      "example_english": "Where is the fun?",
+      "example_italian": "Io suono il piano per divertimento.",
+      "example_english": "I play the piano for amusement.",
       "letter_count": 3
     },
     {
@@ -6634,8 +6634,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto troppi.",
-      "example_english": "It is very too many.",
+      "example_italian": "Dà troppi soldi a suo figlio.",
+      "example_english": "She gives too much money to her son.",
       "letter_count": "___-____"
     },
     {
@@ -6648,8 +6648,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto champagne.",
-      "example_english": "It is very Champagne.",
+      "example_italian": "Lui berrà lo champagne a mezzanotte.",
+      "example_english": "He will drink the champagne at midnight.",
       "letter_count": 9
     },
     {
@@ -6662,8 +6662,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto muoverti.",
-      "example_english": "It is very move.",
+      "example_italian": "Ti ho detto di non muoverti.",
+      "example_english": "I told you not to move.",
       "letter_count": 4
     },
     {
@@ -6676,8 +6676,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto mezzanotte.",
-      "example_english": "It is very midnight.",
+      "example_italian": "Tom se ne andò a mezzanotte.",
+      "example_english": "Tom left at midnight.",
       "letter_count": 8
     },
     {
@@ -6690,8 +6690,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il socio?",
-      "example_english": "Where is the partner?",
+      "example_italian": "Lui ha i privilegi da socio.",
+      "example_english": "He has the privileges of membership.",
       "letter_count": 7
     },
     {
@@ -6704,8 +6704,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto sbagli.",
-      "example_english": "It is very you're wrong.",
+      "example_italian": "Tu ti sbagli su di me.",
+      "example_english": "You're wrong about me.",
       "letter_count": "_____-_____"
     },
     {
@@ -6718,8 +6718,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il esperto?",
-      "example_english": "Where is the expert?",
+      "example_italian": "Tom è più esperto di me.",
+      "example_english": "Tom is more experienced than me.",
       "letter_count": 6
     },
     {
@@ -6732,8 +6732,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il anticipo?",
-      "example_english": "Where is the advance?",
+      "example_italian": "Non è un po' in anticipo?",
+      "example_english": "Aren't you a little early?",
       "letter_count": 7
     },
     {
@@ -6746,8 +6746,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la scappa?",
-      "example_english": "Where is the run away?",
+      "example_italian": "Il gatto scappa via.",
+      "example_english": "The cat runs away.",
       "letter_count": "___-____"
     },
     {
@@ -6760,8 +6760,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto troppe.",
-      "example_english": "It is very too many.",
+      "example_italian": "Io ho troppe cose da fare.",
+      "example_english": "I've got too much to do.",
       "letter_count": "___-____"
     },
     {
@@ -6774,8 +6774,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto facessi.",
-      "example_english": "It is very I would do.",
+      "example_italian": "Ti sarei grato se lo facessi.",
+      "example_english": "I'd appreciate it if you could do that.",
       "letter_count": "_-_____-__"
     },
     {
@@ -6788,8 +6788,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la firma?",
-      "example_english": "Where is the signature?",
+      "example_italian": "Mi serve la tua firma qui.",
+      "example_english": "I need your signature here.",
       "letter_count": 9
     },
     {
@@ -6802,8 +6802,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la cima?",
-      "example_english": "Where is the top?",
+      "example_italian": "Mi sento in cima al mondo.",
+      "example_english": "I feel on top of the world.",
       "letter_count": 3
     },
     {
@@ -6816,8 +6816,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il risolto?",
-      "example_english": "Where is the solved?",
+      "example_italian": "Il caso non è stato risolto.",
+      "example_english": "The case hasn't been solved.",
       "letter_count": 6
     },
     {
@@ -6830,8 +6830,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il tenerlo?",
-      "example_english": "Where is the keep it?",
+      "example_italian": "Sto provando a tenerlo in vita.",
+      "example_english": "I'm trying to keep him alive.",
       "letter_count": "____-__"
     },
     {
@@ -6844,8 +6844,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Devo sparire.",
-      "example_english": "I must disappear.",
+      "example_italian": "L'intelligenza artificiale farà sparire questi lavori?",
+      "example_english": "Will artificial intelligence make these jobs disappear?",
       "letter_count": 9
     },
     {
@@ -6858,8 +6858,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il usciamo?",
-      "example_english": "Where is the let's go out?",
+      "example_italian": "Perché non usciamo a bere stasera?",
+      "example_english": "Why don't we go out drinking tonight?",
       "letter_count": "____-__-___"
     },
     {
@@ -6872,8 +6872,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il babbo?",
-      "example_english": "Where is the dad?",
+      "example_italian": "Non posso vedere il mio babbo.",
+      "example_english": "I can't see my dad.",
       "letter_count": 3
     },
     {
@@ -6886,8 +6886,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto liberi.",
-      "example_english": "It is very free.",
+      "example_italian": "Non ci sono più posti liberi.",
+      "example_english": "There are no more seats left.",
       "letter_count": 4
     },
     {
@@ -6900,8 +6900,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto meriti.",
-      "example_english": "It is very you deserve.",
+      "example_italian": "Tu te lo meriti il premio.",
+      "example_english": "You deserve the prize.",
       "letter_count": "___-_______"
     },
     {
@@ -6914,8 +6914,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto calmi.",
-      "example_english": "It is very calm down.",
+      "example_italian": "State calmi e comportatevi bene!",
+      "example_english": "Keep quiet and behave well!",
       "letter_count": "____-____"
     },
     {
@@ -6928,8 +6928,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto dormi.",
-      "example_english": "It is very sleep.",
+      "example_italian": "Bevi meno e dormi di più.",
+      "example_english": "Drink less and sleep more.",
       "letter_count": 5
     },
     {
@@ -6942,8 +6942,8 @@
       "hint": null,
       "part_of_speech": "verb",
       "gender": null,
-      "example_italian": "Mi piace festeggiare.",
-      "example_english": "I like to celebrate.",
+      "example_italian": "A me non va di festeggiare.",
+      "example_english": "I don't feel like partying.",
       "letter_count": 9
     },
     {
@@ -6956,8 +6956,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto rock.",
-      "example_english": "It is very rock.",
+      "example_italian": "Ti piace il rock and roll?",
+      "example_english": "Do you like rock and roll?",
       "letter_count": 4
     },
     {
@@ -6970,8 +6970,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "m",
-      "example_italian": "Dov'è il bersaglio?",
-      "example_english": "Where is the target?",
+      "example_italian": "Qual è il tuo bersaglio?",
+      "example_english": "Which is your target?",
       "letter_count": 6
     },
     {
@@ -6984,8 +6984,8 @@
       "hint": null,
       "part_of_speech": "adjective",
       "gender": null,
-      "example_italian": "È molto spese.",
-      "example_english": "It is very expenses.",
+      "example_italian": "Tom spese il doppio di me.",
+      "example_english": "Tom spent twice as much as I did.",
       "letter_count": 8
     },
     {
@@ -6998,8 +6998,8 @@
       "hint": null,
       "part_of_speech": "noun",
       "gender": "f",
-      "example_italian": "Dov'è la preoccupa?",
-      "example_english": "Where is the worries?",
+      "example_italian": "So che si preoccupa per lei.",
+      "example_english": "I know you worry about her.",
       "letter_count": 7
     }
   ]
