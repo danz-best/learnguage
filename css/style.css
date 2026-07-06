@@ -229,6 +229,13 @@ footer {
     color: #666;
 }
 
+.app-version {
+    margin-top: 8px;
+    font-size: 0.8rem;
+    color: #999;
+    letter-spacing: 0.03em;
+}
+
 /* Session Page */
 .session-container {
     max-width: 800px;

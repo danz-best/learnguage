@@ -1,6 +1,12 @@
+// App version shown on the home screen. Bump this together with the service
+// worker cache version on every deploy.
+const APP_VERSION = '9';
+
 // Home screen: render progress + set cards, wire up backup controls.
 document.addEventListener('DOMContentLoaded', async () => {
     await Engine.init();
+    const vEl = document.getElementById('app-version');
+    if (vEl) vEl.textContent = 'Version ' + APP_VERSION;
     render();
 
     // ----- backup / restore -----

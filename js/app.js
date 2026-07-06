@@ -55,9 +55,29 @@ function unlockAudio() {
         audioUnlocked = true;
     }).catch(() => { /* retry on next gesture */ });
 }
-document.addEventListener('touchend', unlockAudio, { once: false });
-document.addEventListener('click', unlockAudio, { once: false });
-document.addEventListener('keydown', unlockAudio, { once: false });
+
+// iOS also blocks speechSynthesis until a user gesture. Unlock it on the first
+// interaction and read the word currently on screen, so auto-pronounce works
+// from then on without tapping the speaker.
+let speechUnlocked = false;
+function unlockSpeech() {
+    if (speechUnlocked || !('speechSynthesis' in window)) return;
+    speechUnlocked = true;
+    try {
+        if (autoPronounce && currentWord) {
+            window.pronounceWord(currentWord.italian);   // audible + warms the engine
+        } else {
+            const u = new SpeechSynthesisUtterance(' ');  // silent prime
+            u.volume = 0;
+            window.speechSynthesis.speak(u);
+        }
+    } catch (e) { speechUnlocked = false; }
+}
+
+function primeMedia() { unlockAudio(); unlockSpeech(); }
+document.addEventListener('touchend', primeMedia, { once: false });
+document.addEventListener('click', primeMedia, { once: false });
+document.addEventListener('keydown', primeMedia, { once: false });
 
 // Initialize session
 async function initSession() {
@@ -123,9 +143,8 @@ function loadNextWord() {
     currentWordNum.textContent = sessionStats.wordsCompleted.size + 1;
 
     answerInput.value = '';
-    answerInput.readOnly = false;
     inputLocked = false;
-    answerInput.focus();
+    answerInput.focus();   // keep focus so the iOS keyboard stays open between words
     hideFeedback();
 }
 
@@ -172,8 +191,7 @@ async function submitAnswer() {
     const answer = answerInput.value.trim();
     if (!answer) return;
 
-    inputLocked = true;
-    answerInput.readOnly = true; // lock without blurring (keeps keyboard up on iOS)
+    inputLocked = true;  // soft lock; do NOT set readOnly (that dismisses the iOS keyboard)
 
     if (!sessionStats.wordAttempts[currentWord.id]) sessionStats.wordAttempts[currentWord.id] = 0;
     sessionStats.wordAttempts[currentWord.id]++;
@@ -189,7 +207,6 @@ async function submitAnswer() {
         console.error('Error checking answer:', error);
         alert('Failed to check answer');
         inputLocked = false;
-        answerInput.readOnly = false;
     }
 }
 
@@ -253,7 +270,6 @@ function handleWrongAnswer(correctAnswer, isClose) {
 async function skipWord() {
     if (!currentWord || inputLocked) return;
     inputLocked = true;
-    answerInput.readOnly = true;
     try {
         const context = await Engine.getWordContext(SET_ID, currentWord.id);
         showFeedback('wrong', `Skipped. Correct answer: ${context.english}`);
@@ -282,7 +298,6 @@ async function skipWord() {
     } catch (error) {
         console.error('Error skipping word:', error);
         inputLocked = false;
-        answerInput.readOnly = false;
     }
 }
 
@@ -396,6 +411,12 @@ window.showWordDetails = function(wordId, italian, pos, gender, english, example
 submitBtn.addEventListener('click', submitAnswer);
 skipBtn.addEventListener('click', skipWord);
 contextBtn.addEventListener('click', showContext);
+
+// Keep the text input focused (keyboard open) when Submit/Skip are tapped:
+// preventing mousedown default stops the button from stealing focus.
+[submitBtn, skipBtn].forEach((btn) => {
+    btn.addEventListener('mousedown', (e) => e.preventDefault());
+});
 
 answerInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' && !inputLocked) submitAnswer();
