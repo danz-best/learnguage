@@ -26,7 +26,8 @@ const Engine = (() => {
     text = (text || '').toLowerCase().trim();
     let out = '';
     for (const ch of text) out += (ACCENT_MAP[ch] !== undefined ? ACCENT_MAP[ch] : ch);
-    return out;
+    // Ignore apostrophes/quotes so "dont" == "don't", "im" == "I'm".
+    return out.replace(/['`´‘’]/g, '');
   }
 
   function levenshtein(s1, s2) {
@@ -117,8 +118,36 @@ const Engine = (() => {
         session_stats: {}
       },
       word_stats: {},
-      session_count: 0
+      session_count: 0,
+      // First-attempt success stats. A "run" = one full pass of all 500 words.
+      run: { counted: {}, seen: 0, correct_first: 0 },
+      prev_run: null
     };
+  }
+
+  // Ensure run stats exist on progress saved before this feature was added.
+  function ensureRun(sp) {
+    if (!sp.run || typeof sp.run !== 'object') sp.run = { counted: {}, seen: 0, correct_first: 0 };
+    if (!('prev_run' in sp)) sp.prev_run = null;
+    return sp.run;
+  }
+
+  // Record a word's first-attempt result for the current run (deduped per run).
+  // Rolls the run over to prev_run once all words in the set have been seen once.
+  async function recordRunAttempt(setId, wordId, wasCorrect) {
+    const sp = ensureSet(setId);
+    const run = ensureRun(sp);
+    if (run.counted[wordId]) return;        // already counted this run
+    run.counted[wordId] = true;
+    run.seen += 1;
+    if (wasCorrect) run.correct_first += 1;
+    const wordSet = await loadWordSet(setId);
+    const total = wordSet ? wordSet.words.length : 500;
+    if (run.seen >= total) {                 // full pass done -> new run
+      sp.prev_run = { seen: run.seen, correct_first: run.correct_first };
+      sp.run = { counted: {}, seen: 0, correct_first: 0 };
+    }
+    save();
   }
 
   // Load progress into memory. On first run, seed from bundled seed_progress.json
@@ -559,9 +588,12 @@ const Engine = (() => {
       const masteredCount = Object.keys(wordStats).filter(id => wordStats[id].mastered).length;
       const seenCount = Object.keys(wordStats).length;
       const hasPaused = (sp.paused_session || {}).active || false;
+      const run = sp.run || { seen: 0, correct_first: 0 };
       setsInfo.push({
         id: setId, name: wordSet.set_name, total_words: totalWords,
-        seen_count: seenCount, mastered_count: masteredCount, has_paused_session: hasPaused
+        seen_count: seenCount, mastered_count: masteredCount, has_paused_session: hasPaused,
+        run: { seen: run.seen || 0, correct_first: run.correct_first || 0 },
+        prev_run: sp.prev_run || null
       });
     }
     return setsInfo;
@@ -581,7 +613,7 @@ const Engine = (() => {
   return {
     init, getProgress, getSetsInfo,
     getSessionWords, startNewSession, checkAnswerAndRecord,
-    getWordContext, skipWord, sessionComplete,
+    getWordContext, skipWord, sessionComplete, recordRunAttempt,
     exportProgress, importProgress, resetProgress
   };
 })();

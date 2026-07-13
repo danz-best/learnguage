@@ -1,6 +1,6 @@
 // App version shown on the home screen. Bump this together with the service
 // worker cache version on every deploy.
-const APP_VERSION = '9';
+const APP_VERSION = '10';
 
 // Home screen: render progress + set cards, wire up backup controls.
 document.addEventListener('DOMContentLoaded', async () => {
@@ -64,6 +64,13 @@ async function render() {
         card.className = 'set-card';
         const btnClass = set.has_paused_session ? 'btn-resume' : 'btn-primary';
         const btnLabel = set.has_paused_session ? 'Resume Session' : 'Start Session';
+        const run = set.run || { seen: 0, correct_first: 0 };
+        const runLine = run.seen > 0
+            ? `This run: knew ${run.correct_first} of ${run.seen} first try`
+            : `This run: not started yet`;
+        const prevLine = set.prev_run
+            ? `Last run: knew ${set.prev_run.correct_first} of ${set.prev_run.seen} first try`
+            : '';
         card.innerHTML = `
             <h3>${set.name}</h3>
             <div class="set-progress">
@@ -72,6 +79,8 @@ async function render() {
                 </div>
                 <p class="progress-text">${set.mastered_count}/${set.total_words} mastered</p>
                 <p class="progress-text">${set.seen_count} words seen</p>
+                <p class="progress-text run-stat">${runLine}</p>
+                ${prevLine ? `<p class="progress-text run-stat">${prevLine}</p>` : ''}
             </div>
             <a href="session.html?set=${set.id}" class="btn ${btnClass}">${btnLabel}</a>`;
         grid.appendChild(card);

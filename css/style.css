@@ -169,6 +169,17 @@ h1 {
     margin: 5px 0;
 }
 
+.run-stat {
+    color: #4a6fa5;
+    font-weight: 600;
+    margin-top: 8px;
+}
+.run-stat + .run-stat {
+    color: #888;
+    font-weight: 500;
+    margin-top: 2px;
+}
+
 /* Buttons */
 .btn {
     display: inline-block;

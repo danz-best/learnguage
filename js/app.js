@@ -27,7 +27,6 @@ const hintText = document.getElementById('hint-text');
 const letterCount = document.getElementById('letter-count');
 const answerInput = document.getElementById('answer-input');
 const submitBtn = document.getElementById('submit-btn');
-const skipBtn = document.getElementById('skip-btn');
 const contextBtn = document.getElementById('context-btn');
 const feedback = document.getElementById('feedback');
 const contextModal = document.getElementById('context-modal');
@@ -189,7 +188,7 @@ function displayWord(word) {
 async function submitAnswer() {
     if (inputLocked) return;
     const answer = answerInput.value.trim();
-    if (!answer) return;
+    if (!answer) { skipWord(); return; }   // empty submit = skip = counts wrong
 
     inputLocked = true;  // soft lock; do NOT set readOnly (that dismisses the iOS keyboard)
 
@@ -223,7 +222,10 @@ function playSuccessSound() {
 function handleCorrect() {
     sessionStats.correct++;
     const appearances = sessionStats.wordAppearances[currentWord.id] || 0;
-    if (appearances === 1) sessionStats.firstAppearanceResults[currentWord.id] = 'correct';
+    if (appearances === 1) {
+        sessionStats.firstAppearanceResults[currentWord.id] = 'correct';
+        Engine.recordRunAttempt(SET_ID, currentWord.id, true);
+    }
     sessionStats.wordResults[currentWord.id] = 'correct';
     if (appearances >= 3 || appearances === 1) sessionStats.wordsCompleted.add(currentWord.id);
 
@@ -236,14 +238,15 @@ function handleClose(correctAnswer) { handleWrongAnswer(correctAnswer, true); }
 function handleWrong(correctAnswer) { handleWrongAnswer(correctAnswer, false); }
 
 function handleWrongAnswer(correctAnswer, isClose) {
-    const message = isClose
-        ? `Almost! Check spelling. Correct answer: ${correctAnswer}`
-        : `Incorrect. Correct answer: ${correctAnswer}`;
-    showFeedback(isClose ? 'close' : 'wrong', message);
+    // Red/yellow window shows only the correct translation (color already says wrong).
+    showFeedback(isClose ? 'close' : 'wrong', correctAnswer);
 
     const appearances = sessionStats.wordAppearances[currentWord.id] || 0;
     const isFirstAppearance = appearances === 1;
-    if (appearances === 1) sessionStats.firstAppearanceResults[currentWord.id] = 'wrong';
+    if (appearances === 1) {
+        sessionStats.firstAppearanceResults[currentWord.id] = 'wrong';
+        Engine.recordRunAttempt(SET_ID, currentWord.id, false);
+    }
     sessionStats.wordResults[currentWord.id] = 'wrong';
 
     if (appearances >= 3) {
@@ -272,10 +275,13 @@ async function skipWord() {
     inputLocked = true;
     try {
         const context = await Engine.getWordContext(SET_ID, currentWord.id);
-        showFeedback('wrong', `Skipped. Correct answer: ${context.english}`);
+        showFeedback('wrong', context.english);
 
         const appearances = sessionStats.wordAppearances[currentWord.id] || 0;
-        if (appearances === 1) sessionStats.firstAppearanceResults[currentWord.id] = 'wrong';
+        if (appearances === 1) {
+            sessionStats.firstAppearanceResults[currentWord.id] = 'wrong';
+            Engine.recordRunAttempt(SET_ID, currentWord.id, false);
+        }
         sessionStats.wordResults[currentWord.id] = 'wrong';
         if (!failedWords.includes(currentWord.id)) failedWords.push(currentWord.id);
 
@@ -409,14 +415,11 @@ window.showWordDetails = function(wordId, italian, pos, gender, english, example
 
 // Event listeners
 submitBtn.addEventListener('click', submitAnswer);
-skipBtn.addEventListener('click', skipWord);
 contextBtn.addEventListener('click', showContext);
 
-// Keep the text input focused (keyboard open) when Submit/Skip are tapped:
+// Keep the text input focused (keyboard open) when Submit is tapped:
 // preventing mousedown default stops the button from stealing focus.
-[submitBtn, skipBtn].forEach((btn) => {
-    btn.addEventListener('mousedown', (e) => e.preventDefault());
-});
+submitBtn.addEventListener('mousedown', (e) => e.preventDefault());
 
 answerInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' && !inputLocked) submitAnswer();
